@@ -1,4 +1,4 @@
-# 📊 Exchange Info AI Agent
+# 📊 Alpha-Harian-Crypto-Telegram-Bot
 
 A fully automated AI agent that:
 - Fetches the latest messages from multiple Telegram channels.
