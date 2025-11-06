@@ -42,25 +42,18 @@ async def main():
 
                 send_photo_to_telegram_channel(
                     image_path,
-                    translated,
-                    exchange_name=entry["exchange_name"],
-                    referral_link=entry["referral_link"]
+                    translated
                 )
 
                 os.remove(image_path)
             else:
                 send_telegram_message_html(
-                    translated_text=translated,
-                    exchange_name=entry["exchange_name"],
-                    referral_link=entry["referral_link"]
+                    translated_text=translated
                 )
 
             result_output.append({
-                "exchange_name": entry["exchange_name"],
                 "channel_link": entry["channel_link"],
                 "original_text": msg["text"],
-                "translated_text": translated,
-                "referral_link": entry["referral_link"],
                 "date": msg["date"]
             })
 
