@@ -5,6 +5,9 @@ def fetch_channels_from_google_sheet(sheet_id, api_key):
     response = requests.get(url)
     data = response.json()
     rows = data.get("values", [])
+    
+    print("[debug] rows returned:", len(rows))
+    print("[debug] first 3 rows:", rows[:3])
 
     header = rows[0]
     name_idx = header.index("Name")
