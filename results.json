@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-11-25T20:46:14.351630",
+    "timestamp": "2025-11-25T21:21:55.398272",
     "messages": [
         {
             "channel_link": "https://t.me/gemhunterslobby",
@@ -736,6 +736,14 @@
             "translated_text": "**Pusingan Dana**\u26a1\ufe0f **Alchemy**\n\n\ud83d\udcd1 **Info:**\nAlchemy ni platform untuk buat aplikasi web3.\n\n\ud83e\udd1d **Pelabur:** C1 Fund\n\n\ud83d\udc49 cryptorank.io/ico/alchemy-dev",
             "date": "2025-11-25 20:45:38+00:00",
             "message_id": 2751
+        },
+        {
+            "channel_link": "https://t.me/cryptorank_fundraising",
+            "channel_type": "Dana Kripto",
+            "original_text": "Paxos **has acquired **[FORDEFI](https://cryptorank.io/ico/fordefi) \u26a1\ufe0f\n\n\ud83d\udcd1 **About:**\n[Fordefi's ](https://cryptorank.io/ico/fordefi)MPC wallet platform and Web3 gateway enables institutions to seamlessly connect to dApps.\n\n\ud83e\udd1d **Acquired by:** [Paxos](https://cryptorank.io/funds/paxos) \n\n\ud83d\udc49 https://cryptorank.io/ico/fordefi",
+            "translated_text": "Paxos **dah beli** [FORDEFI](https://cryptorank.io/ico/fordefi) \u26a1\ufe0f\n\n\ud83d\udcd1 **Cerita pasal:**\nPlatform wallet MPC [Fordefi](https://cryptorank.io/ico/fordefi) dan Web3 gateway dia membolehkan institusi berhubung dengan dApps dengan mudah.\n\n\ud83e\udd1d **Dibeli oleh:** [Paxos](https://cryptorank.io/funds/paxos)\n\n\ud83d\udc49 https://cryptorank.io/ico/fordefi",
+            "date": "2025-11-25 20:48:44+00:00",
+            "message_id": 2752
         }
     ]
 }
