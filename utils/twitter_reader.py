@@ -6,30 +6,26 @@ from typing import Any, Dict, List
 def extract_channel_username(url_or_handle: str) -> str:
     """
     Accepts:
-      - "https://x.com/username"
-      - "https://twitter.com/username/"
-      - "@username"
-      - "username"
-    Returns: "username" (no @)
+      - https://x.com/username
+      - https://twitter.com/username/
+      - @username
+      - username
+    Returns: username (no @)
     """
     if not url_or_handle:
         return ""
 
     v = url_or_handle.strip()
 
-    # URL forms
     if "twitter.com/" in v:
         v = v.split("twitter.com/")[-1]
     if "x.com/" in v:
         v = v.split("x.com/")[-1]
 
     v = v.strip().strip("/")
-
-    # remove @
     if v.startswith("@"):
         v = v[1:]
 
-    # remove querystring
     if "?" in v:
         v = v.split("?", 1)[0]
 
@@ -48,12 +44,6 @@ def _walk(obj: Any):
 
 
 def _extract_media_urls(tweet_result: Dict[str, Any]) -> List[str]:
-    """
-    Photos often appear in:
-      legacy.entities.media[].media_url_https
-    and sometimes:
-      legacy.extended_entities.media[].media_url_https
-    """
     urls: List[str] = []
 
     legacy = tweet_result.get("legacy") or {}
@@ -84,9 +74,7 @@ def _extract_media_urls(tweet_result: Dict[str, Any]) -> List[str]:
 
 
 def _extract_text(tweet_result: Dict[str, Any]) -> str:
-    """
-    Prefer Note Tweet text if exists, else legacy.full_text.
-    """
+    # Prefer Note Tweets (long-form)
     note = tweet_result.get("note_tweet_results") or {}
     note_res = note.get("result") or {}
     note_text = note_res.get("text")
@@ -108,22 +96,10 @@ def _extract_rest_id(tweet_result: Dict[str, Any]) -> str:
         return str(rid)
 
     legacy = tweet_result.get("legacy") or {}
-    id_str = legacy.get("id_str")
-    return str(id_str or "")
+    return str(legacy.get("id_str") or "")
 
 
 def parse_tweets_from_timeline_json(data: Dict[str, Any], limit: int = 1) -> List[Dict[str, Any]]:
-    """
-    Returns list of messages shaped like your Telegram reader output, but for tweets:
-      {
-        "id": "...",
-        "text": "...",
-        "has_photo": bool,
-        "photos": [url,...],
-        "raw": {...},
-        "date": "..."
-      }
-    """
     results: List[Dict[str, Any]] = []
 
     for node in _walk(data):
@@ -138,7 +114,6 @@ def parse_tweets_from_timeline_json(data: Dict[str, Any], limit: int = 1) -> Lis
         if not isinstance(tweet, dict):
             continue
 
-        # skip non-tweet types (tombstone, unavailable, etc.)
         if tweet.get("__typename") != "Tweet":
             continue
 
@@ -150,12 +125,12 @@ def parse_tweets_from_timeline_json(data: Dict[str, Any], limit: int = 1) -> Lis
                 "id": _extract_rest_id(tweet),
                 "text": text or "",
                 "has_photo": len(photos) > 0,
-                "photos": photos,   # list of photo URLs
-                "raw": tweet,       # raw tweet object
+                "photos": photos,  # list[str]
+                "raw": tweet,      # raw tweet object (smaller than full response)
                 "date": _extract_created_at(tweet),
             })
 
-    # De-dup by id
+    # De-dup by id, keep first occurrence
     seen = set()
     deduped = []
     for t in results:
@@ -167,23 +142,20 @@ def parse_tweets_from_timeline_json(data: Dict[str, Any], limit: int = 1) -> Lis
     return deduped[: max(1, limit)]
 
 
-def fetch_latest_tweets_from_api(username_or_url: str, limit: int = 1) -> List[Dict[str, Any]]:
+def fetch_latest_messages(channel_username: str, limit: int = 5) -> List[Dict[str, Any]]:
     """
-    Uses env vars:
-      - RAPIDAPI_KEY
-      - RAPIDAPI_HOST
-      - TWITTER_API_URL
+    Twitter reader public API:
+    - channel_username can be @handle, handle, or profile URL.
+    - limit = number of tweets to fetch.
     """
     rapidapi_key = os.getenv("RAPIDAPI_KEY", "").strip()
     rapidapi_host = os.getenv("RAPIDAPI_HOST", "").strip()
     api_url = os.getenv("TWITTER_API_URL", "").strip()
 
     if not rapidapi_key or not rapidapi_host or not api_url:
-        raise RuntimeError(
-            "Missing required env vars. Please set RAPIDAPI_KEY, RAPIDAPI_HOST, and TWITTER_API_URL."
-        )
+        raise RuntimeError("Missing env vars: RAPIDAPI_KEY, RAPIDAPI_HOST, TWITTER_API_URL")
 
-    username = extract_channel_username(username_or_url)
+    username = extract_channel_username(channel_username)
     if not username:
         return []
 
@@ -192,28 +164,14 @@ def fetch_latest_tweets_from_api(username_or_url: str, limit: int = 1) -> List[D
         "X-RapidAPI-Host": rapidapi_host,
     }
 
-    # IMPORTANT: adjust these params if your endpoint uses different ones.
-    # Common patterns: {"username": username, "count": limit} or {"screenname": username, "limit": limit}
+    # IMPORTANT: matches your RapidAPI spec
     params = {
         "username": username,
-        "count": limit,
+        "limit": limit,
     }
 
-    resp = requests.get(api_url, headers=headers, params=params, timeout=30)
+    resp = requests.get(api_url, headers=headers, params=params, timeout=3030)
     resp.raise_for_status()
     data = resp.json()
 
     return parse_tweets_from_timeline_json(data, limit=limit)
-
-
-# ✅ Compatibility-style function name (so your main pipeline can stay similar)
-async def fetch_latest_messages(api_id, api_hash, channel_username, limit=1):
-    """
-    COMPAT MODE:
-    - Your old Telegram reader signature was (api_id, api_hash, channel_username, limit)
-    - For Twitter, api_id/api_hash are not used.
-    - channel_username is your twitter handle/url from Google Sheet.
-    """
-    # This is sync requests, but kept async signature for compatibility with your existing async pipeline.
-    # If your main code awaits this, it still works.
-    return fetch_latest_tweets_from_api(channel_username, limit=limit)
