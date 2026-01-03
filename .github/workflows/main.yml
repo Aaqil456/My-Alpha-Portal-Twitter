@@ -1,9 +1,9 @@
-name: Run Telegram AI Agent Securely
+name: Run Twitter-to-Telegram AI Agent Securely
 
 on:
   workflow_dispatch:
   #schedule:
-     #- cron: "*/15 * * * *"  # Runs every 15 minutes
+  #  - cron: "*/15 * * * *"  # Runs every 15 minutes
 
 permissions:
   contents: write
@@ -25,37 +25,34 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Decode Telegram Session Secret
-        env:
-          TELEGRAM_SESSION_B64: ${{ secrets.TELEGRAM_SESSION_B64 }}
-        run: |
-          echo "${TELEGRAM_SESSION_B64}" | base64 -d > telegram_session.session
-          echo "✅ Telegram session restored!"
-
       - name: Verify Secrets
         env:
-          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
           GOOGLE_SHEET_API_KEY: ${{ secrets.GOOGLE_SHEET_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          RAPIDAPI_HOST: ${{ secrets.RAPIDAPI_HOST }}
+          TWITTER_API_URL: ${{ secrets.TWITTER_API_URL }}
         run: |
-          if [ -z "${TELEGRAM_API_ID}" ] || [ -z "${TELEGRAM_API_HASH}" ] || [ -z "${TELEGRAM_BOT_TOKEN}" ] || [ -z "${GOOGLE_SHEET_ID}" ] || [ -z "${GOOGLE_SHEET_API_KEY}" ] || [ -z "${GEMINI_API_KEY}" ]; then
+          if [ -z "${TELEGRAM_BOT_TOKEN}" ] || [ -z "${TELEGRAM_CHAT_ID}" ] || [ -z "${GOOGLE_SHEET_ID}" ] || [ -z "${GOOGLE_SHEET_API_KEY}" ] || [ -z "${GEMINI_API_KEY}" ] || [ -z "${RAPIDAPI_KEY}" ] || [ -z "${RAPIDAPI_HOST}" ] || [ -z "${TWITTER_API_URL}" ]; then
             echo "❌ One or more required secrets are missing!"
             exit 1
           fi
+          echo "✅ All required secrets are present."
 
-      - name: Run Telegram AI Agent
+      - name: Run Twitter AI Agent
         env:
-          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
-          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
           GOOGLE_SHEET_API_KEY: ${{ secrets.GOOGLE_SHEET_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          RAPIDAPI_HOST: ${{ secrets.RAPIDAPI_HOST }}
+          TWITTER_API_URL: ${{ secrets.TWITTER_API_URL }}
+          TWITTER_FETCH_LIMIT: "1"
         run: |
           export PYTHONPATH=$PWD
           python exchange_info_ai_agent.py
@@ -72,8 +69,3 @@ jobs:
           git status
           git diff --cached --quiet || git commit -m "Update results.json"
           git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git main
-
-      - name: Cleanup session file
-        run: |
-          rm -f telegram_session.session
-          echo "✅ Telegram session file removed for security."
