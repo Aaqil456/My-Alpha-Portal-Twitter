@@ -19,7 +19,7 @@ CAPTION_SPLIT_LIMIT = CAPTION_LIMIT - 50   # safe budget for caption chunk
 # -------------------- Gemini config --------------------
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-2.0-flash")
+GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-2.5-flash")
 
 if GEMINI_API_KEY:
     genai.configure(api_key=GEMINI_API_KEY)
