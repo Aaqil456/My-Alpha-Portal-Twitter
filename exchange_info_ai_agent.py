@@ -31,7 +31,7 @@ async def main():
     google_sheet_api_key = os.environ["GOOGLE_SHEET_API_KEY"]
 
     # Optional: set default fetch size per account via env, fallback 1
-    twitter_fetch_limit = int(os.getenv("TWITTER_FETCH_LIMIT", "1"))
+    twitter_fetch_limit = int(os.getenv("TWITTER_FETCH_LIMIT", "5"))
 
     # Already-posted texts (to avoid duplicates)
     posted_messages = load_posted_messages()
