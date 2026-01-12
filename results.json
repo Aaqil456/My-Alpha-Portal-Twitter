@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-12T08:37:40.382167",
+    "timestamp": "2026-01-12T16:31:58.044667",
     "messages": [
         {
             "source": "twitter",
@@ -38,6 +38,19 @@
             "message_id": "2010570392562475105",
             "photos": [
                 "https://pbs.twimg.com/media/G-b7Herb0AASWv0.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc80What's wrong. - 20% now https://t.co/tYBXYB2FIU",
+            "translated_text": "\ud83d\udc80Kenapa ni? - Turun 20% sekarang https://t.co/tYBXYB2FIU",
+            "date": "Mon Jan 12 14:21:41 +0000 2026",
+            "message_id": "2010718831371837623",
+            "photos": [
+                "https://pbs.twimg.com/media/G-eCHlJa0AAY3tp.jpg"
             ]
         }
     ]
