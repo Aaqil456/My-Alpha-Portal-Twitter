@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-12T16:31:58.044667",
+    "timestamp": "2026-01-13T08:36:12.754166",
     "messages": [
         {
             "source": "twitter",
@@ -52,6 +52,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/G-eCHlJa0AAY3tp.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude05Many think $LIT is falling because I'm holding it\n\n\ud83d\ude01Just to test I sold 150 $LIT\n\ud83e\udee0It bounced back to $2+\n\n\ud83d\udc80Decided to save $LIT from collapse\n\n\ud83e\udd14So shall I sell my $LIT? Let me know\ud83d\udc47",
+            "translated_text": "\ud83d\ude05Ramai yang fikir $LIT jatuh sebab saya pegang.\n\ud83d\ude01Saja nak test, saya jual 150 $LIT.\n\ud83e\udee0Dia melantun balik ke $2+.\n\ud83d\udc80Saya decide nak selamatkan $LIT daripada runtuh.\n\ud83e\udd14Jadi, patut ke saya jual $LIT saya? Bagitahu saya \ud83d\udc47",
+            "date": "Tue Jan 13 03:37:38 +0000 2026",
+            "message_id": "2010919139347743177",
+            "photos": []
         }
     ]
 }
