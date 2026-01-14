@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-14T02:03:10.270437",
+    "timestamp": "2026-01-14T16:36:04.202852",
     "messages": [
         {
             "source": "twitter",
@@ -88,6 +88,19 @@
             "message_id": "2011241390198702208",
             "photos": [
                 "https://pbs.twimg.com/media/G-ldYUHa0AAv2tI.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82@HeyElsaAI Airdrop registration live\n\n\ud83d\udd17https://t.co/vwUn9ER1V3\n\u2705Connect wallet\n\u2705Go to \"Register\" tab\n\u2705Enter Wallet Address\n\u2705Sign msg\n\n\ud83d\udca5Done\n\n\ud83d\udc40Looks like $ELSA Airdrop will be soon\n\ud83e\udd14By end of January\n\ud83e\udef5What do u think? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/nDB2dahqnu",
+            "translated_text": "\ud83e\ude82Pendaftaran Airdrop @HeyElsaAI dah live!\n\ud83d\udd17https://t.co/vwUn9ER1V3\n\u2705Sambung wallet\n\u2705Pergi ke tab \"Register\"\n\u2705Masukkan Alamat Wallet\n\u2705Sign mesej\n\n\ud83d\udca5Siap!\n\n\ud83d\udc40Nampak gayanya Airdrop $ELSA akan tiba tak lama lagi\n\ud83e\udd14Menjelang hujung Januari\n\ud83e\udef5Korang rasa macam mana? Bagitahu saya!\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/nDB2dahqnu",
+            "date": "Wed Jan 14 15:56:03 +0000 2026",
+            "message_id": "2011467356107903315",
+            "photos": [
+                "https://pbs.twimg.com/media/G-oq5dla0AAL7rz.jpg"
             ]
         }
     ]
