@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-14T16:36:04.202852",
+    "timestamp": "2026-01-15T01:58:08.265993",
     "messages": [
         {
             "source": "twitter",
@@ -101,6 +101,19 @@
             "message_id": "2011467356107903315",
             "photos": [
                 "https://pbs.twimg.com/media/G-oq5dla0AAL7rz.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @Lighter_xyz staking is live\n\n\ud83e\ude9921M $LIT staked in 1hr\n\n\ud83d\udc47Staking benefits\n\u2733\ufe0fYield\n\u2733\ufe0fAccess to LLP (1 $LIT staked = 10 USDC deposit) \n\u2733\ufe0f100 $LIT staked = free withdrawals &amp; transfers\n\n\ud83e\udd14No much price impact\n\n\ud83d\udcb5Staking APR will be revealed soon\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/zfCLYbpChv",
+            "translated_text": "\ud83d\udca5 Staking @Lighter_xyz dah bermula.\n\n\ud83e\ude99 21 juta $LIT dah distake dalam 1 jam.\n\n\ud83d\udc47 Faedah staking:\n\u2733\ufe0f Pulangan\n\u2733\ufe0f Akses kepada LLP (1 $LIT yang distake = deposit 10 USDC)\n\u2733\ufe0f 100 $LIT yang distake = pengeluaran & pemindahan percuma\n\n\ud83e\udd14 Harga tak banyak berubah.\n\n\ud83d\udcb5 APR staking akan diberitahu tak lama lagi.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/zfCLYbpChv",
+            "date": "Thu Jan 15 01:32:08 +0000 2026",
+            "message_id": "2011612330493366565",
+            "photos": [
+                "https://pbs.twimg.com/media/G-quv_1bQAcDVmx.jpg"
             ]
         }
     ]
