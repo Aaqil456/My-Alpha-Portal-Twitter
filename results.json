@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-15T08:36:16.047154",
+    "timestamp": "2026-01-15T16:39:29.707482",
     "messages": [
         {
             "source": "twitter",
@@ -127,6 +127,19 @@
             "message_id": "2011666175458267642",
             "photos": [
                 "https://pbs.twimg.com/media/G-rfucTbQAMtOiI.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc9 @KaitoAI token REKT after infoFi ban\n\n\ud83e\udd23 @wallchain is not even having a token yet (NFT REKT) \n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/hiAuG5wij8",
+            "translated_text": "\ud83d\udcc9 Token @KaitoAI jatuh teruk lepas infoFi kena ban\n\n\ud83e\udd23 @wallchain belum ada token pun lagi (NFT dia pun dah jatuh teruk)\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/hiAuG5wij8",
+            "date": "Thu Jan 15 16:26:12 +0000 2026",
+            "message_id": "2011837329766563939",
+            "photos": [
+                "https://pbs.twimg.com/media/G-t7YncaMAA9Oto.jpg"
             ]
         }
     ]
