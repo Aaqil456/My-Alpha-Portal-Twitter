@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-15T01:58:08.265993",
+    "timestamp": "2026-01-15T08:36:16.047154",
     "messages": [
         {
             "source": "twitter",
@@ -114,6 +114,19 @@
             "message_id": "2011612330493366565",
             "photos": [
                 "https://pbs.twimg.com/media/G-quv_1bQAcDVmx.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc9 $LIT another 15% down\n\n\ud83d\ude05If u think it is dumping because I'm holding, then u r wrong\n\u2705Sold portion of my allocation yesterday, Insted of pumping, it keeps going down\n\n\ud83d\ude01So it is not dumping because I'm holding\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/PrvKVlEFn4",
+            "translated_text": "\ud83d\udcc9 $LIT turun lagi 15%\n\n\ud83d\ude05Kalau awak rasa harga dia tengah jatuh teruk sebab saya pegang, awak silap.\n\u2705Dah jual sebahagian daripada pegangan saya semalam, sepatutnya naik, tapi dia terus turun.\n\n\ud83d\ude01Jadi, bukanlah dia jatuh teruk sebab saya pegang.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/PrvKVlEFn4",
+            "date": "Thu Jan 15 05:06:05 +0000 2026",
+            "message_id": "2011666175458267642",
+            "photos": [
+                "https://pbs.twimg.com/media/G-rfucTbQAMtOiI.jpg"
             ]
         }
     ]
