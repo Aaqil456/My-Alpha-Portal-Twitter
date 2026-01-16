@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-16T08:35:05.531023",
+    "timestamp": "2026-01-16T16:34:25.489747",
     "messages": [
         {
             "source": "twitter",
@@ -154,6 +154,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/G-wjigKbAAA5-e0.jpg",
                 "https://pbs.twimg.com/media/G-wjihAaMAA_vC0.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @HeyElsaAI TGE expected 18 January\n\n\ud83d\udc47Explanation\n\ud83d\udcc614 Jan \u2192 60%\n\ud83d\udcc616 Jan \u2192 80%\n\n\ud83d\udcc820% in 2 days = 10% per day\n\n\ud83e\udd14So Remaining 20% in 2 more days\n\u2705100% on: 18 Jan\n\n\ud83e\udd14Agreed, What do u think? Let me know?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/vmp4gYQ3mL",
+            "translated_text": "\ud83d\udca5 @HeyElsaAI TGE dijangka pada 18 Januari\n\n\ud83d\udc47Penjelasan\n\ud83d\udcc614 Jan \u2192 60%\n\ud83d\udcc616 Jan \u2192 80%\n\n\ud83d\udcc820% dalam 2 hari = 10% sehari\n\n\ud83e\udd14Jadi, baki 20% lagi dalam 2 hari\n\u2705100% pada: 18 Jan\n\n\ud83e\udd14Setuju? Apa pendapat awak? Beritahu saya.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/vmp4gYQ3mL",
+            "date": "Fri Jan 16 09:22:12 +0000 2026",
+            "message_id": "2012093013934440683",
+            "photos": [
+                "https://pbs.twimg.com/media/G-xj7gza4AATfTz.jpg"
             ]
         }
     ]
