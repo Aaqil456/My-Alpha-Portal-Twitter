@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-17T08:30:55.245697",
+    "timestamp": "2026-01-17T16:27:49.170821",
     "messages": [
         {
             "source": "twitter",
@@ -179,6 +179,19 @@
             "date": "Sat Jan 17 06:06:40 +0000 2026",
             "message_id": "2012406195030474883",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd23Classic Binance Alpha effect on @SentientAGI\n\n\u2620\ufe0f $SENT on Binance Alpha Sale\n\ud83d\udcc6TGE - 19 Jan\n\n\ud83d\udcc9Instant Pre-Market price crash of 10%\n\n\ud83e\ude99As per tokenomics TGE Airdrop - 13%\n\ud83e\udd23Now 8% will go to Binance\n\ud83d\udc65Community may be 5% or less\n\n\ud83e\udd14Wt do u think? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/HtQJfny2tv",
+            "translated_text": "\ud83e\udd23Kesan biasa Binance Alpha pada @SentientAGI\n\n\u2620\ufe0f $SENT dalam Jualan Alpha Binance\n\ud83d\udcc6TGE - 19 Jan\n\n\ud83d\udcc9Harga pra-pasaran terus jatuh 10%\n\n\ud83e\ude99Mengikut tokenomics, Airdrop TGE - 13%\n\ud83e\udd23Sekarang 8% akan pergi ke Binance\n\ud83d\udc65Komuniti mungkin dapat 5% atau kurang\n\n\ud83e\udd14Apa pendapat anda? Beritahu saya.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/HtQJfny2tv",
+            "date": "Sat Jan 17 16:10:11 +0000 2026",
+            "message_id": "2012558074423234942",
+            "photos": [
+                "https://pbs.twimg.com/media/G-4K5PwWYAAmKrS.jpg"
+            ]
         }
     ]
 }
