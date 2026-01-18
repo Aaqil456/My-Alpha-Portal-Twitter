@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-17T16:27:49.170821",
+    "timestamp": "2026-01-18T08:31:21.472597",
     "messages": [
         {
             "source": "twitter",
@@ -191,6 +191,19 @@
             "message_id": "2012558074423234942",
             "photos": [
                 "https://pbs.twimg.com/media/G-4K5PwWYAAmKrS.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @variational_io Points &amp; Airdrop\n\n\ud83d\udcb0Funding - $11.8M\n\ud83d\udcb5Need capital to join\n\n\ud83e\ude99Total points distributed so far ~3.75M\n\ud83e\ude99Weekly 150K points distributed\n\ud83d\udcc6Every Friday\n\n\ud83d\udc47Special features\n\ud83c\udf1fNo trading fee\n\ud83c\udf1fLoss refund - u get back portion of your loss based on https://t.co/nHKOpDHxhw",
+            "translated_text": "\ud83d\udca5Panduan ringkas tentang @variational_io Points &amp; Airdrop\n\n\ud83d\udcb0Dana - $11.8M\n\ud83d\udcb5Perlukan modal untuk sertai\n\n\ud83e\ude99Jumlah points yang dah diedarkan setakat ni ~3.75M\n\ud83e\ude99Setiap minggu 150K points diedarkan\n\ud83d\udcc6Setiap hari Jumaat\n\n\ud83d\udc47Ciri-ciri istimewa\n\ud83c\udf1fTiada yuran dagangan\n\ud83c\udf1fPulangan kerugian - anda dapat balik sebahagian dari kerugian anda berdasarkan https://t.co/nHKOpDHxhw",
+            "date": "Sun Jan 18 04:31:39 +0000 2026",
+            "message_id": "2012744671240622084",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2012744581721317376/pu/img/R9kPWoj76LiOITtu.jpg"
             ]
         }
     ]
