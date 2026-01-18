@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-18T08:31:21.472597",
+    "timestamp": "2026-01-18T16:29:03.491116",
     "messages": [
         {
             "source": "twitter",
@@ -204,6 +204,19 @@
             "message_id": "2012744671240622084",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2012744581721317376/pu/img/R9kPWoj76LiOITtu.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc80 @binance Effect continues on @SentientAGI\n\n\ud83d\udcc9 $SENT down another 28%\n\ud83e\udee0What is going on\n\n\ud83d\udc40Projects should stop giving tokens to Binance Alpha\n\ud83e\udd14Agreed?\n\n\ud83e\ude99Total supply - 34.35B\n\ud83d\udcb5 $SENT = $0.023\n\ud83d\udcb0FDV - $790M\n\ud83e\udd37Pre-Market listing at $2.5B FDV\n\ud83d\udd3470% down\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/fnnWVxRDfk",
+            "translated_text": "\ud83d\udc80 Kesan @binance masih berterusan pada @SentientAGI\n\n\ud83d\udcc9 $SENT turun lagi 28%\n\ud83e\udee0 Apa yang sedang berlaku ni?\n\n\ud83d\udc40 Projek-projek patut berhenti bagi token kepada Binance Alpha\n\ud83e\udd14 Setuju tak?\n\n\ud83e\ude99 Jumlah bekalan - 34.35B\n\ud83d\udcb5 $SENT = $0.023\n\ud83d\udcb0 FDV - $790M\n\ud83e\udd37 Listing Pra-Pasaran pada FDV $2.5B\n\ud83d\udd34 Turun 70%\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/fnnWVxRDfk",
+            "date": "Sun Jan 18 15:42:27 +0000 2026",
+            "message_id": "2012913485018014200",
+            "photos": [
+                "https://pbs.twimg.com/media/G-9OJHcWoAA_WBO.jpg"
             ]
         }
     ]
