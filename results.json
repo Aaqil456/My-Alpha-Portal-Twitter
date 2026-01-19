@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-19T02:05:02.154917",
+    "timestamp": "2026-01-19T08:38:16.441254",
     "messages": [
         {
             "source": "twitter",
@@ -230,6 +230,19 @@
             "message_id": "2013057484550979643",
             "photos": [
                 "https://pbs.twimg.com/media/G-_RG2xWsAA8-Jl.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @JoinFightID Airdrop\n\n\ud83d\udcafConfirmed Airdrop\n\ud83d\udcafFREE\n\n\ud83c\udd95Fight is a licensed Web3 ecosystem that turns combat-sports fandom into ownership\n\ud83e\udd1dofficial partner of @ufc\n\n\ud83e\ude99 $FIGHT on @solana\n\ud83e\ude99Total supply - 10B\n\ud83e\ude99TGE supply - 2.05B\n\ud83e\ude99TGE Community supply- 1.55B https://t.co/YYfV4cI6yZ",
+            "translated_text": "\ud83d\udca5Panduan ringkas tentang Airdrop @JoinFightID\n\n\ud83d\udcafAirdrop memang sah\n\ud83d\udcafPercuma je\n\n\ud83c\udd95Fight adalah ekosistem Web3 berlesen yang menukar minat peminat sukan tempur kepada pemilikan.\n\ud83e\udd1dRakan kongsi rasmi @ufc\n\n\ud83e\ude99 $FIGHT di @solana\n\ud83e\ude99Jumlah bekalan - 10 bilion\n\ud83e\ude99Bekalan TGE - 2.05 bilion\n\ud83e\ude99Bekalan Komuniti TGE - 1.55 bilion https://t.co/YYfV4cI6yZ",
+            "date": "Mon Jan 19 08:37:45 +0000 2026",
+            "message_id": "2013168991947395566",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2013168566397292544/pu/img/5LhLAvDAFifSBJK8.jpg"
             ]
         }
     ]
