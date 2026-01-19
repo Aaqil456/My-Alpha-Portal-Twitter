@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-19T08:38:16.441254",
+    "timestamp": "2026-01-19T16:34:55.336720",
     "messages": [
         {
             "source": "twitter",
@@ -243,6 +243,19 @@
             "message_id": "2013168991947395566",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2013168566397292544/pu/img/5LhLAvDAFifSBJK8.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Simple guide on @Basedappcom Press Pass &amp; Bananas\n\n\ud83d\udcb0Funding - undisclosed\n\ud83d\udcafFREE\n\n\ud83c\udd95Based: Measuring Public Opinion Through Markets\n\ud83c\udf9f\ufe0fTheir press pass is live\n\n\ud83d\udc47Steps\n\ud83d\udd17https://t.co/PAdy5k6yKx\n\u2705Login with X\n\u2705Follow @Basedappcom\n\u2705Select any department\n\u2705Select title https://t.co/SVGREAN7UP",
+            "translated_text": "\ud83d\udca5 Panduan ringkas tentang @Basedappcom Press Pass & Bananas\n\n\ud83d\udcb0 Dana - tidak didedahkan\n\ud83d\udcaf PERCUMA\n\n\ud83c\udd95 Based: Mengukur Pendapat Awam Melalui Pasaran\n\ud83c\udf9f\ufe0f Press pass mereka dah aktif\n\n\ud83d\udc47 Langkah-langkah\n\ud83d\udd17 https://t.co/PAdy5k6yKx\n\u2705 Log masuk guna X\n\u2705 Follow @Basedappcom\n\u2705 Pilih mana-mana jabatan\n\u2705 Pilih tajuk https://t.co/SVGREAN7UP",
+            "date": "Mon Jan 19 13:55:23 +0000 2026",
+            "message_id": "2013248927584448584",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2013248727637479424/pu/img/zNzqvaA8PNlp08Xt.jpg"
             ]
         }
     ]
