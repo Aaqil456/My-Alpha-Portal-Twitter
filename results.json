@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-20T01:59:56.222204",
+    "timestamp": "2026-01-20T08:37:52.640147",
     "messages": [
         {
             "source": "twitter",
@@ -269,6 +269,19 @@
             "message_id": "2013418888025841771",
             "photos": [
                 "https://pbs.twimg.com/media/G_EZzbsbgAAf-sH.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udd90\ufe0fFive major events happening this week\n\n\ud83d\udcc6 @HeyElsaAI TGE - 20 Jan\n\ud83d\udcc6 @ETHGasOfficial TGE - 21 Jan\n\ud83d\udcc6 @zama Public Auction - 21 Jan\n\ud83d\udcc6 @SentientAGI TGE - 22 Jan\n\ud83d\udcc6 @JoinFightID S5 Ends - 25 Jan\n\n\ud83e\udd14Did I miss something? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/AIrVyAegxA",
+            "translated_text": "\ud83d\udd90\ufe0fLima acara utama minggu ini\n\n\ud83d\udcc6 @HeyElsaAI TGE - 20 Jan\n\ud83d\udcc6 @ETHGasOfficial TGE - 21 Jan\n\ud83d\udcc6 @zama Lelongan Awam - 21 Jan\n\ud83d\udcc6 @SentientAGI TGE - 22 Jan\n\ud83d\udcc6 @JoinFightID S5 Tamat - 25 Jan\n\n\ud83e\udd14Ada yang saya tertinggal? Beritahu saya.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/AIrVyAegxA",
+            "date": "Tue Jan 20 05:29:10 +0000 2026",
+            "message_id": "2013483924282905080",
+            "photos": [
+                "https://pbs.twimg.com/media/G_FU88FWEAAf77F.jpg"
             ]
         }
     ]
