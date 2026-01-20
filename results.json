@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-19T16:34:55.336720",
+    "timestamp": "2026-01-20T01:59:56.222204",
     "messages": [
         {
             "source": "twitter",
@@ -256,6 +256,19 @@
             "message_id": "2013248927584448584",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2013248727637479424/pu/img/zNzqvaA8PNlp08Xt.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f @TroveMarkets soft rug\n\n\ud83d\udcb0Raised - $2.5M\n\ud83d\udcc8At $20M FDV\n\n\ud83d\udea9Do ICO with Only Testnet\n\ud83d\udea9Extend ICO date to manipulate prediction market\n\ud83d\udea9Cancel extention\n\ud83d\udea9Postponed TGE\n\ud83d\udea9Migrate from Hype to Solana\n\n\ud83d\udcc9List at $1M FDV\n\ud83d\udcb5With $60K liquidity\n\n\ud83e\udd14Did u join by mistake?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/araAUlelmZ",
+            "translated_text": "\u2620\ufe0f @TroveMarkets kena 'soft rug'\n\n\ud83d\udcb0Dapat kumpul: $2.5 juta\n\ud83d\udcc8Pada $20 juta FDV\n\n\ud83d\udea9Buat ICO guna Testnet saja\n\ud83d\udea9Lanjutkan tarikh ICO untuk manipulasi pasaran ramalan\n\ud83d\udea9Batalkan lanjutan\n\ud83d\udea9Tangguhkan TGE\n\ud83d\udea9Berpindah dari Hype ke Solana\n\n\ud83d\udcc9Disenaraikan pada $1 juta FDV\n\ud83d\udcb5Dengan kecairan $60 ribu\n\n\ud83e\udd14Anda tersilap join ke?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/araAUlelmZ",
+            "date": "Tue Jan 20 01:10:45 +0000 2026",
+            "message_id": "2013418888025841771",
+            "photos": [
+                "https://pbs.twimg.com/media/G_EZzbsbgAAf-sH.jpg"
             ]
         }
     ]
