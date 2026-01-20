@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-20T08:37:52.640147",
+    "timestamp": "2026-01-20T16:40:05.643292",
     "messages": [
         {
             "source": "twitter",
@@ -283,6 +283,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/G_FU88FWEAAf77F.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82I'm eligible for 28000 $ELSA which is worth ~$3300\n\n\ud83e\udd37Not sure if it includes points &amp; wallchain\n\ud83d\ude01As promised earlier, I'm planning to giveaway portion of it\n\n\ud83d\udc47Let me know how much should I giveaway\n\u2705Will try to get list of my refs from team &amp; do giveaway\n\n\ud83d\udc99Like\n\ud83d\udd01RT",
+            "translated_text": "\ud83e\ude82Saya layak dapat 28000 $ELSA yang bernilai lebih kurang $3300\n\n\ud83e\udd37Tak pasti kalau ini termasuk points & wallchain\n\ud83d\ude01Macam yang dijanjikan sebelum ni, saya bercadang nak bagi sebahagian daripadanya\n\n\ud83d\udc47Bagitahu saya berapa banyak patut saya bagi\n\u2705Akan cuba dapatkan senarai sumber saya dari team & buat giveaway\n\n\ud83d\udc99Like\n\ud83d\udd01RT",
+            "date": "Tue Jan 20 16:07:43 +0000 2026",
+            "message_id": "2013644619695956330",
+            "photos": []
         }
     ]
 }
