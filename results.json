@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-20T16:40:05.643292",
+    "timestamp": "2026-01-21T08:37:10.166942",
     "messages": [
         {
             "source": "twitter",
@@ -294,6 +294,19 @@
             "date": "Tue Jan 20 16:07:43 +0000 2026",
             "message_id": "2013644619695956330",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @MezoNetwork Statement &amp; mats\n\n\ud83d\udcb0Funding - $28M\n\ud83d\udcafFREE\n\n\ud83d\udc47Steps\n\ud83d\udd17https://t.co/W2KnNyF3qZ\n\u2705Connect X\n\u2705Connect Bitcoin &amp; EVM wallet\n\u2705Complete social task and earn mats\n\n\ud83d\udca5Done\n\n\ud83e\ude82Also Mezo Airdrop registration is live\n\ud83d\udd17https://t.co/YkBl8gpUAR\n\u2705Sign up for https://t.co/ZUybMXPZBl",
+            "translated_text": "\ud83d\udca5Panduan ringkas tentang @MezoNetwork Statement & mats\n\n\ud83d\udcb0Dana - $28 Juta\n\ud83d\udcafPERCUMA\n\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17https://t.co/W2KnNyF3qZ\n\u2705Sambungkan X\n\u2705Sambungkan dompet Bitcoin & EVM\n\u2705Selesaikan tugasan sosial dan dapatkan mats\n\n\ud83d\udca5Selesai\n\n\ud83e\ude82Juga, pendaftaran Mezo Airdrop sudah dibuka\n\ud83d\udd17https://t.co/YkBl8gpUAR\n\u2705Daftar di https://t.co/ZUybMXPZBl",
+            "date": "Wed Jan 21 04:33:54 +0000 2026",
+            "message_id": "2013832403081703782",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2013832317421395969/pu/img/7paX3J1sOaA_2k5x.jpg"
+            ]
         }
     ]
 }
