@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-21T08:37:10.166942",
+    "timestamp": "2026-01-21T16:56:38.459028",
     "messages": [
         {
             "source": "twitter",
@@ -306,6 +306,19 @@
             "message_id": "2013832403081703782",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2013832317421395969/pu/img/7paX3J1sOaA_2k5x.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82 @ETHGasOfficial Airdrop claim is live\n\n\ud83d\udd17https://t.co/2Cv9OUhjDe\n\ud83d\udcf8Claim &amp; post your screenshot\n\n\ud83d\udcb5 $GEWI =$0. 023\n\ud83d\udcc8FDV - $234M\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/iOStwINloK",
+            "translated_text": "\ud83e\ude82 Tuntutan airdrop @ETHGasOfficial dah boleh buat.\n\n\ud83d\udd17https://t.co/2Cv9OUhjDe\n\ud83d\udcf8 Tuntut &amp; kongsi screenshot anda.\n\n\ud83d\udcb5 $GEWI =$0. 023\n\ud83d\udcc8FDV - $234M\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/iOStwINloK",
+            "date": "Wed Jan 21 14:25:12 +0000 2026",
+            "message_id": "2013981208510931131",
+            "photos": [
+                "https://pbs.twimg.com/media/G_MZOptXEAAEC1W.jpg"
             ]
         }
     ]
