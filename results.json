@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-23T01:59:20.578935",
+    "timestamp": "2026-01-23T08:35:28.828934",
     "messages": [
         {
             "source": "twitter",
@@ -345,6 +345,20 @@
             "message_id": "2014510389036515446",
             "photos": [
                 "https://pbs.twimg.com/media/G_T6hfxbQAAvZEu.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @Lighter_xyz stats 23 days after TGE\n\n\ud83d\udde3\ufe0fMany said no one will use @Lighter_xyz after TGE\n\ud83d\udde3\ufe0fFew told revenue dropped to $8K &amp; soon zero\n\n\ud83d\udc47Here r the real facts\n\ud83c\udfc5Still the 3rd largest dex in volume\n\ud83c\udfc524hr recenue $168K\n\ud83d\udcb0TVL - $1B\n\n\ud83e\ude99Total buyback - 2.09M $LIT\n\ud83d\ude33That's 0.2% of https://t.co/HFQoHqKKAZ",
+            "translated_text": "\ud83d\udca5 Statistik @Lighter_xyz 23 hari selepas TGE\n\n\ud83d\udde3\ufe0f Ramai yang cakap tiada siapa akan guna @Lighter_xyz selepas TGE\n\ud83d\udde3\ufe0f Ada juga yang cakap pendapatan jatuh ke $8K dan tak lama lagi jadi kosong\n\n\ud83d\udc47 Ini dia fakta sebenar\n\ud83c\udfc5 Masih lagi dex ketiga terbesar dari segi volum\n\ud83c\udfc5 Pendapatan 24 jam $168K\n\ud83d\udcb0 TVL - $1B\n\n\ud83e\ude99 Jumlah belian balik - 2.09M $LIT\n\ud83d\ude33 Itu 0.2% daripada https://t.co/HFQoHqKKAZ",
+            "date": "Fri Jan 23 04:44:42 +0000 2026",
+            "message_id": "2014559896323461324",
+            "photos": [
+                "https://pbs.twimg.com/media/G_Uni5CWgAA8ySE.jpg",
+                "https://pbs.twimg.com/media/G_Uni5DWEAArC51.jpg"
             ]
         }
     ]
