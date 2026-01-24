@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-24T01:56:11.530543",
+    "timestamp": "2026-01-24T08:31:29.705702",
     "messages": [
         {
             "source": "twitter",
@@ -386,6 +386,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/G_Y_32BbAAIYra_.jpg",
                 "https://pbs.twimg.com/media/G_Y_32CbUAAvOj_.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @moonbirds TGE confirmed\n\n\ud83e\ude99 $birb\n\u26d3\ufe0fOn @solana\n\ud83d\udcc6TGE - 28 Jan\n\n\ud83d\uddbc\ufe0fTotal SBT - 388K\n\ud83d\udc65Unique wallets - 255K\n\ud83d\udc6488% (226K) wallets have only 1SBT\n\n\ud83e\ude82Mostly Airdrop to SBT holders\n\n\ud83d\udd17https://t.co/7BhRJhlqNl\n\u2705Still some SBTs r claimable\n\u2705Check &amp; post your screenshot\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/vHsI2YpHVZ",
+            "translated_text": "\ud83d\udca5 @moonbirds TGE dah sah\n\n\ud83e\ude99 $birb\n\u26d3\ufe0fDi @solana\n\ud83d\udcc6TGE - 28 Jan\n\n\ud83d\uddbc\ufe0fJumlah SBT - 388K\n\ud83d\udc65Dompet unik - 255K\n\ud83d\udc6488% (226K) dompet ada 1 SBT je\n\n\ud83e\ude82Kebanyakannya Airdrop untuk pemegang SBT\n\n\ud83d\udd17https://t.co/7BhRJhlqNl\n\u2705Masih ada lagi SBT yang boleh dituntut\n\u2705Semak &amp; kongsi tangkapan skrin anda\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/vHsI2YpHVZ",
+            "date": "Sat Jan 24 05:07:59 +0000 2026",
+            "message_id": "2014928141614235938",
+            "photos": [
+                "https://pbs.twimg.com/media/G_Z2d3aaoAA9job.jpg"
             ]
         }
     ]
