@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-25T08:32:00.537929",
+    "timestamp": "2026-01-25T16:30:24.217327",
     "messages": [
         {
             "source": "twitter",
@@ -425,6 +425,20 @@
             "message_id": "2015291652664168455",
             "photos": [
                 "https://pbs.twimg.com/media/G_fBEevbIAADu-c.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Done my part\n\n\ud83d\udcb0$20K deposited into @tradehotstuff Pre-deposit\n\ud83d\ude09Easy\n\u274cNot crowded as it is very early &amp; invites were limited\n\n\ud83d\ude03Risky to join early projects, but that's how crypto works\n\ud83e\udd37Either profit or rekt\n\n\ud83e\udd14Did u join?Post screenshots\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/g0sWdauYZt",
+            "translated_text": "\ud83d\udca5Dah selesai bahagian saya\n\n\ud83d\udcb0$20K dah deposit ke @tradehotstuff Pre-deposit\n\ud83d\ude09Senang je\n\u274cTak ramai orang sebab masih awal sangat & jemputan terhad\n\n\ud83d\ude03Berisiko kalau join projek awal-awal ni, tapi memang macam tu lah dunia crypto\n\ud83e\udd37Sama ada untung atau rugi teruk\n\n\ud83e\udd14Awak join tak? Post screenshot\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/g0sWdauYZt",
+            "date": "Sun Jan 25 13:50:18 +0000 2026",
+            "message_id": "2015421974470869342",
+            "photos": [
+                "https://pbs.twimg.com/media/G_g3mcabMAAjZP8.jpg",
+                "https://pbs.twimg.com/media/G_g3mvDaQAIWGeZ.jpg"
             ]
         }
     ]
