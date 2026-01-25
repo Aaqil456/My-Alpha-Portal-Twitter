@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-24T16:29:24.714266",
+    "timestamp": "2026-01-25T08:32:00.537929",
     "messages": [
         {
             "source": "twitter",
@@ -412,6 +412,19 @@
             "message_id": "2015046462992941503",
             "photos": [
                 "https://pbs.twimg.com/media/G_biErkakAAKC7I.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @aztecnetwork Governance update\n\n\ud83d\udcddSequencer signaling for the $AZTEC TGE proposal is complete\n\u2705now moving to a community vote\n\n\ud83d\udcc6Voting start - 26 Jan, 10:30PM IST\n\ud83d\udcc6Ends - 2 Feb\n\ud83d\udcc6If proposal pass TGE - 12Feb\n\n\ud83d\udc47For proposal to clear voting\n\u2705At least 100M tokens must https://t.co/i4tn1DHueH",
+            "translated_text": "\ud83d\udca5 @aztecnetwork Update Tadbir Urus\n\n\ud83d\udcddProses isyarat sequencer untuk cadangan TGE $AZTEC dah selesai\n\u2705sekarang akan diteruskan dengan undi komuniti\n\n\ud83d\udcc6Undian bermula - 26 Jan, 10:30 malam IST\n\ud83d\udcc6Berakhir - 2 Feb\n\ud83d\udcc6Kalau cadangan diluluskan TGE - 12 Feb\n\n\ud83d\udc47Untuk cadangan ni lulus undian\n\u2705Sekurang-kurangnya 100 juta token mesti https://t.co/i4tn1DHueH",
+            "date": "Sun Jan 25 05:12:26 +0000 2026",
+            "message_id": "2015291652664168455",
+            "photos": [
+                "https://pbs.twimg.com/media/G_fBEevbIAADu-c.jpg"
             ]
         }
     ]
