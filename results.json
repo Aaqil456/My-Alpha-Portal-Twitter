@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-26T02:09:29.593963",
+    "timestamp": "2026-01-26T08:37:53.779957",
     "messages": [
         {
             "source": "twitter",
@@ -452,6 +452,19 @@
             "message_id": "2015598068260073545",
             "photos": [
                 "https://pbs.twimg.com/media/G_jXwehbgAAKocX.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @megaeth Global Stress Test\n\n\ud83e\udd37Don't expect any rewards\n\ud83c\udf81If u r a Public Sale Bidder, u r eligible for a gas drop\n\n\ud83d\udc47Steps\n\ud83d\udd17https://t.co/geMmimugWQ\n\u2705Connect wallet\n\u2705Go to faucet tab\n\u2705Link x, if u r eligible\n\u2705Claim Faucet 3 times\n\u2705If u don't have faucet, https://t.co/nNPn686GLA",
+            "translated_text": "\ud83d\udca5Panduan ringkas untuk @megaeth Global Stress Test\n\n\ud83e\udd37Tak perlu jangka apa-apa ganjaran\n\ud83c\udf81Kalau anda Public Sale Bidder, anda layak untuk gas drop\n\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17https://t.co/geMmimugWQ\n\u2705Sambungkan wallet\n\u2705Pergi ke tab faucet\n\u2705Link x, kalau anda layak\n\u2705Claim Faucet 3 kali\n\u2705Kalau anda tak ada faucet, https://t.co/nNPn686GLA",
+            "date": "Mon Jan 26 06:02:17 +0000 2026",
+            "message_id": "2015666584245964855",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2015666500368248832/pu/img/kC2Ft9UEvPtd4fdh.jpg"
             ]
         }
     ]
