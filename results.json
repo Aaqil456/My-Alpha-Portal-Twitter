@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-26T08:37:53.779957",
+    "timestamp": "2026-01-26T16:39:04.235117",
     "messages": [
         {
             "source": "twitter",
@@ -465,6 +465,19 @@
             "message_id": "2015666584245964855",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2015666500368248832/pu/img/kC2Ft9UEvPtd4fdh.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @zama Public Auction results out\n\n\ud83e\ude99Total supply - 11B \n \ud83d\udcb8Clearing price - $0.05\n\ud83d\udcb0FDV - $550M\n\n\ud83d\udcb5Pre-Market - $0.053\n\ud83d\udcc8FDV - $583M\n\n\ud83d\udcb8Clearing price is 6% above current Pre-Market\n\ud83d\udcc6TGE - 2 Feb, 6:30PM IST (as per MEXC)\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/eNEEFltPFx",
+            "translated_text": "\ud83d\udca5 Keputusan Lelongan Awam @zama dah keluar\n\n\ud83e\ude99 Jumlah bekalan - 11 bilion\n\ud83d\udcb8 Harga jualan akhir - $0.05\n\ud83d\udcb0 FDV - $550 juta\n\n\ud83d\udcb5 Pre-Market - $0.053\n\ud83d\udcc8 FDV - $583 juta\n\n\ud83d\udcb8 Harga jualan akhir adalah 6% lebih tinggi dari harga Pre-Market sekarang.\n\ud83d\udcc6 TGE - 2 Februari, 6:30 malam IST (mengikut MEXC)\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/eNEEFltPFx",
+            "date": "Mon Jan 26 12:06:49 +0000 2026",
+            "message_id": "2015758323107455180",
+            "photos": [
+                "https://pbs.twimg.com/media/G_lpgfOa0AAuBXO.jpg"
             ]
         }
     ]
