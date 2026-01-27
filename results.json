@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-26T16:39:04.235117",
+    "timestamp": "2026-01-27T16:34:56.942490",
     "messages": [
         {
             "source": "twitter",
@@ -478,6 +478,19 @@
             "message_id": "2015758323107455180",
             "photos": [
                 "https://pbs.twimg.com/media/G_lpgfOa0AAuBXO.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 $ZAMA on @binance Alpha Pre-TGE event\n\n\ud83d\udcc6Jan 29\n\ud83e\udd14Almost 2% supply go there\n\ud83e\udd14What could be the sale price may be at $300M FDV\n\n\u26a0\ufe0fReminder - Binance Alpha users get tokens 1hr before anyone else\n\n\ud83d\udcc8OG NFT FDV - $55M\n\ud83d\udcc8Binance FDV - ~$300M\n\ud83d\udcc8PUBLIC FDV - $550M\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/IyhwcGsrwf",
+            "translated_text": "\ud83d\udca5 $ZAMA di acara Pre-TGE Alpha @binance\n\n\ud83d\udcc6 29 Jan\n\ud83e\udd14 Hampir 2% bekalan akan digunakan di sana.\n\ud83e\udd14 Harga jualan mungkin sekitar $300M FDV.\n\n\u26a0\ufe0f Peringatan: Pengguna Binance Alpha akan dapat token 1 jam lebih awal daripada orang lain.\n\n\ud83d\udcc8 FDV NFT OG - $55M\n\ud83d\udcc8 FDV Binance - ~$300M\n\ud83d\udcc8 FDV AWAM - $550M\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/IyhwcGsrwf",
+            "date": "Tue Jan 27 13:14:02 +0000 2026",
+            "message_id": "2016137623144956031",
+            "photos": [
+                "https://pbs.twimg.com/media/G_rCetKXsAA6wjE.jpg"
             ]
         }
     ]
