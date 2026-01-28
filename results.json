@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-28T08:37:57.645979",
+    "timestamp": "2026-01-28T16:42:16.236762",
     "messages": [
         {
             "source": "twitter",
@@ -517,6 +517,20 @@
             "message_id": "2016370321495146620",
             "photos": [
                 "https://pbs.twimg.com/media/G_uWHyWbkAAOons.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude02This is how projects fool their community\n\n\ud83d\udca5 @zama Binance PRE-TGE event details r out\n\n\ud83d\udcb5Binance Sale price = $0.05\n\u2705Exactly like project Told, it is at clearing price\n\n\ud83d\udc40But but...\n\ud83d\ude33Binance users get 100% Bonus allocation\n\ud83e\udd37So if u buy 100 $ZAMA u get 200 $ZAMA\n\n\u26a0\ufe0fThat's https://t.co/wt4woK7hLb",
+            "translated_text": "\ud83d\ude02Macam ni lah projek-projek tipu komuniti diorang\n\n\ud83d\udca5 @zama Butiran acara PRE-TGE Binance dah keluar\n\n\ud83d\udcb5Harga jualan Binance = $0.05\n\u2705Betul-betul macam projek tu cakap, ia pada harga clearing\n\n\ud83d\udc40Tapi tapi...\n\ud83d\ude33Pengguna Binance dapat 100% alokasi Bonus\n\ud83e\udd37Jadi kalau kau beli 100 $ZAMA, kau dapat 200 $ZAMA\n\n\u26a0\ufe0fItu lah https://t.co/wt4woK7hLb",
+            "date": "Wed Jan 28 11:14:16 +0000 2026",
+            "message_id": "2016469872520380432",
+            "photos": [
+                "https://pbs.twimg.com/media/G_vwmPGagAAgto-.jpg",
+                "https://pbs.twimg.com/media/G_vwmPgboAAdk81.jpg"
             ]
         }
     ]
