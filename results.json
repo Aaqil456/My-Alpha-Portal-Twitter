@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-27T16:34:56.942490",
+    "timestamp": "2026-01-28T02:02:15.843479",
     "messages": [
         {
             "source": "twitter",
@@ -491,6 +491,19 @@
             "message_id": "2016137623144956031",
             "photos": [
                 "https://pbs.twimg.com/media/G_rCetKXsAA6wjE.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @moonbirds Tokenomics out\n\n\ud83d\ude02Looks like project betrayed its own NFT holders\n\n\ud83e\ude99Total supply - 1B\n\ud83e\ude99Holder rewards - 27%\n\ud83e\ude99NFT holders- 25%\n\ud83e\ude99Remaining 2% may be for SBT\n\u26a0\ufe0fNo proper clarity on SBT allocation yet\n\n\ud83d\udc47Here is the funny part\n\u2705SBT allocations are fully unlocked at https://t.co/aI2yD8OpxM",
+            "translated_text": "\ud83d\udca5 Tokenomics @moonbirds dah keluar!\n\n\ud83d\ude02 Macam projek ni dah mengecewakan pemegang NFT dia sendiri.\n\n\ud83e\ude99 Jumlah bekalan - 1 bilion\n\ud83e\ude99 Ganjaran untuk pemegang - 27%\n\ud83e\ude99 Pemegang NFT - 25%\n\ud83e\ude99 Baki 2% mungkin untuk SBT\n\u26a0\ufe0f Peruntukan SBT masih belum jelas lagi.\n\n\ud83d\udc47 Ini pula yang kelakarnya:\n\u2705 Peruntukan SBT dah dibuka sepenuhnya di https://t.co/aI2yD8OpxM",
+            "date": "Wed Jan 28 01:21:01 +0000 2026",
+            "message_id": "2016320577154515010",
+            "photos": [
+                "https://pbs.twimg.com/media/G_to39ebAAQl11r.jpg"
             ]
         }
     ]
