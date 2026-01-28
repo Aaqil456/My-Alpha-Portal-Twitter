@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-28T02:02:15.843479",
+    "timestamp": "2026-01-28T08:37:57.645979",
     "messages": [
         {
             "source": "twitter",
@@ -504,6 +504,19 @@
             "message_id": "2016320577154515010",
             "photos": [
                 "https://pbs.twimg.com/media/G_to39ebAAQl11r.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @USDai_Official\n\n\ud83c\udd95Foundation &amp; Token announced\n\ud83e\ude99Ticker is $CHIP\n\n\ud83d\udcc6Q1\n\u2705Allo Game concludes\n\u2705ICO\n\u2705Airdrop\n\u2705TGE\n\n\ud83d\udd1cDetails on ICO will be released soon\n\n\ud83e\ude99ICO - 7%\n\ud83e\ude99Airdrop - 3%\n\ud83d\udcc8ICO at $300M FDV\n\n\ud83d\ude09I have 126M Allo in one of the wallet\n\ud83d\udcf8Wt abt u?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/eeS8LAi2hr",
+            "translated_text": "\ud83d\udca5Makluman terkini mengenai @USDai_Official\n\n\ud83c\udd95Penubuhan & Token dah diumumkan\n\ud83e\ude99Ticker dia $CHIP\n\n\ud83d\udcc6Q1\n\u2705Allo Game dah tamat\n\u2705ICO\n\u2705Airdrop\n\u2705TGE\n\n\ud83d\udd1cButiran lanjut tentang ICO akan dikeluarkan tak lama lagi\n\n\ud83e\ude99ICO - 7%\n\ud83e\ude99Airdrop - 3%\n\ud83d\udcc8ICO pada $300M FDV\n\n\ud83d\ude09Saya ada 126M Allo dalam salah satu dompet\n\ud83d\udcf8Macam mana pula dengan awak?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/eeS8LAi2hr",
+            "date": "Wed Jan 28 04:38:41 +0000 2026",
+            "message_id": "2016370321495146620",
+            "photos": [
+                "https://pbs.twimg.com/media/G_uWHyWbkAAOons.jpg"
             ]
         }
     ]
