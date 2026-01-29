@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-29T08:45:53.528610",
+    "timestamp": "2026-01-29T16:49:28.093320",
     "messages": [
         {
             "source": "twitter",
@@ -557,6 +557,19 @@
             "message_id": "2016735389349036329",
             "photos": [
                 "https://pbs.twimg.com/media/G_ziI2ebAAArCOc.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd89 @moonbirds peanuts drop is ready to claim\n\n\ud83d\udd17https://t.co/FfwQSI8hOw\n\ud83d\udcf8Check &amp; post your screenshot\n\n\ud83d\ude05I got 25 $BIRB\n\ud83e\udd5c $6 worth\n\n\ud83e\udee0Claim went live 24hrs after Binance Alpha users claim n dump\n\ud83d\ude05Looks like they created this project just to reward Binance Alpha users https://t.co/Y4yyo3zZX6",
+            "translated_text": "\ud83e\udd89 @moonbirds punya drop peanuts dah boleh claim.\n\n\ud83d\udd17https://t.co/FfwQSI8hOw\n\ud83d\udcf8Tengok & post screenshot anda.\n\n\ud83d\ude05Saya dapat 25 $BIRB.\n\ud83e\udd5c Bernilai $6.\n\n\ud83e\udee0Claim dah live 24 jam selepas pengguna Binance Alpha claim dan jual.\n\ud83d\ude05Nampak gayanya diorang buat projek ni semata-mata untuk bagi ganjaran dekat pengguna Binance Alpha. https://t.co/Y4yyo3zZX6",
+            "date": "Thu Jan 29 16:02:31 +0000 2026",
+            "message_id": "2016904800479395928",
+            "photos": [
+                "https://pbs.twimg.com/media/G_18OcSaYAA7M1n.jpg"
             ]
         }
     ]
