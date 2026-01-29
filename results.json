@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-29T02:24:32.480581",
+    "timestamp": "2026-01-29T08:45:53.528610",
     "messages": [
         {
             "source": "twitter",
@@ -544,6 +544,19 @@
             "message_id": "2016682654868083073",
             "photos": [
                 "https://pbs.twimg.com/media/G_yyGT2bUAARIaK.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83c\udf89CryptoTelugu x @paradex @MoneyBadgersX\n\n\ud83e\ude82Badger Boxes Giveaway\n\n\ud83c\udf9f\ufe0f 8 Winners will be selected by raffle \n\nTo enter\n1\ufe0f\u20e3Follow @paradex, @MoneyBadgersX, @Paradex_Eco\n2\ufe0f\u20e3Quote Tweet- https://t.co/iiDzv0sgM8\nTell what you think about the video\n3\ufe0f\u20e3Like RT this post\n\ud83d\udcc3Fill- https://t.co/OzejsBFZ5d",
+            "translated_text": "\ud83c\udf89CryptoTelugu x @paradex @MoneyBadgersX\n\n\ud83e\ude82Hadiah Badger Boxes!\n\n\ud83c\udf9f\ufe0f 8 pemenang akan dipilih melalui cabutan bertuah.\n\nUntuk sertai:\n1\ufe0f\u20e3 Ikut (Follow) @paradex, @MoneyBadgersX, @Paradex_Eco\n2\ufe0f\u20e3 Quote Tweet - https://t.co/iiDzv0sgM8\n    Beritahu apa pendapat anda tentang video itu.\n3\ufe0f\u20e3 Like dan RT post ini.\n\ud83d\udcc3 Isi borang ini: https://t.co/OzejsBFZ5d",
+            "date": "Thu Jan 29 04:49:20 +0000 2026",
+            "message_id": "2016735389349036329",
+            "photos": [
+                "https://pbs.twimg.com/media/G_ziI2ebAAArCOc.jpg"
             ]
         }
     ]
