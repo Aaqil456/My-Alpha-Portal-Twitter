@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-30T08:44:12.961838",
+    "timestamp": "2026-01-30T16:43:48.754128",
     "messages": [
         {
             "source": "twitter",
@@ -596,6 +596,19 @@
             "message_id": "2017097444082012254",
             "photos": [
                 "https://pbs.twimg.com/media/G_4rbL0bUAIoKSs.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc80 @megaeth Pre-Market down 25%\n\n\ud83e\udd14Can u guess the reason?\n\u2620\ufe0fBinance just listed $MEGA Pre-Market\n\n\ud83d\ude02The end of @megaeth is near\n\ud83e\udea6Binance has become a curse\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/fz2JvXHtFb",
+            "translated_text": "\ud83d\udc80 @megaeth Pra-Pasaran turun 25%\n\n\ud83e\udd14Boleh teka kenapa?\n\u2620\ufe0fBinance baru senaraikan $MEGA di Pra-Pasaran\n\n\ud83d\ude02Penghujung @megaeth dah dekat\n\ud83e\udea6Binance dah jadi sumpahan\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/fz2JvXHtFb",
+            "date": "Fri Jan 30 14:08:15 +0000 2026",
+            "message_id": "2017238432758784177",
+            "photos": [
+                "https://pbs.twimg.com/media/G_6rqN5boAAio50.jpg"
             ]
         }
     ]
