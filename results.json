@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-30T02:24:03.837874",
+    "timestamp": "2026-01-30T08:44:12.961838",
     "messages": [
         {
             "source": "twitter",
@@ -583,6 +583,19 @@
             "message_id": "2017040935990022202",
             "photos": [
                 "https://pbs.twimg.com/media/G_34CAEbgAAGhQs.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd47Gold is the new Bitcoin\n\ud83e\udd48Silver is the new Gold\n\ud83e\udd49Copper is the new silver\n \ud83d\udd29Aluminium is the new copper\n\ud83d\uddd1\ufe0fIron scrap is the new Aluminum\n\ud83d\ude02Alts are the new scrap\n\n\ud83d\udc47Bonus round\n\ud83c\udccfBinance is the new MEXC\n\ud83d\udc51Upbit is the new Binance\n\n\ud83e\udd14Agreed?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/LN10k0XPj4",
+            "translated_text": "\ud83e\udd47Emas adalah Bitcoin yang baru\n\ud83e\udd48Perak adalah Emas yang baru\n\ud83e\udd49Tembaga adalah perak yang baru\n \ud83d\udd29Aluminium adalah tembaga yang baru\n\ud83d\uddd1\ufe0fBesi buruk adalah Aluminium yang baru\n\ud83d\ude02Alts adalah besi buruk yang baru\n\n\ud83d\udc47Pusingan bonus\n\ud83c\udccfBinance adalah MEXC yang baru\n\ud83d\udc51Upbit adalah Binance yang baru\n\n\ud83e\udd14Setuju?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/LN10k0XPj4",
+            "date": "Fri Jan 30 04:48:01 +0000 2026",
+            "message_id": "2017097444082012254",
+            "photos": [
+                "https://pbs.twimg.com/media/G_4rbL0bUAIoKSs.jpg"
             ]
         }
     ]
