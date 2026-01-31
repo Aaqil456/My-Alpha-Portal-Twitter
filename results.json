@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-01-30T16:43:48.754128",
+    "timestamp": "2026-01-31T08:35:36.656944",
     "messages": [
         {
             "source": "twitter",
@@ -609,6 +609,19 @@
             "message_id": "2017238432758784177",
             "photos": [
                 "https://pbs.twimg.com/media/G_6rqN5boAAio50.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14Can we, as a crypto community, stop projects from allocating tokens to @binance Alpha?\n\n\ud83e\udd37By now we all knew why it should stop\n\ud83e\udd14But how to stop is the question..\n\n\ud83d\udc47Post ur suggestions in comments section https://t.co/UqkRNgFjyf",
+            "translated_text": "\ud83e\udd14Boleh tak kita, sebagai komuniti kripto, hentikan projek-projek daripada memperuntukkan token kepada @binance Alpha?\n\ud83e\udd37Sekarang ni kita semua dah tahu kenapa ia patut dihentikan.\n\ud83e\udd14Tapi macam mana nak hentikan, itu persoalannya..\n\ud83d\udc47Kongsi cadangan anda di ruangan komen https://t.co/UqkRNgFjyf",
+            "date": "Sat Jan 31 04:47:48 +0000 2026",
+            "message_id": "2017459779816591573",
+            "photos": [
+                "https://pbs.twimg.com/media/G_90-j5bEAQ5ReK.jpg"
             ]
         }
     ]
