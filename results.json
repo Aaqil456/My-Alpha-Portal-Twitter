@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-01T02:43:08.767615",
+    "timestamp": "2026-02-01T08:37:07.228927",
     "messages": [
         {
             "source": "twitter",
@@ -646,6 +646,19 @@
             "message_id": "2017769701540262139",
             "photos": [
                 "https://pbs.twimg.com/media/HACO2dHbEAIWSpN.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother exploit\n\n\ud83e\udea6 $STEP\n\ud83d\udcb0 $30M worth of $SOL from project treasury compromised\n\n\ud83d\udcc9Token down to zero\n\ud83e\udd37Hope u don't have any exposure to this\n\n\ud83d\udc47Let me know if u r impacted or safe\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/hPlbILLlPN",
+            "translated_text": "\u2620\ufe0fSatu lagi eksploitasi\n\n\ud83e\udea6 $STEP\n\ud83d\udcb0 $30 juta $SOL dari tabung projek digodam\n\n\ud83d\udcc9Token jatuh ke sifar\n\ud83e\udd37Harap anda tak terkesan dengan ni\n\n\ud83d\udc47Beritahu saya kalau anda terjejas atau selamat\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/hPlbILLlPN",
+            "date": "Sun Feb 01 07:37:30 +0000 2026",
+            "message_id": "2017864874186182749",
+            "photos": [
+                "https://pbs.twimg.com/media/HADlZ45bYAA258Q.jpg"
             ]
         }
     ]
