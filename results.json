@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-02T08:50:47.039304",
+    "timestamp": "2026-02-02T16:45:58.665478",
     "messages": [
         {
             "source": "twitter",
@@ -698,6 +698,19 @@
             "message_id": "2018180673115443459",
             "photos": [
                 "https://pbs.twimg.com/media/HAIEn4WaoAA-PJW.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @zama Listed on Binance Alpha\n\n\ud83d\udcb5Public Token Sale - $0.05\n\ud83d\udcb5Currently - $0.037\n\n\u2620\ufe0fPublic Token sale users at 27% loss\n\ud83d\udcc8OG NFT users - 7X profit\n\n\ud83e\udee0As expected public Auction users become the OG users exit liquidity\n\n\ud83d\ude01Good I skipped, what about u?\n\n\ud83e\udd37Let's hope for Upbit https://t.co/Rpwet5Z6sq",
+            "translated_text": "\ud83d\udca5 @zama Dah disenaraikan kat Binance Alpha\n\n\ud83d\udcb5Harga Jualan Token Awam - $0.05\n\ud83d\udcb5Harga Sekarang - $0.037\n\n\u2620\ufe0fPengguna jualan token awam rugi 27%\n\ud83d\udcc8Pengguna OG NFT - untung 7X\n\n\ud83e\udee0Macam yang dijangka, pengguna lelongan awam jadi 'exit liquidity' untuk pengguna OG.\n\n\ud83d\ude01Nasib baik aku tak masuk, kau macam mana?\n\n\ud83e\udd37Harap-harap Upbit pulak https://t.co/Rpwet5Z6sq",
+            "date": "Mon Feb 02 12:20:45 +0000 2026",
+            "message_id": "2018298544197898684",
+            "photos": [
+                "https://pbs.twimg.com/media/HAJv0r5akAAfAlk.jpg"
             ]
         }
     ]
