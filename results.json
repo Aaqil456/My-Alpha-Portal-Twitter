@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-02T02:33:10.415346",
+    "timestamp": "2026-02-02T08:50:47.039304",
     "messages": [
         {
             "source": "twitter",
@@ -685,6 +685,19 @@
             "message_id": "2018130454613016594",
             "photos": [
                 "https://pbs.twimg.com/media/HAHW8l6a4AAcyOQ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @aztecnetwork\n\n\ud83d\udce5Voting window closed\n\ud83d\udcddTGE Proposal passed successfully\n\n\ud83e\udd14So expect TGE around 11 February\n\ud83e\udd37Not sure how it's gonna be in this market conditions\n\ud83d\ude01Let's hope for the best\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/WXWILIMJbR",
+            "translated_text": "\ud83d\udca5Kemaskini pasal @aztecnetwork\n\n\ud83d\udce5Tempoh mengundi dah tutup\n\ud83d\udcddCadangan TGE dah lulus dengan jayanya\n\n\ud83e\udd14Jadi, boleh jangka TGE sekitar 11 Februari\n\ud83e\udd37Tak pasti macam mana nanti dalam keadaan pasaran macam ni\n\ud83d\ude01Harap-haraplah yang terbaik\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/WXWILIMJbR",
+            "date": "Mon Feb 02 04:32:23 +0000 2026",
+            "message_id": "2018180673115443459",
+            "photos": [
+                "https://pbs.twimg.com/media/HAIEn4WaoAA-PJW.jpg"
             ]
         }
     ]
