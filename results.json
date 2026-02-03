@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-03T08:42:26.681701",
+    "timestamp": "2026-02-03T16:58:10.446072",
     "messages": [
         {
             "source": "twitter",
@@ -724,6 +724,19 @@
             "message_id": "2018543301381763270",
             "photos": [
                 "https://pbs.twimg.com/media/HANOblpb0AAAgoy.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd37It's better to skip sometimes\n\n\ud83d\udc47List of token sales we skipped &amp; their ROI\n1\ufe0f\u20e3 @zama\n\ud83d\udcb5Sale FDV - $550M\n\ud83d\ude2dFDV now- $352M\n\ud83d\udcc937% loss\n\n2\ufe0f\u20e3 @infinex\n\ud83d\udcb5Sale FDV - $300M(TGE Unlock)\n\ud83d\ude2dFDV now- $144M\n\ud83d\udcc952% loss\n\n3\ufe0f\u20e3 @fogo\n\ud83d\udcb5Plan to have Sale at FDV - $1B\n\ud83d\ude2dFDV now- $296M\n\ud83d\udcc9Expected 70% https://t.co/vvo4mdzZF1",
+            "translated_text": "\ud83e\udd37Kadang-kadang, elok juga kalau kita *skip*.\n\n\ud83d\udc47Senarai jualan token yang kami *skip* & ROI dia:\n1\ufe0f\u20e3 @zama\n\ud83d\udcb5FDV masa jualan - $550M\n\ud83d\ude2dFDV sekarang - $352M\n\ud83d\udcc9Kerugian 37%\n\n2\ufe0f\u20e3 @infinex\n\ud83d\udcb5FDV masa jualan - $300M (TGE Unlock)\n\ud83d\ude2dFDV sekarang - $144M\n\ud83d\udcc9Kerugian 52%\n\n3\ufe0f\u20e3 @fogo\n\ud83d\udcb5Rancang nak buat jualan pada FDV - $1B\n\ud83d\ude2dFDV sekarang - $296M\n\ud83d\udcc9Jangkaan 70% https://t.co/vvo4mdzZF1",
+            "date": "Tue Feb 03 12:43:38 +0000 2026",
+            "message_id": "2018666688296984719",
+            "photos": [
+                "https://pbs.twimg.com/media/HAO-ppXbIAEcL_i.jpg"
             ]
         }
     ]
