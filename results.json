@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-05T08:50:13.244664",
+    "timestamp": "2026-02-05T16:55:02.033355",
     "messages": [
         {
             "source": "twitter",
@@ -802,6 +802,19 @@
             "message_id": "2019266735904596452",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2019266655382360064/pu/img/Pk53nZDWy1srv2gV.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udd34 $BTC below previous ATH\n\ud83d\udd34 $ETH below $2K\n\ud83d\udd34 $SOL below $90\n\ud83d\udd34 $BNB below $700\n\n\ud83d\udd34Portfolio below poverty https://t.co/RWkomNBQO4",
+            "translated_text": "\ud83d\udd34 $BTC di bawah ATH sebelum ni\n\ud83d\udd34 $ETH di bawah $2K\n\ud83d\udd34 $SOL di bawah $90\n\ud83d\udd34 $BNB di bawah $700\n\n\ud83d\udd34 Portfolio dah macam miskin https://t.co/RWkomNBQO4",
+            "date": "Thu Feb 05 15:25:38 +0000 2026",
+            "message_id": "2019432232113557892",
+            "photos": [
+                "https://pbs.twimg.com/media/HAZ26H6acAEMgln.jpg"
             ]
         }
     ]
