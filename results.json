@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-05T02:26:24.838637",
+    "timestamp": "2026-02-05T08:50:13.244664",
     "messages": [
         {
             "source": "twitter",
@@ -789,6 +789,19 @@
             "message_id": "2019215210175951331",
             "photos": [
                 "https://pbs.twimg.com/media/HAWxhyIacAE28Hc.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @MoneyBadgersX Box reveal is live\n\n\ud83c\udf81If u have one of those box, u can open them to reveal NFT\n\n\ud83d\udc47Steps\n\ud83d\udd17https://t.co/Ll2KqBJu9F\n\u2705Login\n\u2705Go to inventory\n\u2705Open box\n\u2705Sign 2 txn\n\n\ud83d\udca5Done\n\n\ud83d\ude01If u won the giveaway, u would have already received box, u can open them\n\n\ud83d\udcf8Post your https://t.co/R3Thk1wwRP",
+            "translated_text": "\ud83d\udca5 Pembukaan kotak @MoneyBadgersX dah live!\n\n\ud83c\udf81 Kalau anda ada salah satu kotak tu, anda boleh buka untuk dapatkan NFT.\n\n\ud83d\udc47 Langkah-langkahnya:\n\ud83d\udd17 https://t.co/Ll2KqBJu9F\n\u2705 Log masuk\n\u2705 Pergi ke inventori\n\u2705 Buka kotak\n\u2705 Sahkan 2 transaksi\n\n\ud83d\udca5 Selesai!\n\n\ud83d\ude01 Kalau anda menang giveaway, anda sepatutnya dah terima kotak tu, anda boleh buka.\n\n\ud83d\udcf8 Post anda punya https://t.co/R3Thk1wwRP",
+            "date": "Thu Feb 05 04:28:00 +0000 2026",
+            "message_id": "2019266735904596452",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2019266655382360064/pu/img/Pk53nZDWy1srv2gV.jpg"
             ]
         }
     ]
