@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-06T02:27:04.054935",
+    "timestamp": "2026-02-06T08:50:38.031794",
     "messages": [
         {
             "source": "twitter",
@@ -827,6 +827,19 @@
             "date": "Fri Feb 06 02:03:53 +0000 2026",
             "message_id": "2019592855820570785",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82 @rainbowdotme Airdrop claim is live\n\n\ud83d\udc47Steps\n\u2705Update mobile app\n\u2705Hit the banner &amp; claim\n\ud83d\udcf8Post your screenshot\n\n\ud83d\ude00Tokens sale users rekt again\n\ud83d\udcc6Coinlist sale at $0.1\n\ud83d\udcb0Extracted - $3M\n\n\ud83d\udcc6Uniswap Auction at $0.11\n\ud83d\udcb0Extracted - $330K\n\ud83d\udcb0Extracted $20M from VC\n\n\ud83d\udcc9Currently https://t.co/Q2nva381Vk",
+            "translated_text": "\ud83e\ude82 Airdrop @rainbowdotme dah boleh dituntut!\n\n\ud83d\udc47Cara-caranya:\n\u2705 Kemas kini aplikasi mudah alih\n\u2705 Tekan banner & tuntut\n\ud83d\udcf8 Kongsi screenshot anda\n\n\ud83d\ude00 Pengguna yang beli token masa sale kena lagi.\n\ud83d\udcc6 Jualan Coinlist pada harga $0.1\n\ud83d\udcb0 Diambil - $3M\n\n\ud83d\udcc6 Lelongan Uniswap pada harga $0.11\n\ud83d\udcb0 Diambil - $330K\n\ud83d\udcb0 Diambil $20M daripada VC\n\n\ud83d\udcc9 Sekarang https://t.co/Q2nva381Vk",
+            "date": "Fri Feb 06 04:26:05 +0000 2026",
+            "message_id": "2019628640456364350",
+            "photos": [
+                "https://pbs.twimg.com/media/HAcpirxbMAAUC7M.jpg"
+            ]
         }
     ]
 }
