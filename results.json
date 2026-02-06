@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-06T08:50:38.031794",
+    "timestamp": "2026-02-06T16:52:11.226645",
     "messages": [
         {
             "source": "twitter",
@@ -839,6 +839,19 @@
             "message_id": "2019628640456364350",
             "photos": [
                 "https://pbs.twimg.com/media/HAcpirxbMAAUC7M.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fI heard @BithumbOfficial accidentally sent hundreds of users 2000 $BTC\n\ud83d\ude02 instead of 2000 KRW (worth $1.36) \n\n\ud83e\udd2fThat's $134M per user\n\ud83e\udd23Biggest Airdrop of all time..\n\n\ud83d\ude00Time to create Bithumb account\n\n\u26a0\ufe0fStill no official announcement from cex\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/dOXOKqIekM",
+            "translated_text": "\u2620\ufe0fDengar cerita @BithumbOfficial tersilap hantar 2000 $BTC kepada ratusan pengguna\n\ud83d\ude02 bukannya 2000 KRW (bernilai $1.36)\n\n\ud83e\udd2fMaknanya $134 juta untuk setiap pengguna\n\ud83e\udd23Airdrop paling besar pernah ada..\n\n\ud83d\ude00Masa untuk buka akaun Bithumb ni\n\n\u26a0\ufe0fMasih tiada pengumuman rasmi dari cex\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/dOXOKqIekM",
+            "date": "Fri Feb 06 13:16:47 +0000 2026",
+            "message_id": "2019762193835622748",
+            "photos": [
+                "https://pbs.twimg.com/media/HAejAwMaoAAcJWr.jpg"
             ]
         }
     ]
