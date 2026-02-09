@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-08T16:35:40.269718",
+    "timestamp": "2026-02-09T08:58:28.648510",
     "messages": [
         {
             "source": "twitter",
@@ -905,6 +905,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HAn4PgWa8AAuubI.jpg",
                 "https://pbs.twimg.com/media/HAn4PhebAAAeY96.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @aidotcom to claim ur handle\n\n\ud83c\udf1fThis is the project from the founder of CEX @cryptocom\n\ud83d\udcb0He purchased https://t.co/wqjcgUKzxR domain for $70M\n\ud83d\udcfaLaunched with super bowl ad, for this they spent $10M\n\n\ud83d\ude00Big spending already\n\n\ud83e\udd14Now, what is @aidotcom?\n\ud83e\udd16The AI that https://t.co/GHxC3gdZH3",
+            "translated_text": "\ud83d\udca5Panduan ringkas di @aidotcom untuk tuntut handle awak\n\n\ud83c\udf1fIni adalah projek dari pengasas CEX @cryptocom\n\ud83d\udcb0Dia beli domain https://t.co/wqjcgUKzxR dengan harga $70 juta\n\ud83d\udcfaDilancarkan dengan iklan Super Bowl, untuk ini mereka belanja $10 juta\n\n\ud83d\ude00Dah banyak belanja dah\n\n\ud83e\udd14Sekarang, apa itu @aidotcom?\n\ud83e\udd16AI yang https://t.co/GHxC3gdZH3",
+            "date": "Mon Feb 09 03:06:03 +0000 2026",
+            "message_id": "2020695661935804681",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2020695619774578689/pu/img/CFpD-Ho-qzjBrCLc.jpg"
             ]
         }
     ]
