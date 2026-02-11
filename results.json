@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-11T02:39:52.492046",
+    "timestamp": "2026-02-11T08:55:24.395811",
     "messages": [
         {
             "source": "twitter",
@@ -968,6 +968,19 @@
             "message_id": "2021407556003037693",
             "photos": [
                 "https://pbs.twimg.com/media/HA17c-WaAAIUgVb.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udea6 @aztecnetwork Pre-Market perp is live on @binance\n\n\ud83d\udcb5 $AZTEC - $0.022\n\u2620\ufe0fSale clearing price - $0.047\n\ud83d\udcc9Sale users at 50% loss at current price\n\n\ud83d\ude05 Regret changing my decision to skip the sale at the last moment\n\u2620\ufe0f Why did I even join this\u2026\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/NxS2jcXkYe",
+            "translated_text": "\ud83e\udea6 perp Pra-Pasaran @aztecnetwork dah ada di @binance\n\n\ud83d\udcb5 $AZTEC - $0.022\n\u2620\ufe0f Harga jualan akhir - $0.047\n\ud83d\udcc9 Pembeli rugi 50% pada harga semasa\n\n\ud83d\ude05 Menyesal tukar fikiran untuk tak join jualan tu pada saat akhir\n\u2620\ufe0f Kenapa la aku join ni...\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/NxS2jcXkYe",
+            "date": "Wed Feb 11 04:43:13 +0000 2026",
+            "message_id": "2021444892975825180",
+            "photos": [
+                "https://pbs.twimg.com/media/HA2daPHaAAQc-1K.jpg"
             ]
         }
     ]
