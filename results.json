@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-11T08:55:24.395811",
+    "timestamp": "2026-02-11T17:07:21.492636",
     "messages": [
         {
             "source": "twitter",
@@ -981,6 +981,19 @@
             "message_id": "2021444892975825180",
             "photos": [
                 "https://pbs.twimg.com/media/HA2daPHaAAQc-1K.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udee0Looks like @megaeth TGE is not close\n\n\ud83d\ude02Not even 1 Key Performance Indicator (KPI) is seen achievable in one month\n\ud83e\udd14What do u think, will they do TGE in Q1 or Q2?\n\n\ud83e\udd37While raising funds, they didn\u2019t have such KPIs\n\ud83e\udd14Ideally, sale FDV should\u2019ve been KPI based\n\ud83d\udcddExample:\n\u2733\ufe0f$100M https://t.co/VEd5h18y88",
+            "translated_text": "\ud83e\udee0Nampaknya TGE @megaeth ni belum dekat lagi.\n\ud83d\ude02Satu pun KPI tak nampak boleh dicapai dalam sebulan.\n\ud83e\udd14Anda rasa, diorang akan buat TGE dalam Q1 atau Q2?\n\ud83e\udd37Masa kumpul dana dulu, diorang tak ada pun KPI macam ni.\n\ud83e\udd14Sepatutnya, FDV jualan tu berasaskan KPI.\n\ud83d\udcddContoh:\n\u2733\ufe0f$100M https://t.co/VEd5h18y88",
+            "date": "Wed Feb 11 14:19:38 +0000 2026",
+            "message_id": "2021589951469773304",
+            "photos": [
+                "https://pbs.twimg.com/media/HA4hWCcbUAA0kkp.jpg"
             ]
         }
     ]
