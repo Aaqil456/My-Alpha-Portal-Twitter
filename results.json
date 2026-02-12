@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-12T08:53:11.581071",
+    "timestamp": "2026-02-12T17:03:25.211345",
     "messages": [
         {
             "source": "twitter",
@@ -1007,6 +1007,19 @@
             "message_id": "2021864014444474879",
             "photos": [
                 "https://pbs.twimg.com/media/HA8amxfb0AAPKE9.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83c\udfc6 @EspressoSys Kaito Launchpad investors with $1000 r big winners\n\n\ud83c\udf81If u remember @EspressoSys gave bonus of min 25K $ESP to every investors\n\ud83d\udcb0That's worth - $1850\n\ud83e\udef5So if u invested $1000 in @KaitoAI sale you made $1850 on TGE\n\n\ud83d\ude03This is just bonus, their actual tokens r https://t.co/nP9EX51LPF",
+            "translated_text": "\ud83c\udfc6 Pelabur @EspressoSys Kaito Launchpad yang melabur $1000 memang untung besar.\n\ud83c\udf81 Kalau korang ingat, @EspressoSys bagi bonus minimum 25K $ESP kepada setiap pelabur.\n\ud83d\udcb0 Nilainya $1850.\n\ud83e\udef5 Jadi, kalau korang labur $1000 dalam jualan @KaitoAI, korang dah dapat $1850 masa TGE.\n\ud83d\ude03 Ini baru bonus je, token sebenar diorang ada kat sini: https://t.co/nP9EX51LPF",
+            "date": "Thu Feb 12 12:58:47 +0000 2026",
+            "message_id": "2021931994444443939",
+            "photos": [
+                "https://pbs.twimg.com/media/HA9YbRYaEAATPRB.jpg"
             ]
         }
     ]
