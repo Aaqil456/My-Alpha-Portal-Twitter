@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-13T08:49:57.330285",
+    "timestamp": "2026-02-13T16:53:32.960585",
     "messages": [
         {
             "source": "twitter",
@@ -1033,6 +1033,19 @@
             "message_id": "2022168037395509643",
             "photos": [
                 "https://pbs.twimg.com/media/HBAvGkgbsAEPh26.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Received my first @ready_co metal card cashback\n\n\ud83d\udcb81st month Cashback - $70\n\ud83d\udcb1Total spending - $2400\n\n\u26fdI spent $84 to purchase this card\n\ud83d\ude03It gives 3% as cashback for 12 months\n\n\ud83d\ude01If u planning to buy metal card u can use my 30% discount code\n\u26a0\ufe0fIf u joined using ref link, u https://t.co/yw1LsccYU3",
+            "translated_text": "\ud83d\udca5 Saya dah dapat cashback pertama saya dari kad metal @ready_co\n\n\ud83d\udcb8 Cashback bulan pertama - $70\n\ud83d\udcb1 Jumlah perbelanjaan - $2400\n\n\u26fd Saya bayar $84 untuk beli kad ni\n\ud83d\ude03 Kad ni bagi 3% cashback selama 12 bulan\n\n\ud83d\ude01 Kalau awak plan nak beli metal card, awak boleh guna kod diskaun 30% saya\n\u26a0\ufe0f Kalau awak daftar guna link sumber, awak boleh guna link ni: https://t.co/yw1LsccYU3",
+            "date": "Fri Feb 13 13:14:33 +0000 2026",
+            "message_id": "2022298350872351150",
+            "photos": [
+                "https://pbs.twimg.com/media/HBClmuTawAA1zoa.jpg"
             ]
         }
     ]
