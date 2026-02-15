@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-14T16:35:34.833823",
+    "timestamp": "2026-02-15T08:37:48.370850",
     "messages": [
         {
             "source": "twitter",
@@ -1084,6 +1084,20 @@
             "date": "Sat Feb 14 12:45:20 +0000 2026",
             "message_id": "2022653384684421384",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd37Key @monad team members already leaving the project\n\n\u274cDirector of Growth\n\u274cHead of DeFi\n\n\u2620\ufe0fThey raised $244M from VC\n\u2620\ufe0f$187M from public\n\n\ud83d\udcb5Public round - $0.025\n\ud83d\udcc9Now $0.023\n\n\ud83d\ude01Most of the project team leaving after TGE\n\ud83e\udd14Next may be @zama team\n\ud83e\udef5Wt do u think?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/pn9wNdU1lU",
+            "translated_text": "\ud83e\udd37Ahli pasukan utama @monad dah mula tinggalkan projek ni.\n\n\u274cPengarah Pertumbuhan\n\u274cKetua DeFi\n\n\u2620\ufe0fDiorang berjaya kumpul $244 juta dari VC\n\u2620\ufe0fDan $187 juta dari orang awam.\n\n\ud83d\udcb5Pusingan awam - $0.025\n\ud83d\udcc9Sekarang $0.023\n\n\ud83d\ude01Kebanyakan ahli pasukan projek ni dah cabut lepas TGE.\n\ud83e\udd14Lepas ni mungkin giliran pasukan @zama pula.\n\ud83e\udef5Apa pendapat kalian?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/pn9wNdU1lU",
+            "date": "Sun Feb 15 05:19:25 +0000 2026",
+            "message_id": "2022903551304073279",
+            "photos": [
+                "https://pbs.twimg.com/media/HBLMDbdbIAAOeYz.jpg",
+                "https://pbs.twimg.com/media/HBLMDbcbsAAtVlQ.jpg"
+            ]
         }
     ]
 }
