@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-16T02:32:49.405521",
+    "timestamp": "2026-02-16T08:54:20.190281",
     "messages": [
         {
             "source": "twitter",
@@ -1110,6 +1110,19 @@
             "message_id": "2023012154354622893",
             "photos": [
                 "https://pbs.twimg.com/media/HBMu05Za8AAA8O4.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @cysic_xyz update\n\n\ud83d\ude80 $CYS is constantly pumping almost 2X from TGE price\n\n\ud83d\ude00If u invested in Cube sale,u can claim vested tokens\n\ud83d\udd17https://t.co/RYHV5hoa2j\n\ud83e\ude99Claim vested $CYS\n\n\ud83d\udcb5Cube sale Avg FDV was ~$220M\n\ud83d\udcc8Current FDV- $510M\n\ud83d\ude09That's 2X\n\n\ud83d\udcf8Post your screenshot\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/SxAtZFXc4O",
+            "translated_text": "\ud83d\udca5 Update dari @cysic_xyz\n\n\ud83d\ude80 $CYS asyik naik je, hampir 2 kali ganda dari harga TGE.\n\n\ud83d\ude00 Kalau anda melabur masa Cube sale, anda boleh tuntut token vested anda.\n\ud83d\udd17https://t.co/RYHV5hoa2j\n\ud83e\ude99 Tuntut $CYS vested anda.\n\n\ud83d\udcb5 Purata FDV masa Cube sale adalah sekitar ~$220M.\n\ud83d\udcc8 FDV semasa - $510M.\n\ud83d\ude09 Itu dah 2X!\n\n\ud83d\udcf8 Kongsi screenshot anda.\n\n\ud83d\udc99 Like\n\ud83d\udd01 RT https://t.co/SxAtZFXc4O",
+            "date": "Mon Feb 16 04:31:19 +0000 2026",
+            "message_id": "2023253836811366687",
+            "photos": [
+                "https://pbs.twimg.com/media/HBQKoyjakAAVTgN.jpg"
             ]
         }
     ]
