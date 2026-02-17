@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-16T08:54:20.190281",
+    "timestamp": "2026-02-17T02:29:01.537308",
     "messages": [
         {
             "source": "twitter",
@@ -1123,6 +1123,19 @@
             "message_id": "2023253836811366687",
             "photos": [
                 "https://pbs.twimg.com/media/HBQKoyjakAAVTgN.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude00My crypto Arcs\n\n\ud83d\udcc62013-14 Arc\n\ud83d\udde3\ufe0ffirst heard of Bitcoin\n\u274cDidn't invest as I was young\n\ud83d\udcbbUse to dogecoin mine in neighbour's Old PC\n\ud83d\ude05Not sure what happened to those coins\n\n\ud83d\udcc62017-18 Arc\n\u2733\ufe0fFirst investment with credit card limit\n\u2733\ufe0fMade profit, repaid credit limit\n\u2733\ufe0fDid GPU https://t.co/tWzmaNctUS",
+            "translated_text": "\ud83d\ude00Perjalanan kripto saya\n\n\ud83d\udcc6Fasa 2013-14\n\ud83d\udde3\ufe0fMula dengar pasal Bitcoin\n\u274cTak melabur sebab masa tu muda lagi\n\ud83d\udcbbPernah guna PC lama jiran untuk mine Dogecoin\n\ud83d\ude05Tak pasti apa jadi dengan koin-koin tu\n\n\ud83d\udcc6Fasa 2017-18\n\u2733\ufe0fPelaburan pertama guna had kad kredit\n\u2733\ufe0fDapat untung, bayar balik had kredit\n\u2733\ufe0fBuat GPU https://t.co/tWzmaNctUS",
+            "date": "Mon Feb 16 12:32:38 +0000 2026",
+            "message_id": "2023374962791428223",
+            "photos": [
+                "https://pbs.twimg.com/media/HBR4zKsbkAAqrU7.jpg"
             ]
         }
     ]
