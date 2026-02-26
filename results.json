@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-26T02:26:09.324433",
+    "timestamp": "2026-02-26T17:03:03.886690",
     "messages": [
         {
             "source": "twitter",
@@ -1175,6 +1175,19 @@
             "message_id": "2026843629571150208",
             "photos": [
                 "https://pbs.twimg.com/tweet_video_thumb/HCDLiZOasAAZ5Bc.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f Token Sales r dead.. Here is latest indicator\n\n\ud83d\ude02 @idOS_network plans to extract from community\n\n\u26a0\ufe0fPhase 1 - 1 ETH min, 25% discount, 6 month vest\n\n\ud83d\udc47Stats\n\u23f0Sale live for 24hrs\n\ud83d\ude02Total Raise - $20\n\ud83d\udc65No of users - 1\n\n\ud83d\ude05Is this a sale or fun activity?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/3MnMWjwtFQ",
+            "translated_text": "\u2620\ufe0f Jualan Token dah tak laku.. Ni petunjuk terkini\n\n\ud83d\ude02 @idOS_network merancang nak ambil dari komuniti\n\n\u26a0\ufe0fFasa 1 - minimum 1 ETH, diskaun 25%, vesting 6 bulan\n\n\ud83d\udc47Statistik\n\u23f0Jualan berlangsung selama 24 jam\n\ud83d\ude02Jumlah Kutipan - $20\n\ud83d\udc65Bilangan pengguna - 1\n\n\ud83d\ude05Ini jualan ke atau aktiviti suka-suka?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/3MnMWjwtFQ",
+            "date": "Thu Feb 26 12:32:52 +0000 2026",
+            "message_id": "2026998902604673238",
+            "photos": [
+                "https://pbs.twimg.com/media/HCFYtEiaIAAMZrT.jpg"
             ]
         }
     ]
