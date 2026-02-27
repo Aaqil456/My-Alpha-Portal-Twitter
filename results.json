@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-02-27T08:47:36.655582",
+    "timestamp": "2026-02-27T16:44:48.754823",
     "messages": [
         {
             "source": "twitter",
@@ -1201,6 +1201,19 @@
             "message_id": "2027254691533643848",
             "photos": [
                 "https://pbs.twimg.com/media/HCJBY21bMAA8qNc.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc9 @flyingtulip_ token is Tradable\n\n\ud83d\udcb1Sale price - $0.1\n\ud83d\udcb5Currently $FT - $0.097\n\n\ud83d\udc40Trading at 3% loss\n\ud83d\udcb5But users can redeem for exact price they paid for\n\n\ud83d\udcb0They raised around $450M Pvt &amp; public at $1B FDV\n\ud83d\udccaNow at $979M FDV\n\n\ud83e\udef5Did u invest?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/SRTK92qkWc",
+            "translated_text": "\ud83d\udcc9 Token @flyingtulip_ dah boleh didagangkan\n\n\ud83d\udcb1Harga jualan - $0.1\n\ud83d\udcb5Sekarang $FT - $0.097\n\n\ud83d\udc40Berdagang pada kerugian 3%\n\ud83d\udcb5Tapi pengguna boleh tebus balik pada harga asal mereka beli\n\n\ud83d\udcb0Mereka berjaya kumpul sekitar $450 juta (persendirian & awam) pada FDV $1 bilion\n\ud83d\udccaSekarang pada FDV $979 juta\n\n\ud83e\udef5Anda ada melabur tak?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/SRTK92qkWc",
+            "date": "Fri Feb 27 09:46:25 +0000 2026",
+            "message_id": "2027319398399393938",
+            "photos": [
+                "https://pbs.twimg.com/media/HCJ8PwzbAAAoccQ.jpg"
             ]
         }
     ]
