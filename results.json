@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-02T16:54:43.393394",
+    "timestamp": "2026-03-03T08:48:03.130673",
     "messages": [
         {
             "source": "twitter",
@@ -1290,6 +1290,19 @@
             "message_id": "2028497438349369594",
             "photos": [
                 "https://pbs.twimg.com/media/HCarqkma0AAwiJS.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Expect $DIME before 12 March\n\n\ud83e\udd14Let's calculate how\n\ud83d\udcdd @paradex official ecosystem profile posted loading hints\n\n\ud83d\udc47Timeline so far\n\ud83d\udcc521 Feb - 20%\n\ud83d\udcc525 Feb - 40% (4 days)\n\ud83d\udcc52 Mar - 60% (5 days)\n\n\ud83e\udd14If the pattern continues:\n\ud83d\udcc56\u20137 Mar \u2192 80%\n\ud83d\udcc511\u201312 Mar \u2192 100%\n\n\ud83d\ude01So expect $DIME https://t.co/YHeL9m52dR",
+            "translated_text": "\ud83d\udca5 Jangka $DIME sebelum 12 Mac\n\n\ud83e\udd14 Jom kita kira macam mana\n\ud83d\udcdd Profil ekosistem rasmi @paradex ada post petunjuk 'loading'\n\n\ud83d\udc47 Ini garis masa setakat ni\n\ud83d\udcc5 21 Feb - 20%\n\ud83d\udcc5 25 Feb - 40% (4 hari)\n\ud83d\udcc5 2 Mac - 60% (5 hari)\n\n\ud83e\udd14 Kalau corak ni berterusan:\n\ud83d\udcc5 6\u20137 Mac \u2192 80%\n\ud83d\udcc5 11\u201312 Mac \u2192 100%\n\n\ud83d\ude01 Jadi, jangka $DIME https://t.co/YHeL9m52dR",
+            "date": "Tue Mar 03 04:43:06 +0000 2026",
+            "message_id": "2028692619597873243",
+            "photos": [
+                "https://pbs.twimg.com/media/HCddLsebkAAoJ_W.jpg"
             ]
         }
     ]
