@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-04T08:43:50.995676",
+    "timestamp": "2026-03-04T16:52:55.893688",
     "messages": [
         {
             "source": "twitter",
@@ -1329,6 +1329,19 @@
             "message_id": "2029031153920032834",
             "photos": [
                 "https://pbs.twimg.com/media/HCiRE_iawAA_JJ1.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82Get ready for next Airdrop..\n\n\ud83d\udca5 @paradex TGE details confirmed\n\n\ud83d\udcc6TGE - 5 March, 7:30 PM IST\n\ud83e\ude82Genesis (Airdrop claim) - 5 March, 12:30PM IST\n\n\ud83d\ude01It's tomorrow - $DIME\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/LFCYadzOOb",
+            "translated_text": "\ud83e\ude82Bersedia untuk Airdrop seterusnya..\n\n\ud83d\udca5 Butiran TGE @paradex dah disahkan\n\n\ud83d\udcc6TGE - 5 Mac, 7:30 malam IST\n\ud83e\ude82Genesis (tuntut Airdrop) - 5 Mac, 12:30 tengah hari IST\n\n\ud83d\ude01Esok dah ni - $DIME\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/LFCYadzOOb",
+            "date": "Wed Mar 04 16:19:25 +0000 2026",
+            "message_id": "2029230241017938345",
+            "photos": [
+                "https://pbs.twimg.com/media/HClGJWWawAcRcoU.jpg"
             ]
         }
     ]
