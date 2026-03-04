@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-03T16:54:50.124981",
+    "timestamp": "2026-03-04T08:43:50.995676",
     "messages": [
         {
             "source": "twitter",
@@ -1316,6 +1316,19 @@
             "message_id": "2028789194123042919",
             "photos": [
                 "https://pbs.twimg.com/media/HCe1BKDaUAA2Edd.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude33 $POWER token down 90% today\n\n\ud83d\udccaListed - $0.1\n\ud83d\udcc83 months Rally to $3.56\n\ud83d\udcc9Single day Crash to $0.16\n\n\ud83d\ude01This space is crazy\n\ud83e\udef5Were u impacted?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/wlS9SjI7sf",
+            "translated_text": "\ud83d\ude33 $POWER token jatuh 90% hari ni\n\n\ud83d\udcca Disenaraikan: $0.1\n\ud83d\udcc8 Reli 3 bulan cecah $3.56\n\ud83d\udcc9 Jatuh teruk sehari je sampai $0.16\n\n\ud83d\ude01 Dunia ni memang gila\n\ud83e\udef5 Awak terkesan tak?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/wlS9SjI7sf",
+            "date": "Wed Mar 04 03:08:19 +0000 2026",
+            "message_id": "2029031153920032834",
+            "photos": [
+                "https://pbs.twimg.com/media/HCiRE_iawAA_JJ1.jpg"
             ]
         }
     ]
