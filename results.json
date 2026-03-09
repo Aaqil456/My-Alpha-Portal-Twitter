@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-08T08:35:52.708294",
+    "timestamp": "2026-03-09T08:51:22.409786",
     "messages": [
         {
             "source": "twitter",
@@ -1393,6 +1393,19 @@
             "date": "Sun Mar 08 05:02:04 +0000 2026",
             "message_id": "2030509331918262740",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f $LIT literally 75% down from ATH\n\n\ud83e\udee0Still holding few tokens..\n\ud83d\udccaI Will sell everything soon..\n\ud83d\ude02So that it can pump\n\n\ud83e\udef5R u still holding?let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/zzqCvsgBIV",
+            "translated_text": "\u2620\ufe0f $LIT betul-betul dah jatuh 75% dari ATH dia.\n\n\ud83e\udee0Masih pegang sikit token ni..\n\ud83d\udccaNanti aku jual semua..\n\ud83d\ude02Biar dia boleh pump.\n\n\ud83e\udef5Masih pegang ke? Bagi tahu aku.\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/zzqCvsgBIV",
+            "date": "Mon Mar 09 04:48:40 +0000 2026",
+            "message_id": "2030868347500568604",
+            "photos": [
+                "https://pbs.twimg.com/media/HC8X_94aoAAUe7Q.jpg"
+            ]
         }
     ]
 }
