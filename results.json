@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-09T16:59:42.511063",
+    "timestamp": "2026-03-10T08:50:12.102235",
     "messages": [
         {
             "source": "twitter",
@@ -1418,6 +1418,19 @@
             "message_id": "2030955360413204937",
             "photos": [
                 "https://pbs.twimg.com/media/HC9nILabEAADE6T.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @cysic_xyz update\n\n\ud83d\ude80 $CYS is constantly maintaining 2X from sale price\n\n\ud83d\ude00If u invested in Cube sale,u can claim vested tokens\n\ud83d\udd17https://t.co/RYHV5hoHRR\n\ud83e\ude99Claim vested $CYS\n\n\ud83d\udcb5Cube sale Avg FDV was ~$220M\n\ud83d\udcc8Current FDV- $500M\n\ud83d\ude09That's 2X\n\n\ud83d\udcf8Post your screenshot\n\ud83d\ude01Cube sale is https://t.co/RGq28CDIkG",
+            "translated_text": "\ud83d\udca5 Kemas kini @cysic_xyz\n\ud83d\ude80 $CYS sentiasa kekal 2X dari harga jualan\n\ud83d\ude00 Kalau anda melabur dalam jualan Cube, anda boleh tuntut token yang telah vested\n\ud83d\udd17https://t.co/RYHV5hoHRR\n\ud83e\ude99 Tuntut $CYS yang telah vested\n\ud83d\udcb5 Purata FDV jualan Cube adalah sekitar ~$220M\n\ud83d\udcc8 FDV semasa - $500M\n\ud83d\ude09 Itu dah 2X\n\ud83d\udcf8 Kongsi screenshot anda\n\ud83d\ude01 Jualan Cube di https://t.co/RGq28CDIkG",
+            "date": "Tue Mar 10 05:41:24 +0000 2026",
+            "message_id": "2031244007939125283",
+            "photos": [
+                "https://pbs.twimg.com/media/HDBtqFJaMAAvAZ0.jpg"
             ]
         }
     ]
