@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-10T16:58:20.619699",
+    "timestamp": "2026-03-11T16:57:28.086387",
     "messages": [
         {
             "source": "twitter",
@@ -1444,6 +1444,19 @@
             "message_id": "2031303100141859028",
             "photos": [
                 "https://pbs.twimg.com/media/HDCjZ7BakAAkLBW.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Interesting update\n\n\ud83e\udd37During our Airdrop grinding most of us interacted with @privy_io\n\u2709\ufe0fMany apps using @privy_io create wallets through email login\n\n\ud83d\ude01So try logging in with your email again, you might discover some forgotten funds in random apps you don\u2019t even remember https://t.co/qXuVGa7ags",
+            "translated_text": "\ud83d\udca5Update menarik!\n\n\ud83e\udd37Masa kita gigih buat Airdrop dulu, ramai antara kita ada berinteraksi dengan @privy_io.\n\u2709\ufe0fBanyak aplikasi yang guna @privy_io ni buat wallet melalui login emel.\n\n\ud83d\ude01Jadi, cuba login balik guna emel anda, mana tahu terjumpa dana yang dah terlupa dalam aplikasi-aplikasi rawak yang anda sendiri pun tak ingat. https://t.co/qXuVGa7ags",
+            "date": "Wed Mar 11 12:29:32 +0000 2026",
+            "message_id": "2031709105954697686",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2031709069351006208/pu/img/6Slhvhvy1WzseFk8.jpg"
             ]
         }
     ]
