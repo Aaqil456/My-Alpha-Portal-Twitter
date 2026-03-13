@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-13T02:26:16.832664",
+    "timestamp": "2026-03-13T08:46:10.483901",
     "messages": [
         {
             "source": "twitter",
@@ -1470,6 +1470,19 @@
             "message_id": "2032276020162969978",
             "photos": [
                 "https://pbs.twimg.com/media/HDQYQ_3bQAIk7Mc.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f Someone swapped $50M worth of aEthUSDT &amp; got only $36K $AAVE\n\n\ud83e\udd37Everyone calls it a trading mistake\n\ud83e\udd14But what if it was a moneywash strategy?\n\n\ud83d\udc47Let's breakdown\n\n\ud83d\udcb8Money flow\n\ud83d\udc47Here\u2019s where the money went\n\ud83d\udcb5MEV Bot paid Titan Builder - 16,927 ETH (~$34.8M)\n\ud83d\udcb5Titan Builder https://t.co/JYBIeeuIJz",
+            "translated_text": "\u2620\ufe0f Seseorang tukar aEthUSDT bernilai $50 juta & cuma dapat $36 ribu $AAVE\n\n\ud83e\udd37 Semua orang kata ini kesilapan dagangan.\n\ud83e\udd14 Tapi, macam mana kalau ini strategi cuci duit?\n\n\ud83d\udc47 Jom kita huraikan.\n\n\ud83d\udcb8 Aliran wang\n\ud83d\udc47 Ini ke mana duit tu pergi:\n\ud83d\udcb5 MEV Bot bayar Titan Builder - 16,927 ETH (lebih kurang $34.8 juta)\n\ud83d\udcb5 Titan Builder https://t.co/JYBIeeuIJz",
+            "date": "Fri Mar 13 06:05:05 +0000 2026",
+            "message_id": "2032337131293835696",
+            "photos": [
+                "https://pbs.twimg.com/media/HDRP151bQAQ47qb.jpg"
             ]
         }
     ]
