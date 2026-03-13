@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-13T08:46:10.483901",
+    "timestamp": "2026-03-13T16:45:30.871673",
     "messages": [
         {
             "source": "twitter",
@@ -1483,6 +1483,19 @@
             "message_id": "2032337131293835696",
             "photos": [
                 "https://pbs.twimg.com/media/HDRP151bQAQ47qb.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd5c @superformxyz peanut drop 2nd vesting is live\n\n\ud83d\udd17https://t.co/ya0GEJJivI\n\u2705Check &amp; claim your $UP\n\ud83d\udcc62 more vestings\n\ud83d\udcc6Every 30days\n\n\ud83e\udd5cI Claimed 840 $UP\n\ud83d\udcb1 $UP - $0.042\n\ud83d\ude02Value $36\n\n\ud83d\udcf8Post your screenshots\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/g01B741iXH",
+            "translated_text": "\ud83e\udd5c Agihan kedua 'peanut drop' @superformxyz dah boleh dituntut!\n\ud83d\udd17https://t.co/ya0GEJJivI\n\u2705 Semak & tuntut $UP anda\n\ud83d\udcc6 Ada 2 lagi agihan\n\ud83d\udcc6 Setiap 30 hari\n\n\ud83e\udd5c Saya dah tuntut 840 $UP\n\ud83d\udcb1 $UP - $0.042\n\ud83d\ude02 Nilai $36\n\n\ud83d\udcf8 Kongsi screenshot anda.\n\n\ud83d\udc99 Like\n\ud83d\udd01 RT https://t.co/g01B741iXH",
+            "date": "Fri Mar 13 12:41:02 +0000 2026",
+            "message_id": "2032436775055163468",
+            "photos": [
+                "https://pbs.twimg.com/media/HDSqePfaUAEwFnN.jpg"
             ]
         }
     ]
