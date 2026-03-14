@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-14T08:40:32.874308",
+    "timestamp": "2026-03-14T16:36:38.685151",
     "messages": [
         {
             "source": "twitter",
@@ -1509,6 +1509,19 @@
             "message_id": "2032675705218281627",
             "photos": [
                 "https://pbs.twimg.com/media/HDWDxw-aMAIZC-n.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Testing completed\n\n\ud83d\udc47Test results\n\ud83d\ude02Few here think the market crash immediately after I post screenshot\n\n\ud83d\ude01When i posted screenshot yesterday\n\ud83e\ude99BTC - $71659\n\ud83e\ude99ETH - $2125\n\n\u23f012Hrs after my post\n\ud83e\ude99BTC - $73186\n\ud83e\ude99ETH - $2192\n\ud83d\udcc8Up\n\n\ud83d\ude09I didn't post any screenshot but still market https://t.co/dih0ybuAeA",
+            "translated_text": "\ud83d\ude01Ujian dah selesai\n\n\ud83d\udc47Hasil ujian\n\ud83d\ude02Ada yang sangka market jatuh teruk sebaik saja saya post screenshot\n\n\ud83d\ude01Semalam, masa saya post screenshot\n\ud83e\ude99BTC - $71659\n\ud83e\ude99ETH - $2125\n\n\u23f012 jam lepas saya post\n\ud83e\ude99BTC - $73186\n\ud83e\ude99ETH - $2192\n\ud83d\udcc8Naik\n\n\ud83d\ude09Saya tak post screenshot apa-apa pun tapi market masih https://t.co/dih0ybuAeA",
+            "date": "Sat Mar 14 12:30:09 +0000 2026",
+            "message_id": "2032796422421070304",
+            "photos": [
+                "https://pbs.twimg.com/media/HDXxkeDa8AAgFqG.jpg"
             ]
         }
     ]
