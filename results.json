@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-14T16:36:38.685151",
+    "timestamp": "2026-03-15T08:40:53.477956",
     "messages": [
         {
             "source": "twitter",
@@ -1522,6 +1522,19 @@
             "message_id": "2032796422421070304",
             "photos": [
                 "https://pbs.twimg.com/media/HDXxkeDa8AAgFqG.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude02Extraction continues\n\n\ud83e\udd37Another project on @MetaDAOProject planning to raise $6M\n\n\u274cMetaDao is no longer the special IDO platform\n\ud83e\udee0It has become just another launchpad running raises that mostly favor projects, not users\n\n\u26a0\ufe0fLast sale Hurupay was cancelled after failing to https://t.co/erqnGUr7Ns",
+            "translated_text": "\ud83d\ude02Pengekstrakan masih berterusan\n\n\ud83e\udd37Ada lagi projek di @MetaDAOProject nak kumpul $6 juta\n\n\u274cMetaDao dah tak jadi platform IDO istimewa\n\ud83e\udee0Dah jadi sekadar launchpad lain yang buat kutipan dana, kebanyakan lebih memihak kepada projek, bukan pengguna\n\n\u26a0\ufe0fJualan lepas Hurupay dibatalkan selepas gagal untuk https://t.co/erqnGUr7Ns",
+            "date": "Sun Mar 15 04:38:58 +0000 2026",
+            "message_id": "2033040235324662211",
+            "photos": [
+                "https://pbs.twimg.com/media/HDbPUb3aMAAAT-p.jpg"
             ]
         }
     ]
