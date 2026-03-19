@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-18T17:05:00.314227",
+    "timestamp": "2026-03-19T02:34:30.555939",
     "messages": [
         {
             "source": "twitter",
@@ -1637,6 +1637,19 @@
             "message_id": "2034250792035860690",
             "photos": [
                 "https://pbs.twimg.com/media/HDscUMzbMAAdToY.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @PerleLabs Airdrop registration is live\n\n\ud83d\udd17https://t.co/ilURZKzWKN\n\u2705Connect SOL wallet used for points\n\u2705Complete registration\n\ud83d\udcf8Post your screenshot\n\n\ud83e\ude99 $PRL\n\ud83e\ude99Total supply - 10B\n\ud83e\ude99TGE supply - 1.75B\n\ud83e\ude99TGE Airdrop 7.5%- 0.75B\n\n\ud83d\udcc8 @coinbase listing confirmed\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/8hl5DUQ7bh",
+            "translated_text": "\ud83d\udca5 Pendaftaran Airdrop @PerleLabs dah dibuka\n\n\ud83d\udd17https://t.co/ilURZKzWKN\n\u2705Sambungkan dompet SOL yang digunakan untuk mata\n\u2705Lengkapkan pendaftaran\n\ud83d\udcf8Muat naik screenshot anda\n\n\ud83e\ude99 $PRL\n\ud83e\ude99Jumlah bekalan - 10B\n\ud83e\ude99Bekalan TGE - 1.75B\n\ud83e\ude99Airdrop TGE 7.5% - 0.75B\n\n\ud83d\udcc8 Penyenaraian @coinbase dah disahkan\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/8hl5DUQ7bh",
+            "date": "Thu Mar 19 01:34:18 +0000 2026",
+            "message_id": "2034443314351784368",
+            "photos": [
+                "https://pbs.twimg.com/media/HDvLZ_GaEAAOARf.jpg"
             ]
         }
     ]
