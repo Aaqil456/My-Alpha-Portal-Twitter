@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-19T08:49:45.508972",
+    "timestamp": "2026-03-19T17:01:31.699770",
     "messages": [
         {
             "source": "twitter",
@@ -1664,6 +1664,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/HDv5hJJbQAAo7VA.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14R u eligible for @PerleLabs Airdrop?\n\n\ud83d\ude02Just checked even I'm not eligible (page was not working as I was using backpack wallet)\n\n\ud83d\udcddTo cover this mess they r running social media campaign with $55K in rewards to users posting good about project\n\n\ud83e\udd14Let's see % of eligible users",
+            "translated_text": "\ud83e\udd14Awak layak ke untuk @PerleLabs Airdrop?\n\n\ud83d\ude02Baru je cek, saya pun tak layak (laman web tak berfungsi sebab saya guna backpack wallet)\n\n\ud83d\udcddUntuk selesaikan masalah ni, diorang buat kempen media sosial dengan ganjaran $55K untuk pengguna yang post benda baik pasal projek ni.\n\n\ud83e\udd14Jom tengok peratusan pengguna yang layak.",
+            "date": "Thu Mar 19 12:34:35 +0000 2026",
+            "message_id": "2034609477870297429",
+            "photos": []
         }
     ]
 }
