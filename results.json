@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-20T08:48:12.743108",
+    "timestamp": "2026-03-20T16:50:42.748549",
     "messages": [
         {
             "source": "twitter",
@@ -1687,6 +1687,19 @@
             "message_id": "2034851282369093885",
             "photos": [
                 "https://pbs.twimg.com/media/HD0-dFLaIAAA2DR.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u26a0\ufe0fImportant update on @PerleLabs Airdrop\n\n\ud83d\udc47Fill this form if u have points but not eligible\n\ud83d\udd17https://t.co/N7vcSVXolt\n\n\ud83e\udd14Project may mark u as eligible based on activities\n\u2705This link was shared in project Discord\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/2dtPrr2F9q",
+            "translated_text": "\u26a0\ufe0fUpdate penting tentang Airdrop @PerleLabs\n\n\ud83d\udc47Isi borang ini kalau ada poin tapi tak layak\n\ud83d\udd17https://t.co/N7vcSVXolt\n\n\ud83e\udd14Projek mungkin akan anggap anda layak berdasarkan aktiviti anda\n\u2705Pautan ini dikongsi dalam Discord projek\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/2dtPrr2F9q",
+            "date": "Fri Mar 20 12:37:34 +0000 2026",
+            "message_id": "2034972616361222552",
+            "photos": [
+                "https://pbs.twimg.com/media/HD2sznDbUAAfkHV.jpg"
             ]
         }
     ]
