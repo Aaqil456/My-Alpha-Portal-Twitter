@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-19T17:01:31.699770",
+    "timestamp": "2026-03-20T08:48:12.743108",
     "messages": [
         {
             "source": "twitter",
@@ -1675,6 +1675,19 @@
             "date": "Thu Mar 19 12:34:35 +0000 2026",
             "message_id": "2034609477870297429",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82 @edgeX_exchange Airdrop registration page is live\n\n\ud83d\udcc6Complete registration before 31 March\n\n\ud83d\udd17https://t.co/LrTBCTtIVh\n\u2705Connect wallet\n\u2705Agreed terms\n\u2705Add wallet split or take 100% to single wallet\n\u2705Submit\n\n\ud83d\udca5Done\n\n\ud83e\ude99 $EDGE\n\ud83e\ude99Total supply - 1B\n\n\ud83d\udcc8Already live on Binance pee https://t.co/KvFvSBkpVB",
+            "translated_text": "\ud83e\ude82 @edgeX_exchange Halaman pendaftaran Airdrop dah live\n\n\ud83d\udcc6Selesaikan pendaftaran sebelum 31 Mac\n\n\ud83d\udd17https://t.co/LrTBCTtIVh\n\u2705Sambungkan dompet\n\u2705Setuju dengan terma & syarat\n\u2705Tambah pecahan dompet atau ambil 100% ke satu dompet\n\u2705Hantar\n\n\ud83d\udca5Selesai\n\n\ud83e\ude99 $EDGE\n\ud83e\ude99Jumlah bekalan - 1 Bilion\n\n\ud83d\udcc8Dah live di Binance pee https://t.co/KvFvSBkpVB",
+            "date": "Fri Mar 20 04:35:26 +0000 2026",
+            "message_id": "2034851282369093885",
+            "photos": [
+                "https://pbs.twimg.com/media/HD0-dFLaIAAA2DR.jpg"
+            ]
         }
     ]
 }
