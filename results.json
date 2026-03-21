@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-21T02:21:33.718701",
+    "timestamp": "2026-03-21T08:38:08.899467",
     "messages": [
         {
             "source": "twitter",
@@ -1713,6 +1713,19 @@
             "message_id": "2035171491621609723",
             "photos": [
                 "https://pbs.twimg.com/media/HD5hrpoWcAApa8u.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fWho still remember this @binance backed project?\n\n\ud83e\uddd1\u200d\ud83c\udf3eFarming community since 2023\n\u26a0\ufe0fPostponed TGE multiple times\n\u26a0\ufe0fNo social media post in last 5 months\n\n\ud83e\udd14R u still farming this? I stopped long back\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/tl6kauyiyS",
+            "translated_text": "\u2620\ufe0fSiapa lagi ingat projek yang disokong @binance ni?\n\n\ud83e\uddd1\u200d\ud83c\udf3eKomuniti farming sejak 2023\n\u26a0\ufe0fTGE dah banyak kali tangguh\n\u26a0\ufe0fTak ada post media sosial sejak 5 bulan lepas\n\n\ud83e\udd14Masih farming projek ni ke? Saya dah lama berhenti.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/tl6kauyiyS",
+            "date": "Sat Mar 21 08:10:24 +0000 2026",
+            "message_id": "2035267771609776508",
+            "photos": [
+                "https://pbs.twimg.com/media/HD65QJlaEAA41xM.jpg"
             ]
         }
     ]
