@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-21T16:34:53.774540",
+    "timestamp": "2026-03-22T08:39:21.450421",
     "messages": [
         {
             "source": "twitter",
@@ -1740,6 +1740,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HD70057aAAAzNQ0.jpg",
                 "https://pbs.twimg.com/media/HD701GxawAAfbbL.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother UnStablecoin\n\n\ud83d\udcc9 @ResolvLabs Stablecoin $USR down 95%\n\ud83e\udd77Someone used an exploit to mint 50M $USR with 100K $USDC\n\ud83d\udd02&amp; Repeated couple of times\n\n\ud83d\ude02Great tech\n\n\ud83e\udef5R u impacted?\n\u26a0\ufe0fReminder - exit from Stablecoin farming projects\n\u26a0\ufe0fNot all Stablecoins r stable\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/23wD3unbEM",
+            "translated_text": "\u2620\ufe0fUnStablecoin lain pula\n\n\ud83d\udcc9 @ResolvLabs Stablecoin $USR turun 95%\n\ud83e\udd77Ada orang guna exploit untuk mint 50M $USR dengan 100K $USDC\n\ud83d\udd02Dan ulang beberapa kali\n\n\ud83d\ude02Teknologi hebat\n\n\ud83e\udef5Anda terkesan ke?\n\u26a0\ufe0fIngat - keluar dari projek farming Stablecoin\n\u26a0\ufe0fTak semua Stablecoin stabil\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/23wD3unbEM",
+            "date": "Sun Mar 22 08:34:40 +0000 2026",
+            "message_id": "2035636264075235507",
+            "photos": [
+                "https://pbs.twimg.com/media/HEAIZM9bAAAQ2SK.jpg"
             ]
         }
     ]
