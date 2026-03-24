@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-24T08:57:31.799459",
+    "timestamp": "2026-03-24T17:03:23.349183",
     "messages": [
         {
             "source": "twitter",
@@ -1805,6 +1805,19 @@
             "message_id": "2036365325214818542",
             "photos": [
                 "https://pbs.twimg.com/media/HEKfdqjaIAAJmEt.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @megaeth TGE KPI\n\n\ud83d\ude02No progress from my previous post, hardly any improvement\n\n\ud83d\udcc6Sale went live - 27 Oct 2025\n\u23f0It's been 5months\n\ud83e\udd37Still no TGE\n\n\ud83d\udcb5Sale - $0.099\n\ud83d\udcb5Pre-Market - $0.14\n\ud83d\udcc9Pre-Market listing price- $0.55\n\ud83d\udcc975% down\n\u26a0\ufe0fNo much volume\n\n\ud83e\udd14As expected earlier, https://t.co/mDCwRRVkmn",
+            "translated_text": "\ud83d\udca5Kemaskini tentang KPI TGE @megaeth\n\n\ud83d\ude02Tak ada apa-apa perkembangan dari post saya sebelum ni, tak banyak pun peningkatan.\n\n\ud83d\udcc6Jualan dah mula - 27 Okt 2025\n\u23f0Dah 5 bulan\n\ud83e\udd37Masih tak ada TGE\n\n\ud83d\udcb5Jualan - $0.099\n\ud83d\udcb5Pra-Pasaran - $0.14\n\ud83d\udcc9Harga penyenaraian Pra-Pasaran - $0.55\n\ud83d\udcc9Turun 75%\n\u26a0\ufe0fVolume tak banyak\n\n\ud83e\udd14Macam yang dijangka awal-awal dulu, https://t.co/mDCwRRVkmn",
+            "date": "Tue Mar 24 12:51:22 +0000 2026",
+            "message_id": "2036425641881641209",
+            "photos": [
+                "https://pbs.twimg.com/media/HELWU3saIAErt3P.jpg"
             ]
         }
     ]
