@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-27T16:58:53.865678",
+    "timestamp": "2026-03-28T08:44:22.190489",
     "messages": [
         {
             "source": "twitter",
@@ -1883,6 +1883,20 @@
             "message_id": "2037529626424287333",
             "photos": [
                 "https://pbs.twimg.com/media/HEbCZKTa4AAZhNL.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f @P2Pdotme team was insider trading on Polymarket\n\n\ud83e\udd37They bet that Total sale commit will hit $1M, $2M, $3M, $4M &amp; $6M\n\ud83e\udee3Because they already had info that Multicoin ready to commit $3M\n\ud83d\ude47As expected pool hit $5M\n\ud83d\udcb5Easy profit\n\n\ud83e\udee0Now they say, bet was their way of backing their https://t.co/tQKN3vyno6",
+            "translated_text": "\u2620\ufe0f Pasukan @P2Pdotme buat dagangan orang dalam di Polymarket.\n\ud83e\udd37 Mereka bertaruh yang jumlah komitmen jualan akan cecah $1 Juta, $2 Juta, $3 Juta, $4 Juta &amp; $6 Juta.\n\ud83e\udee3 Sebab mereka dah ada maklumat yang Multicoin sedia untuk komit $3 Juta.\n\ud83d\ude47 Macam yang dijangka, pool tu cecah $5 Juta.\n\ud83d\udcb5 Untung mudah.\n\ud83e\udee0 Sekarang ni, mereka cakap pertaruhan tu cara mereka sokong https://t.co/tQKN3vyno6 mereka.",
+            "date": "Sat Mar 28 05:38:29 +0000 2026",
+            "message_id": "2037766253402837255",
+            "photos": [
+                "https://pbs.twimg.com/media/HEeZmt7bcAAxzSB.jpg",
+                "https://pbs.twimg.com/media/HEeZmtFb0AAQXrU.jpg"
             ]
         }
     ]
