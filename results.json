@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-30T02:48:30.801270",
+    "timestamp": "2026-03-30T09:17:21.720794",
     "messages": [
         {
             "source": "twitter",
@@ -1936,6 +1936,19 @@
             "message_id": "2038446259665821767",
             "photos": [
                 "https://pbs.twimg.com/media/HEoEEe8bMAA_Fcc.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @P2Pdotme sale on @MetaDAOProject\n\n\ud83d\udc47After Polymarket betting drama\n\ud83d\udce4MetaDao Allowing refunds, so if user want they can take refund\n\ud83d\udcc5Sale extended 2 days\n\n\ud83d\udccaCurrent stats\n\ud83d\udc65users -648\n\ud83d\udcb0Commit - $6.6M\n\n\ud83e\udd37Major funds r from VCs\n\ud83e\udef5Did u invest?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/s6qIUeWSL9",
+            "translated_text": "\ud83d\udca5Update tentang jualan @P2Pdotme di @MetaDAOProject\n\n\ud83d\udc47Selepas drama pertaruhan Polymarket\n\ud83d\udce4MetaDao benarkan refund, jadi kalau pengguna nak, diorang boleh ambil refund\n\ud83d\udcc5Jualan dilanjutkan 2 hari\n\n\ud83d\udccaStat terkini\n\ud83d\udc65Pengguna - 648\n\ud83d\udcb0Komitmen - $6.6 juta\n\n\ud83e\udd37Kebanyakan dana datang dari VCs\n\ud83e\udef5Anda ada melabur tak?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/s6qIUeWSL9",
+            "date": "Mon Mar 30 04:57:34 +0000 2026",
+            "message_id": "2038480734592319880",
+            "photos": [
+                "https://pbs.twimg.com/media/HEojarNacAApJFT.jpg"
             ]
         }
     ]
