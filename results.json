@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-29T08:45:27.881236",
+    "timestamp": "2026-03-30T02:48:30.801270",
     "messages": [
         {
             "source": "twitter",
@@ -1923,6 +1923,19 @@
             "message_id": "2038172557762052510",
             "photos": [
                 "https://pbs.twimg.com/media/HEkLI_rbcAAUMOn.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f $CORE token down 50%\n\n\ud83e\udd37As per team, it's casual sell off by whales\n\u274cNo exploit\n\n\ud83e\udee3Market is so bad that coins r casually falling 50%\n\n\ud83e\udef5Do u have any exposure to this? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/sDvul3pHxR",
+            "translated_text": "\u2620\ufe0f Token $CORE turun 50%\n\n\ud83e\udd37 Menurut pasukan, ini jualan biasa oleh 'whales'.\n\u274c Tiada eksploitasi.\n\n\ud83e\udee3 Pasaran teruk sangat sampai syiling boleh jatuh 50% macam tu je.\n\n\ud83e\udef5 Ada tak anda terdedah dengan ni? Bagitahu saya.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/sDvul3pHxR",
+            "date": "Mon Mar 30 02:40:35 +0000 2026",
+            "message_id": "2038446259665821767",
+            "photos": [
+                "https://pbs.twimg.com/media/HEoEEe8bMAA_Fcc.jpg"
             ]
         }
     ]
