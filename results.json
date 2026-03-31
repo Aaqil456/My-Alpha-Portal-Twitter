@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-03-31T02:41:15.455853",
+    "timestamp": "2026-03-31T09:05:08.018567",
     "messages": [
         {
             "source": "twitter",
@@ -1975,6 +1975,19 @@
             "message_id": "2038797232749916649",
             "photos": [
                 "https://pbs.twimg.com/media/HEtDRkIbcAA0pLl.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82 @edgeX_exchange Airdrop claim is live\n\n\ud83d\udd17 https://t.co/LrTBCTtIVh\n\ud83d\udcf8Check &amp; post your Allocation\n\n\ud83e\ude99 $EDGE\n\ud83e\ude99Total supply - 1B\n\n\ud83d\udcb5Pre-Market price - $0.52\n\ud83d\udcb0FDV - $520M\n\n\u23f0CEX Trading start - 6PM IST\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/GNMHdvARZl",
+            "translated_text": "\ud83e\ude82 Tuntutan Airdrop @edgeX_exchange dah boleh dibuat\n\ud83d\udd17 https://t.co/LrTBCTtIVh\n\ud83d\udcf8 Semak & kongsi Alokasi anda\n\n\ud83e\ude99 $EDGE\n\ud83e\ude99 Jumlah bekalan - 1 bilion\n\n\ud83d\udcb5 Harga Pra-Pasaran - $0.52\n\ud83d\udcb0 FDV - $520 juta\n\n\u23f0 Dagangan CEX bermula - 6PM IST\n\n\ud83d\udc99 Suka\n\ud83d\udd01 Retweet https://t.co/GNMHdvARZl",
+            "date": "Tue Mar 31 08:03:55 +0000 2026",
+            "message_id": "2038890018874458377",
+            "photos": [
+                "https://pbs.twimg.com/media/HEuXqqxaoAAg8y8.jpg"
             ]
         }
     ]
