@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-02T09:02:38.723608",
+    "timestamp": "2026-04-02T16:59:04.458720",
     "messages": [
         {
             "source": "twitter",
@@ -2054,6 +2054,19 @@
             "message_id": "2039592250905346503",
             "photos": [
                 "https://pbs.twimg.com/media/HE4WVw0aAAA1axp.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f $STO trying to liquidate both longs &amp; shorts https://t.co/CZYIIjTiph",
+            "translated_text": "\u2620\ufe0f $STO cuba nak cairkan kedua-dua posisi long & short https://t.co/CZYIIjTiph",
+            "date": "Thu Apr 02 10:51:44 +0000 2026",
+            "message_id": "2039657026041844205",
+            "photos": [
+                "https://pbs.twimg.com/media/HE5RQFwboAA-Vy3.jpg"
             ]
         }
     ]
