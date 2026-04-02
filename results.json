@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-01T09:10:28.086274",
+    "timestamp": "2026-04-02T02:37:40.541392",
     "messages": [
         {
             "source": "twitter",
@@ -2026,6 +2026,22 @@
             "date": "Wed Apr 01 06:43:41 +0000 2026",
             "message_id": "2039232213259321479",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8 @DriftProtocol Exploit\n\n\u2620\ufe0f $272M hacked\n\ud83d\ude33One of the biggest hack on Solana\n\n\ud83d\udcb1Hacker bridged everything to Ethereum\n\n\ud83e\udd14Do u have any exposure to this? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/xhV5y8U3XR",
+            "translated_text": "\ud83d\udea8 @DriftProtocol Eksploitasi\n\n\u2620\ufe0f $272 juta digodam\n\ud83d\ude33Salah satu godaman terbesar di Solana\n\n\ud83d\udcb1Penggodam memindahkan semuanya ke Ethereum\n\n\ud83e\udd14Ada tak sesiapa yang terkesan dengan ni? Beritahu saya.\n\n\ud83d\udc99Suka\n\ud83d\udd01Kongsi semula https://t.co/xhV5y8U3XR",
+            "date": "Thu Apr 02 01:13:35 +0000 2026",
+            "message_id": "2039511529612259523",
+            "photos": [
+                "https://pbs.twimg.com/media/HE3M7ToasAEqkED.jpg",
+                "https://pbs.twimg.com/media/HE3M7UTawAAP7pN.jpg",
+                "https://pbs.twimg.com/media/HE3M7UybgAAQQgt.jpg",
+                "https://pbs.twimg.com/media/HE3M7ZPaUAEBstP.jpg"
+            ]
         }
     ]
 }
