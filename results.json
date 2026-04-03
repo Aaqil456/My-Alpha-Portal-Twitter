@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-03T08:59:14.069855",
+    "timestamp": "2026-04-03T16:45:21.182871",
     "messages": [
         {
             "source": "twitter",
@@ -2095,6 +2095,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HE9y4M6awAALPDB.jpg",
                 "https://pbs.twimg.com/media/HE9y4D9aYAAWGYb.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude02Another useless sale, easy skip\n\n\ud83d\udcc5Do u Remember @alignedlayer?\n\ud83e\ude82They announced Airdrop in 2024\n\n\ud83e\udd37They just announced Token auction\n\ud83d\udcb5Min $100M max $1B FDV\n\n\u26a0\ufe0fThey already did 2 sales\n\u2733\ufe0fCoinlist\n\u2733\ufe0fEcho\n\n\ud83d\ude02This is their 3rd sale\n\ud83e\udd23All they r doing is conducting token sales https://t.co/1GOrIOTOV8",
+            "translated_text": "\ud83d\ude02 Jualan tak guna lagi, senang je nak *skip*.\n\n\ud83d\udcc5 Ingat lagi tak @alignedlayer?\n\ud83e\ude82 Diorang dah umumkan Airdrop pada 2024.\n\n\ud83e\udd37 Baru je diorang umumkan lelongan token.\n\ud83d\udcb5 Minimum $100 juta, maksimum $1 bilion FDV.\n\n\u26a0\ufe0f Diorang dah buat 2 jualan sebelum ni:\n\u2733\ufe0f Coinlist\n\u2733\ufe0f Echo\n\n\ud83d\ude02 Ni jualan ketiga diorang.\n\ud83e\udd23 Kerja diorang asyik buat jualan token je. https://t.co/1GOrIOTOV8",
+            "date": "Fri Apr 03 12:32:19 +0000 2026",
+            "message_id": "2040044727824011413",
+            "photos": [
+                "https://pbs.twimg.com/media/HE-x3YfaQAAB3BV.jpg"
             ]
         }
     ]
