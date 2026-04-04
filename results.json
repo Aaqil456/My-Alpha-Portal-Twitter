@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-04T02:30:57.673489",
+    "timestamp": "2026-04-04T08:46:33.244967",
     "messages": [
         {
             "source": "twitter",
@@ -2121,6 +2121,19 @@
             "message_id": "2040241234367897810",
             "photos": [
                 "https://pbs.twimg.com/media/HFBkloSbMAEUwLA.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Check ur @SuiPlay wallet\n\n\u2708\ufe0f If u paid import duty more than 50% on SuiPlay0X1 price &amp; sent mail\n \ud83d\udcb8 They refunded a portion of it\n\n\u26fdI paid - $388\n\ud83d\udcb5Refund received - $160\n\n\ud83d\udd17 https://t.co/QYTqiDrXo0\n\u2705 Login to wallet\n\ud83d\udcf8Check &amp; post ur refund screenshot\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/smaleXVdPJ",
+            "translated_text": "\ud83d\udca5 Cuba tengok @SuiPlay wallet korang\n\n\u2708\ufe0f Kalau korang bayar cukai import lebih 50% daripada harga SuiPlay0X1 & dah hantar emel,\n \ud83d\udcb8 Diorang dah pulangkan sebahagian daripadanya.\n\n\u26fd Saya bayar - $388\n\ud83d\udcb5 Dapat pulangan - $160\n\n\ud83d\udd17 https://t.co/QYTqiDrXo0\n\u2705 Log masuk ke wallet\n\ud83d\udcf8 Semak & kongsi screenshot pulangan korang\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/smaleXVdPJ",
+            "date": "Sat Apr 04 08:32:47 +0000 2026",
+            "message_id": "2040346834464649321",
+            "photos": [
+                "https://pbs.twimg.com/media/HFDEn-VacAAC4aK.jpg"
             ]
         }
     ]
