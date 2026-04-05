@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-04T08:46:33.244967",
+    "timestamp": "2026-04-05T08:49:57.772096",
     "messages": [
         {
             "source": "twitter",
@@ -2134,6 +2134,22 @@
             "message_id": "2040346834464649321",
             "photos": [
                 "https://pbs.twimg.com/media/HFDEn-VacAAC4aK.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd77$270M Drift Hack Explained\n\n\ud83d\udcc56 Month Social Engineering Heist\n\n\ud83d\udc7b Fake trading firm approaches Drift 6 months ago\n\ud83e\udd1dBuilds trust over months via chats &amp; conferences\n\ud83d\udcb0Deposits $1M and integrates into ecosystem\n\n\u231bAt this point they gained full trust of team\n\n\u2699\ufe0fShares tools &amp; https://t.co/YQlSIWgpta",
+            "translated_text": "\ud83e\udd77 Penjelasan Insiden Godaman Drift Bernilai $270 Juta\n\n\ud83d\udcc5 Penipuan Kejuruteraan Sosial Selama 6 Bulan\n\n\ud83d\udc7b Sebuah firma dagangan palsu dekati Drift 6 bulan lepas.\n\ud83e\udd1d Bina kepercayaan selama berbulan-bulan melalui sembang & mesyuarat.\n\ud83d\udcb0 Deposit $1 juta dan berintegrasi ke dalam ekosistem.\n\n\u231b Waktu ni, mereka dah dapat kepercayaan penuh daripada pasukan.\n\n\u2699\ufe0f Berkongsi alatan & https://t.co/YQlSIWgpta",
+            "date": "Sun Apr 05 05:23:51 +0000 2026",
+            "message_id": "2040661676320805335",
+            "photos": [
+                "https://pbs.twimg.com/media/HFHi-tlbYAAg-8I.jpg",
+                "https://pbs.twimg.com/media/HFHi-tvbIAAkMeR.jpg",
+                "https://pbs.twimg.com/media/HFHi-uJa4AAxMjK.jpg",
+                "https://pbs.twimg.com/media/HFHi-vWbIAErxqq.jpg"
             ]
         }
     ]
