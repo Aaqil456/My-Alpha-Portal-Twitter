@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-06T16:54:09.255576",
+    "timestamp": "2026-04-07T09:07:35.004901",
     "messages": [
         {
             "source": "twitter",
@@ -2176,6 +2176,19 @@
             "message_id": "2041149596702003598",
             "photos": [
                 "https://pbs.twimg.com/media/HFOevKNbIAAJonM.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u26a0\ufe0fUpdate on @dovhopol91\n\n\u274cBalls leaderboard is not final\n\ud83e\udd77Final leaderboard will be after filtering bots/sybil\n\ud83d\udcddif ur rank is near ~27K,chances that u might be eligible\n\n\u26a0\ufe0fSo as mentioned in previous post, wait for official checker\n\n\u2620\ufe0fNo change in 10% TGE vesting\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/exGY8niiml",
+            "translated_text": "\u26a0\ufe0fMakluman terkini tentang @dovhopol91\n\n\u274cLeaderboard Balls belum muktamad\n\ud83e\udd77Leaderboard muktamad akan dikeluarkan selepas penapisan bot/sybil\n\ud83d\udcddKalau ranking anda sekitar ~27K, ada peluang anda layak\n\n\u26a0\ufe0fJadi, macam yang disebut dalam hantaran sebelum ni, tunggu checker rasmi\n\n\u2620\ufe0fTiada perubahan pada 10% TGE vesting\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/exGY8niiml",
+            "date": "Tue Apr 07 03:12:52 +0000 2026",
+            "message_id": "2041353486684786823",
+            "photos": [
+                "https://pbs.twimg.com/media/HFRYLJJa8AA5g7b.jpg"
             ]
         }
     ]
