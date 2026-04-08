@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T02:43:48.801618",
+    "timestamp": "2026-04-08T09:05:57.596458",
     "messages": [
         {
             "source": "twitter",
@@ -2215,6 +2215,19 @@
             "message_id": "2041702473308762222",
             "photos": [
                 "https://pbs.twimg.com/media/HFWVk1eaEAAroBj.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f Another token sale $BLEND is live\n\n\ud83c\udfc3Only 25 users joined in 15hrs\n\ud83d\udcb5Target extraction - $1M\n\ud83d\udcb8 $88K accumulated so far\n\n\ud83e\udef5R u planning to join? Or stay away?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/6gaMefDL78",
+            "translated_text": "\u2620\ufe0f Satu lagi jualan token $BLEND dah bermula.\n\ud83c\udfc3Baru 25 pengguna yang sertai dalam 15 jam.\n\ud83d\udcb5Sasaran kutipan - $1 juta.\n\ud83d\udcb8 $88 ribu dah terkumpul setakat ni.\n\ud83e\udef5Anda rancang nak sertai ke? Atau nak elak je?\n\ud83d\udc99Suka\n\ud83d\udd01Kongsi https://t.co/6gaMefDL78",
+            "date": "Wed Apr 08 04:57:15 +0000 2026",
+            "message_id": "2041742142201278487",
+            "photos": [
+                "https://pbs.twimg.com/media/HFW5p7iaIAAgZXZ.jpg"
             ]
         }
     ]
