@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-08T09:05:57.596458",
+    "timestamp": "2026-04-09T02:38:20.913864",
     "messages": [
         {
             "source": "twitter",
@@ -2228,6 +2228,19 @@
             "message_id": "2041742142201278487",
             "photos": [
                 "https://pbs.twimg.com/media/HFW5p7iaIAAgZXZ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @krakenfx just announced Ink Points drop\n\n\ud83d\udd1cFirst points drop on 13 April\n\ud83e\udd14Let's see if they drop points for our @inkonchain interactions &amp; guild activity\n\n\ud83e\udef5What do u think? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/QjVY5j62zv",
+            "translated_text": "\ud83d\udca5 @krakenfx baru saja umumkan drop Ink Points\n\n\ud83d\udd1c Drop poin pertama pada 13 April\n\ud83e\udd14 Jom kita tengok kalau diorang bagi poin untuk interaksi & aktiviti guild @inkonchain kita\n\n\ud83e\udef5 Apa pendapat anda? Beritahu saya\n\n\ud83d\udc99 Like\n\ud83d\udd01 RT https://t.co/QjVY5j62zv",
+            "date": "Thu Apr 09 02:11:15 +0000 2026",
+            "message_id": "2042062755566645501",
+            "photos": [
+                "https://pbs.twimg.com/media/HFbdP0Da8AIgbaU.jpg"
             ]
         }
     ]
