@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-12T16:43:49.471459",
+    "timestamp": "2026-04-13T02:58:13.186704",
     "messages": [
         {
             "source": "twitter",
@@ -2345,6 +2345,19 @@
             "message_id": "2043306801828159649",
             "photos": [
                 "https://pbs.twimg.com/media/HFtItTFaUAAhAfb.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd2f $RAVE crime continues\n\n\ud83d\udcc8 25X in one week\n\ud83d\udcb0 $6B FDV\n\n\u274c No major news, just pump\n\ud83e\udd37 Binance Alpha..\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/jGHiXSWAOL",
+            "translated_text": "Kenaikan $RAVE yang tak masuk akal berterusan\nNaik 25 kali ganda dalam seminggu\n$6 bilion FDV\nTiada berita besar, cuma pam harga je\nBinance Alpha..\n\nSuka\nRT https://t.co/jGHiXSWAOL",
+            "date": "Mon Apr 13 01:19:47 +0000 2026",
+            "message_id": "2043499354615620080",
+            "photos": [
+                "https://pbs.twimg.com/media/HFv31JzawAAj8XS.jpg"
             ]
         }
     ]
