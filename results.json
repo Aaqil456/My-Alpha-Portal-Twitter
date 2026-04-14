@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-13T17:06:55.641180",
+    "timestamp": "2026-04-14T09:22:54.807488",
     "messages": [
         {
             "source": "twitter",
@@ -2384,6 +2384,19 @@
             "message_id": "2043728383453061319",
             "photos": [
                 "https://pbs.twimg.com/media/HFzIIlFbUAAUCSE.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update on @octra\n\n\u2705Token auction is live on @Uniswap\n\n\u274c Sonar sale at $200M FDV is cancelled\n\ud83d\udcb5Now it's auction\n\n\ud83e\ude99 $OCT\n\ud83e\ude99Total supply - 1B\n\ud83e\ude99Sale 10% - 100M\n\ud83e\ude99Testnet tokens converter to mainnet token as Airdrop - ~46M\n\n\ud83d\udcc6Pre-bidding live\n\ud83d\udcc6Actual auction start on 15 April https://t.co/fFI5bWSlav",
+            "translated_text": "\ud83d\udca5 Update pasal @octra\n\n\u2705 Lelongan token dah mula di @Uniswap\n\n\u274c Jualan Sonar pada FDV $200 juta dibatalkan\n\ud83d\udcb5 Sekarang ni, dah tukar jadi lelongan\n\n\ud83e\ude99 $OCT\n\ud83e\ude99 Jumlah bekalan - 1 bilion\n\ud83e\ude99 Jualan 10% - 100 juta\n\ud83e\ude99 Token testnet yang ditukar jadi token mainnet sebagai Airdrop - ~46 juta\n\n\ud83d\udcc6 Pra-bidaan dah live\n\ud83d\udcc6 Lelongan sebenar bermula pada 15 April https://t.co/fFI5bWSlav",
+            "date": "Tue Apr 14 08:33:36 +0000 2026",
+            "message_id": "2043970917114753342",
+            "photos": [
+                "https://pbs.twimg.com/media/HF2kts8asAMHHD1.jpg"
             ]
         }
     ]
