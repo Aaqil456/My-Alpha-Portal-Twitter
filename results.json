@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-14T09:22:54.807488",
+    "timestamp": "2026-04-15T02:49:17.821602",
     "messages": [
         {
             "source": "twitter",
@@ -2397,6 +2397,19 @@
             "message_id": "2043970917114753342",
             "photos": [
                 "https://pbs.twimg.com/media/HF2kts8asAMHHD1.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd2f $RAVE $19B FDV\n\n\u2620\ufe0f Biggest crime on Binance Alpha\n\ud83d\udcc8 80X in a week\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/0agDH3aKWm",
+            "translated_text": "\ud83e\udd2f $RAVE $19B FDV\n\n\u2620\ufe0f Penipuan terbesar di Binance Alpha\n\ud83d\udcc8 Naik 80 kali ganda dalam seminggu\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/0agDH3aKWm",
+            "date": "Wed Apr 15 01:07:39 +0000 2026",
+            "message_id": "2044221076906094899",
+            "photos": [
+                "https://pbs.twimg.com/media/HF6IO5_asAAReC5.jpg"
             ]
         }
     ]
