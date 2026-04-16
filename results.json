@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16T09:25:00.748031",
+    "timestamp": "2026-04-16T17:19:12.648088",
     "messages": [
         {
             "source": "twitter",
@@ -2449,6 +2449,19 @@
             "message_id": "2044618341806141688",
             "photos": [
                 "https://pbs.twimg.com/media/HF_xit2aIAANP9Z.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Farcaster allocation is updated\n\n\ud83d\udd17 https://t.co/nGXSzltca9\n\ud83d\udcf8 Check again &amp; post your screenshot\n\n\u26a0\ufe0fThis is not final allocation\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/puxMt45UBo",
+            "translated_text": "\ud83d\udca5 Peruntukan Farcaster dah dikemaskini\n\ud83d\udd17 https://t.co/nGXSzltca9\n\ud83d\udcf8 Cuba semak semula & kongsi screenshot anda\n\n\u26a0\ufe0f Ini bukan peruntukan muktamad\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/puxMt45UBo",
+            "date": "Thu Apr 16 13:32:27 +0000 2026",
+            "message_id": "2044770901871522136",
+            "photos": [
+                "https://pbs.twimg.com/media/HGB8S9NaEAANkT-.jpg"
             ]
         }
     ]
