@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16T02:56:10.154608",
+    "timestamp": "2026-04-16T09:25:00.748031",
     "messages": [
         {
             "source": "twitter",
@@ -2436,6 +2436,19 @@
             "message_id": "2044587307232268461",
             "photos": [
                 "https://pbs.twimg.com/media/HF_VUgBbcAAo_NU.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82 @farcaster_xyz Retriactive Allocation checker is out\n\n\ud83d\udd17 https://t.co/nGXSzltca9\n\u2705Open this in farcaster\n\u2705Click \"My Rewards\"\n\u2705Now it will show ur estimated rewards\n\ud83d\udcf8Post your screenshot\n\n\u26a0\ufe0fThis is not final allocation\n\u26a0\ufe0fThis is not from New Sold out farcaster (classic) https://t.co/hFERj18qdE",
+            "translated_text": "\ud83e\ude82 Penyemak Alokasi Retroaktif untuk @farcaster_xyz dah keluar\n\n\ud83d\udd17 https://t.co/nGXSzltca9\n\u2705Buka ini dalam farcaster\n\u2705Klik \"My Rewards\"\n\u2705Sekarang akan tunjukkan anggaran ganjaran anda\n\ud83d\udcf8Kongsi tangkapan skrin anda\n\n\u26a0\ufe0fIni bukan alokasi muktamad\n\u26a0\ufe0fIni bukan dari New Sold out farcaster (classic) https://t.co/hFERj18qdE",
+            "date": "Thu Apr 16 03:26:14 +0000 2026",
+            "message_id": "2044618341806141688",
+            "photos": [
+                "https://pbs.twimg.com/media/HF_xit2aIAANP9Z.jpg"
             ]
         }
     ]
