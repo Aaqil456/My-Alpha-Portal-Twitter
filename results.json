@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-16T17:19:12.648088",
+    "timestamp": "2026-04-17T02:51:57.075586",
     "messages": [
         {
             "source": "twitter",
@@ -2462,6 +2462,19 @@
             "message_id": "2044770901871522136",
             "photos": [
                 "https://pbs.twimg.com/media/HGB8S9NaEAANkT-.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 @USDai_Official TGE details out\n\n\ud83d\udcc5 TGE - 21 April\n\n\ud83d\udd17https://t.co/aEaFCOawUs\n\u2705Claim Airdrop\n\ud83d\udcf8Check &amp; post your screenshot\n\u26a0\ufe0fOnly claim, no trading till 21 April\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/9xZxQlURL4",
+            "translated_text": "\ud83d\ude01 @USDai_Official butiran TGE dah keluar\n\n\ud83d\udcc5 TGE - 21 April\n\n\ud83d\udd17https://t.co/aEaFCOawUs\n\u2705Tuntut Airdrop\n\ud83d\udcf8Semak &amp; kongsi screenshot anda\n\u26a0\ufe0fHanya tuntut, tiada dagangan sehingga 21 April\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/9xZxQlURL4",
+            "date": "Fri Apr 17 01:10:32 +0000 2026",
+            "message_id": "2044946578788732974",
+            "photos": [
+                "https://pbs.twimg.com/media/HGEcEaMbcAAJl4u.jpg"
             ]
         }
     ]
