@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T02:51:57.075586",
+    "timestamp": "2026-04-17T09:22:20.628381",
     "messages": [
         {
             "source": "twitter",
@@ -2475,6 +2475,20 @@
             "message_id": "2044946578788732974",
             "photos": [
                 "https://pbs.twimg.com/media/HGEcEaMbcAAJl4u.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcdd Farcaster &amp; Farcaster Classic explained\n\n\ud83d\udc47Let's see Farcaster recent events first\n\ud83d\udcc6Dec 2025 - Changed the vision from social media to wallet focused\n\ud83d\udcc6Jan 2026 - Farcaster core team sold it to @neynarxyz\n\ud83d\udcc6Feb 2026 - Both core team members @dwr &amp; @varunsrin left farcaster &amp; https://t.co/smE3Nh5nyt",
+            "translated_text": "\ud83d\udcdd Farcaster & Farcaster Classic dijelaskan\n\n\ud83d\udc47Jom kita tengok peristiwa terkini Farcaster dulu\n\ud83d\udcc6Dis 2025 - Mengubah visi daripada media sosial kepada fokus dompet\n\ud83d\udcc6Jan 2026 - Pasukan teras Farcaster menjualnya kepada @neynarxyz\n\ud83d\udcc6Feb 2026 - Kedua-dua ahli pasukan teras @dwr & @varunsrin meninggalkan Farcaster dan https://t.co/smE3Nh5nyt",
+            "date": "Fri Apr 17 04:27:41 +0000 2026",
+            "message_id": "2044996195442118662",
+            "photos": [
+                "https://pbs.twimg.com/media/HGFJMfQbUAAitFT.jpg",
+                "https://pbs.twimg.com/media/HGFJMfUaIAAUedL.jpg"
             ]
         }
     ]
