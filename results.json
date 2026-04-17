@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T09:22:20.628381",
+    "timestamp": "2026-04-17T16:57:13.588040",
     "messages": [
         {
             "source": "twitter",
@@ -2489,6 +2489,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HGFJMfQbUAAitFT.jpg",
                 "https://pbs.twimg.com/media/HGFJMfUaIAAUedL.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude05They could extract only $55K so they extended the deadline for registration\n\n\ud83d\udc65Only 8.5K registered so far from 1.42M users\n\ud83e\udef5Did u? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/82u1xFclh4",
+            "translated_text": "\ud83d\ude05 Diorang cuma dapat keluarkan $55K je, jadi diorang lanjutkan tarikh akhir pendaftaran.\n\n\ud83d\udc65 Baru 8.5K je yang daftar setakat ni daripada 1.42 juta pengguna.\n\ud83e\udef5 Dah daftar ke? Bagitahu la saya.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/82u1xFclh4",
+            "date": "Fri Apr 17 13:21:02 +0000 2026",
+            "message_id": "2045130417918058892",
+            "photos": [
+                "https://pbs.twimg.com/media/HGHDREtbsAEhroz.jpg"
             ]
         }
     ]
