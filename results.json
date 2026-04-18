@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-18T02:42:43.044920",
+    "timestamp": "2026-04-18T08:55:42.579359",
     "messages": [
         {
             "source": "twitter",
@@ -2515,6 +2515,20 @@
             "message_id": "2045309418129309903",
             "photos": [
                 "https://pbs.twimg.com/media/HGJmErTbsAAmWrt.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @megaeth TGE KPI\n\n\ud83e\udd0fSmall improvement from previous post\n\ud83d\udcf1Apps increased by 1\n\ud83d\ude014 more apps to do TGE\n\n\ud83e\udd37If team want they can do this instantly\n\n\ud83d\udcc8 $MEGA Pre-Market almost 2X\n\ud83d\udcc9Now correcting\n\n\ud83d\udcb5Sale - $0.099\n\ud83d\udcb5Pre-Market - $0.16\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/2FvbyzWuLD",
+            "translated_text": "\ud83d\udca5Update tentang KPI TGE @megaeth\n\ud83e\udd0fAda peningkatan sikit dari post sebelum ni\n\ud83d\udcf1Apps dah naik 1\n\ud83d\ude01Ada lagi 4 apps nak buat TGE\n\ud83e\udd37Kalau team nak, diorang boleh buat ni terus je\n\ud83d\udcc8 $MEGA Pre-Market dah nak 2x\n\ud83d\udcc9Sekarang tengah buat pembetulan\n\ud83d\udcb5Jualan - $0.099\n\ud83d\udcb5Pre-Market - $0.16\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/2FvbyzWuLD",
+            "date": "Sat Apr 18 04:30:44 +0000 2026",
+            "message_id": "2045359348957008119",
+            "photos": [
+                "https://pbs.twimg.com/media/HGKTe_Ja4AASZc7.jpg",
+                "https://pbs.twimg.com/media/HGKTe_KbIAA5qle.jpg"
             ]
         }
     ]
