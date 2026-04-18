@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-17T16:57:13.588040",
+    "timestamp": "2026-04-18T02:42:43.044920",
     "messages": [
         {
             "source": "twitter",
@@ -2502,6 +2502,19 @@
             "message_id": "2045130417918058892",
             "photos": [
                 "https://pbs.twimg.com/media/HGHDREtbsAEhroz.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude33 $RAVE up again\n\n\ud83d\udcb0 $26B FDV\n\ud83d\udcb5Short liquidations continue\n\n\ud83d\ude02Not opening a leverage trading on $RAVE is a big achievement now\n\ud83d\ude01I only lost $100 in this, I'm happy I didn't do any big trades\n\n\ud83e\udef5What about u?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/PXSA5ug2Nn",
+            "translated_text": "\ud83d\ude33 $RAVE naik lagi\n\n\ud83d\udcb0 FDV $26 bilion\n\ud83d\udcb5 Short liquidation masih berterusan\n\n\ud83d\ude02 Tak buka leverage trading kat $RAVE ni dah kira pencapaian besar sekarang\n\ud83d\ude01 Aku cuma rugi $100 je dalam ni, gembira tak buat trade besar-besar\n\n\ud83e\udef5 Kau pulak macam mana?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/PXSA5ug2Nn",
+            "date": "Sat Apr 18 01:12:19 +0000 2026",
+            "message_id": "2045309418129309903",
+            "photos": [
+                "https://pbs.twimg.com/media/HGJmErTbsAAmWrt.jpg"
             ]
         }
     ]
