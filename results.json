@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-18T08:55:42.579359",
+    "timestamp": "2026-04-18T16:46:55.716335",
     "messages": [
         {
             "source": "twitter",
@@ -2529,6 +2529,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HGKTe_Ja4AASZc7.jpg",
                 "https://pbs.twimg.com/media/HGKTe_KbIAA5qle.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc9 $RAVE free fall started\n\n\ud83d\udd34Down more than 50% in 2hrs\n\ud83e\udd14What do u think? Will it bounce back again?\n\n\ud83d\ude02 Or Binance Alpha will find next crime coin\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/6DIHCCSC0p",
+            "translated_text": "\ud83d\udcc9 $RAVE dah mula jatuh bebas\n\n\ud83d\udd34Turun lebih 50% dalam 2 jam\n\ud83e\udd14Anda rasa macam mana? Akan naik balik ke?\n\n\ud83d\ude02Atau Binance Alpha akan cari coin scam seterusnya\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/6DIHCCSC0p",
+            "date": "Sat Apr 18 12:23:21 +0000 2026",
+            "message_id": "2045478286982303989",
+            "photos": [
+                "https://pbs.twimg.com/media/HGL_qJ2bsAAxild.jpg"
             ]
         }
     ]
