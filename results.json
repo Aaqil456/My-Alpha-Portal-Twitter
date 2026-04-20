@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-19T16:46:20.446115",
+    "timestamp": "2026-04-20T03:19:18.162381",
     "messages": [
         {
             "source": "twitter",
@@ -2555,6 +2555,19 @@
             "message_id": "2045845817463030065",
             "photos": [
                 "https://pbs.twimg.com/media/HGRN7eBbEAEdfFZ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14Did u notice this?\n\n\ud83d\udcb0 $rsETH drained- $290M\n\ud83d\udcb5Aave bad debt- ~$200M\n\ud83e\udd3720+ DeFi protocols frozen\n\ud83d\udce4$10B+ withdrawn from DeFi in 24h\n\n\ud83d\udcc8Multiple pools hit 100% utilization on Aave\n\u274cLiquidations fail to execute\n\ud83d\udcc9Bad debt keeps rising\n\n\ud83e\udee0All triggered by a project with just $69M https://t.co/VLaR09e4mN",
+            "translated_text": "\ud83e\udd14 Perasan tak ni?\n\n\ud83d\udcb0 $rsETH lesap - $290 juta\n\ud83d\udcb5 Hutang lapuk Aave - ~$200 juta\n\ud83e\udd37 Lebih 20 protokol DeFi beku\n\ud83d\udce4 Lebih $10 bilion dikeluarkan dari DeFi dalam 24 jam\n\n\ud83d\udcc8 Banyak pool capai 100% penggunaan di Aave\n\u274c Proses likuidasi gagal dilaksanakan\n\ud83d\udcc9 Hutang lapuk terus meningkat\n\n\ud83e\udee0 Semua ni dicetuskan oleh satu projek yang cuma ada $69 juta https://t.co/VLaR09e4mN",
+            "date": "Mon Apr 20 02:13:10 +0000 2026",
+            "message_id": "2046049504886231082",
+            "photos": [
+                "https://pbs.twimg.com/media/HGUHLpybsAEwMaW.jpg"
             ]
         }
     ]
