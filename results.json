@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T02:54:19.737806",
+    "timestamp": "2026-04-23T09:47:47.393626",
     "messages": [
         {
             "source": "twitter",
@@ -2594,6 +2594,19 @@
             "message_id": "2047131157821882836",
             "photos": [
                 "https://pbs.twimg.com/media/HGje7-ubwAAC5U4.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc8 $MEGA going up slowly\n\n\ud83d\udcb5Sale - $0.099\n\ud83d\udcb5Pre-Market - $0.20\n\n\ud83d\ude09That's 2X from token sale\n\ud83e\udd14 After $CHIP market sentiments going positive\n\n\ud83d\udcc5TGE mostly in May\n\ud83d\udc7e 8 apps live, 2 more to go\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/V3iHaMNpWP",
+            "translated_text": "\ud83d\udcc8 $MEGA naik perlahan-lahan.\n\n\ud83d\udcb5Jualan - $0.099\n\ud83d\udcb5Pra-Pasaran - $0.20\n\nItu dah 2 kali ganda dari jualan token.\n\ud83e\udd14 Lepas $CHIP, sentimen pasaran nampak positif.\n\n\ud83d\udcc5 TGE dijangka bulan Mei.\n\ud83d\udc7e 8 aplikasi dah aktif, tinggal 2 lagi.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/V3iHaMNpWP",
+            "date": "Thu Apr 23 04:51:45 +0000 2026",
+            "message_id": "2047176579026227427",
+            "photos": [
+                "https://pbs.twimg.com/media/HGkIPw2aAAABuFF.jpg"
             ]
         }
     ]
