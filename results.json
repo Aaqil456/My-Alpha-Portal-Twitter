@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-21T09:43:05.911015",
+    "timestamp": "2026-04-23T02:54:19.737806",
     "messages": [
         {
             "source": "twitter",
@@ -2581,6 +2581,19 @@
             "message_id": "2046521002939785418",
             "photos": [
                 "https://pbs.twimg.com/media/HGaz_wMbYAAIOQy.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude02 Many r posting farcaster mini app link to claim $HYPER\n\n\u26a0\ufe0fThis is not official Hypersnap fork token\n\n\ud83e\udd37Always check if team posted something or not\n\n\ud83d\udcc5Official Hypersnap token will be launched before 4 May\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/NOuMKW4dX0",
+            "translated_text": "\ud83d\ude02 Ramai yang kongsi link mini app Farcaster untuk claim $HYPER.\n\u26a0\ufe0f Ini bukan token fork Hypersnap yang rasmi.\n\ud83e\udd37 Sentiasa semak kalau team dah post apa-apa ke belum.\n\ud83d\udcc5 Token Hypersnap yang rasmi akan dilancarkan sebelum 4 Mei.\n\ud83d\udc99 Like\n\ud83d\udd01 RT https://t.co/NOuMKW4dX0",
+            "date": "Thu Apr 23 01:51:16 +0000 2026",
+            "message_id": "2047131157821882836",
+            "photos": [
+                "https://pbs.twimg.com/media/HGje7-ubwAAC5U4.jpg"
             ]
         }
     ]
