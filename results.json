@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-23T17:23:56.372672",
+    "timestamp": "2026-04-24T02:55:18.707429",
     "messages": [
         {
             "source": "twitter",
@@ -2620,6 +2620,19 @@
             "message_id": "2047342378839851210",
             "photos": [
                 "https://pbs.twimg.com/media/HGmfCcKaEAAdjyd.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd5c  @pharos_network checker &amp; registration live\n\n\ud83d\udd17 https://t.co/SfynMPh5yH\n\ud83d\udcf8 Check &amp; post your screenshot\n\n\ud83d\udcc5Registration ends \u2013 April 25\n\ud83d\udcc5Claiming Starts - April 28\n\n\ud83d\udd12Comes with 3 vesting options\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/UxksIx8gUx",
+            "translated_text": "\ud83e\udd5c @pharos_network checker & pendaftaran dah aktif!\n\n\ud83d\udd17 https://t.co/SfynMPh5yH\n\ud83d\udcf8 Semak & kongsi screenshot anda.\n\n\ud83d\udcc5 Pendaftaran tamat \u2013 25 April\n\ud83d\udcc5 Tuntutan bermula \u2013 28 April\n\n\ud83d\udd12 Ada 3 pilihan vesting.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/UxksIx8gUx",
+            "date": "Fri Apr 24 01:21:36 +0000 2026",
+            "message_id": "2047486080631578968",
+            "photos": [
+                "https://pbs.twimg.com/media/HGohvYCbQAAvKAP.jpg"
             ]
         }
     ]
