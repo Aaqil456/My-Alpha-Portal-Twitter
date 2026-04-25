@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-24T02:55:18.707429",
+    "timestamp": "2026-04-25T08:57:35.727653",
     "messages": [
         {
             "source": "twitter",
@@ -2633,6 +2633,19 @@
             "message_id": "2047486080631578968",
             "photos": [
                 "https://pbs.twimg.com/media/HGohvYCbQAAvKAP.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd37Tried onboarding a Web2 friend to crypto\n\n\ud83d\udc47Gave him the idea of crypto related risks\n\n\u26a0\ufe0fCEX? Not your keys, not your crypto\n\u26a0\ufe0fSoftware wallet? Lose seed means funds gone forever\n\u26a0\ufe0fSoftware wallet has chances of exploit\n\u26a0\ufe0fStake in DeFi? One exploit  &amp; goodbye to portfolio https://t.co/bmIUTTngew",
+            "translated_text": "\ud83e\udd37 Cuba nak ajak kawan Web2 ke kripto\n\ud83d\udc47 Terangkan pada dia risiko-risiko berkaitan kripto:\n\u26a0\ufe0f CEX? Bukan kunci anda, bukan kripto anda.\n\u26a0\ufe0f Dompet perisian? Hilang seed, duit lesap terus.\n\u26a0\ufe0f Dompet perisian ada potensi kena exploit.\n\u26a0\ufe0f Stake dalam DeFi? Kena exploit sekali, bye-bye portfolio. https://t.co/bmIUTTngew",
+            "date": "Sat Apr 25 03:38:16 +0000 2026",
+            "message_id": "2047882859311247416",
+            "photos": [
+                "https://pbs.twimg.com/media/HGuKmX1b0AAOXg5.jpg"
             ]
         }
     ]
