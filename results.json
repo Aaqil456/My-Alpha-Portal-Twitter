@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T08:57:35.727653",
+    "timestamp": "2026-04-25T16:49:45.076362",
     "messages": [
         {
             "source": "twitter",
@@ -2646,6 +2646,19 @@
             "message_id": "2047882859311247416",
             "photos": [
                 "https://pbs.twimg.com/media/HGuKmX1b0AAOXg5.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update on $rsETH exploit &amp; its impact on @aave\n\n\ud83c\udd95 Aave started DeFi United\n\ud83e\uddd1\u200d\ud83d\udd27It is a coordinated relief effort led by Aave\n\n\ud83d\udc4fMultiple ecosystem participants already contributed\n\n\ud83d\udc47Number\n\ud83e\ude99Total gap - ~160K $ETH\n\ud83e\ude99Arbitrum froze - 30K $ETH\n\ud83e\ude99Kelp recovered 40,300 rsETH - 43K https://t.co/g9awAPBkpW",
+            "translated_text": "\ud83d\udca5 Kemaskini pasal isu eksploitasi $rsETH dan kesannya pada @aave\n\n\ud83c\udd95 Aave dah mulakan DeFi United\n\ud83e\uddd1\u200d\ud83d\udd27 Ini adalah usaha bantuan yang diselaraskan, diterajui oleh Aave\n\n\ud83d\udc4f Banyak peserta ekosistem dah pun menyumbang\n\n\ud83d\udc47 Angka-angka\n\ud83e\ude99 Jumlah kekurangan - ~160K $ETH\n\ud83e\ude99 Arbitrum bekukan - 30K $ETH\n\ud83e\ude99 Kelp berjaya pulihkan 40,300 rsETH - 43K https://t.co/g9awAPBkpW",
+            "date": "Sat Apr 25 13:07:01 +0000 2026",
+            "message_id": "2048025992225288417",
+            "photos": [
+                "https://pbs.twimg.com/media/HGwMyKBbIAALoIh.jpg"
             ]
         }
     ]
