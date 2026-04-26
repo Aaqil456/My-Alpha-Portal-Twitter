@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-25T16:49:45.076362",
+    "timestamp": "2026-04-26T03:21:32.230488",
     "messages": [
         {
             "source": "twitter",
@@ -2659,6 +2659,19 @@
             "message_id": "2048025992225288417",
             "photos": [
                 "https://pbs.twimg.com/media/HGwMyKBbIAALoIh.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udeeaAnother day, another exploit\n\n\ud83e\udee0This time they exploited the blockchain\n\n\ud83d\udea8Yesterday @litecoin hit by a coordinated DoS attack\n\ud83e\udd77Attackers attempted double spends via crosschain swaps\n\n\u26a0\ufe0f This was due to some \"Zero day bug\" &amp; outdated mining nodes enabled invalid txs\n\n\ud83d\udd28Now bug https://t.co/zUPo21H5uD",
+            "translated_text": "\ud83e\udeeaHari ni, ada lagi kes eksploitasi\n\ud83e\udee0Kali ni, diorang eksploitasi blockchain\n\ud83d\udea8Semalam, @litecoin kena serangan DoS yang terancang\n\ud83e\udd77Penyerang cuba buat double spend melalui crosschain swaps\n\u26a0\ufe0fPuncanya ada \"Zero day bug\" dan mining node yang dah lapuk membolehkan transaksi tak sah\n\ud83d\udd28Bug ni https://t.co/zUPo21H5uD",
+            "date": "Sun Apr 26 02:00:12 +0000 2026",
+            "message_id": "2048220569683005944",
+            "photos": [
+                "https://pbs.twimg.com/media/HGy9wEjbEAAyh1d.jpg"
             ]
         }
     ]
