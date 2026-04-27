@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-26T03:21:32.230488",
+    "timestamp": "2026-04-27T03:26:20.466910",
     "messages": [
         {
             "source": "twitter",
@@ -2672,6 +2672,19 @@
             "message_id": "2048220569683005944",
             "photos": [
                 "https://pbs.twimg.com/media/HGy9wEjbEAAyh1d.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8 Another Exploit\n\n\u2620\ufe0f @Scallop_io\n\u26d3\ufe0f This time on $SUI\n\ud83d\udcb0 Only $140K\n\n\ud83e\udeea Exploit every day..\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/ai4VT12zlr",
+            "translated_text": "\ud83d\udea8 Ada lagi kes eksploitasi\n\n\u2620\ufe0f @Scallop_io\n\u26d3\ufe0f Kali ni dekat $SUI\n\ud83d\udcb0 Cuma $140K je\n\n\ud83e\udeea Hari-hari ada je kes eksploitasi ni..\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/ai4VT12zlr",
+            "date": "Sun Apr 26 15:43:07 +0000 2026",
+            "message_id": "2048427664982393041",
+            "photos": [
+                "https://pbs.twimg.com/media/HG16GyHaUAArSXu.jpg"
             ]
         }
     ]
