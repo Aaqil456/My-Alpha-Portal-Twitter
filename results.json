@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T03:26:20.466910",
+    "timestamp": "2026-04-27T10:20:34.066346",
     "messages": [
         {
             "source": "twitter",
@@ -2685,6 +2685,19 @@
             "message_id": "2048427664982393041",
             "photos": [
                 "https://pbs.twimg.com/media/HG16GyHaUAArSXu.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14 @gensynai CEO keeps saying $AI TGE in April..\n\n\ud83d\uddd3\ufe0f4 more days in April\n\ud83d\udc40Still no update on TGE\n\n\ud83e\udd14 @benfielding can u clarify if u r referring to April 2026?\n\n\ud83e\udd37Or may be we see a sudden announcement about TGE tomorrow\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/hV67Xu7X8K",
+            "translated_text": "\ud83e\udd14 CEO @gensynai asyik cakap $AI TGE bulan April..\n\n\ud83d\uddd3\ufe0fTinggal 4 hari lagi bulan April\n\ud83d\udc40Masih tak ada update pasal TGE\n\n\ud83e\udd14 @benfielding boleh jelaskan tak kalau awak maksudkan April 2026?\n\n\ud83e\udd37Atau mungkin kita nampak pengumuman mengejut pasal TGE esok\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/hV67Xu7X8K",
+            "date": "Mon Apr 27 08:00:48 +0000 2026",
+            "message_id": "2048673703882555815",
+            "photos": [
+                "https://pbs.twimg.com/media/HG5Z3sjaIAASNbj.jpg"
             ]
         }
     ]
