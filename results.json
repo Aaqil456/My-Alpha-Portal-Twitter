@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-27T10:20:34.066346",
+    "timestamp": "2026-04-28T03:32:08.745945",
     "messages": [
         {
             "source": "twitter",
@@ -2698,6 +2698,19 @@
             "message_id": "2048673703882555815",
             "photos": [
                 "https://pbs.twimg.com/media/HG5Z3sjaIAASNbj.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd37 Another day another exploit https://t.co/IfbiB2qFCR",
+            "translated_text": "\ud83e\udd37 Macam biasa, ada lagi eksploitasi baru. https://t.co/IfbiB2qFCR",
+            "date": "Tue Apr 28 01:12:20 +0000 2026",
+            "message_id": "2048933300899823627",
+            "photos": [
+                "https://pbs.twimg.com/media/HG9F-XQaQAA1bI9.jpg"
             ]
         }
     ]
