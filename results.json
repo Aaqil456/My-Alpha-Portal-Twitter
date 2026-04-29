@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-29T03:30:36.639105",
+    "timestamp": "2026-04-29T17:41:42.583371",
     "messages": [
         {
             "source": "twitter",
@@ -2724,6 +2724,19 @@
             "message_id": "2049297895476887735",
             "photos": [
                 "https://pbs.twimg.com/media/HHCRkq0bEAAQhXI.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @megaeth TGE details r out\n\n\ud83d\udcc530 April\n\u23f0Onchain - 4:30PM IST\n\u23f0Offchain - 5:30PM IST\n\n\ud83e\udd14Mostly ICO claim at 4:30PM IST\n\ud83e\udd14What do u think?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/lWKko3e0o6",
+            "translated_text": "\ud83d\udca5 Butiran TGE @megaeth dah keluar\n\n\ud83d\udcc530 April\n\u23f0Onchain - 4:30PM IST\n\u23f0Offchain - 5:30PM IST\n\n\ud83e\udd14Selalunya claim ICO pada 4:30PM IST\n\ud83e\udd14Apa pendapat anda?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/lWKko3e0o6",
+            "date": "Wed Apr 29 15:43:13 +0000 2026",
+            "message_id": "2049514852939604177",
+            "photos": [
+                "https://pbs.twimg.com/media/HHFW5aHbkAE0Py-.jpg"
             ]
         }
     ]
