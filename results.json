@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-28T03:32:08.745945",
+    "timestamp": "2026-04-29T03:30:36.639105",
     "messages": [
         {
             "source": "twitter",
@@ -2711,6 +2711,19 @@
             "message_id": "2048933300899823627",
             "photos": [
                 "https://pbs.twimg.com/media/HG9F-XQaQAA1bI9.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @gensynai listing announced\n\n\u2705 Coinbase\n\u2705 Kraken\n\n\ud83d\udc40 Date not revealed.\n\ud83d\udcc5 Mostly 30 April\n\ud83e\udef5 What do u think?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/kpISJgxpCB",
+            "translated_text": "\ud83d\udca5 @gensynai dah umumkan penyenaraian\n\n\u2705 Coinbase\n\u2705 Kraken\n\n\ud83d\udc40 Tarikh belum didedahkan.\n\ud83d\udcc5 Kemungkinan besar 30 April\n\ud83e\udef5 Apa pendapat anda?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/kpISJgxpCB",
+            "date": "Wed Apr 29 01:21:07 +0000 2026",
+            "message_id": "2049297895476887735",
+            "photos": [
+                "https://pbs.twimg.com/media/HHCRkq0bEAAQhXI.jpg"
             ]
         }
     ]
