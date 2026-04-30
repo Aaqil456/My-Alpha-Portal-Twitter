@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-29T17:41:42.583371",
+    "timestamp": "2026-04-30T10:09:24.286143",
     "messages": [
         {
             "source": "twitter",
@@ -2737,6 +2737,19 @@
             "message_id": "2049514852939604177",
             "photos": [
                 "https://pbs.twimg.com/media/HHFW5aHbkAE0Py-.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udeea $MEGA on Binance Spot\n\n\u274cNo Binance Alpha\n\u274cNo Binance HODLer Airdrop\n\n\ud83e\udd14Will they announce it soon?\n\ud83d\ude33Or Binance surrendered to @megaeth?\n\n\ud83d\ude30What do u think? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/v7bhC5BD4d",
+            "translated_text": "\ud83e\udeea $MEGA di Binance Spot\n\n\u274cTiada Binance Alpha\n\u274cTiada Binance HODLer Airdrop\n\n\ud83e\udd14Diorang akan umumkan tak nanti?\n\ud83d\ude33Atau Binance dah mengalah dengan @megaeth?\n\n\ud83d\ude30Apa pendapat korang? Beritahu saya.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/v7bhC5BD4d",
+            "date": "Thu Apr 30 09:21:22 +0000 2026",
+            "message_id": "2049781142535168089",
+            "photos": [
+                "https://pbs.twimg.com/media/HHJJFOPbMAAJR5w.jpg"
             ]
         }
     ]
