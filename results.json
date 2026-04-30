@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T10:09:24.286143",
+    "timestamp": "2026-04-30T17:24:57.482011",
     "messages": [
         {
             "source": "twitter",
@@ -2750,6 +2750,19 @@
             "message_id": "2049781142535168089",
             "photos": [
                 "https://pbs.twimg.com/media/HHJJFOPbMAAJR5w.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @billions_ntwk \"First AI Agent Rewards\" \n\n\ud83e\udd14Only name indicates rewards\n\u26a0\ufe0fNot sure if there will be any rewards actually\n\u26a0\ufe0fAs major CEX is involved, they may not allow rewards\n\u26a0\ufe0fTry as it is free, with no expectations\n\n\u2705If u followed my previous guide for AI https://t.co/njHMFun5sz",
+            "translated_text": "\ud83d\udca5Panduan mudah tentang @billions_ntwk \"First AI Agent Rewards\"\n\n\ud83e\udd14Nama je yang tunjuk ada ganjaran\n\u26a0\ufe0fTak pasti betul-betul ada ganjaran ke tak\n\u26a0\ufe0fSebab CEX besar terlibat, mungkin tak benarkan ganjaran ni\n\u26a0\ufe0fCuba je sebab percuma, tanpa sebarang harapan\n\n\u2705Kalau dah ikut panduan AI aku yang sebelum ni https://t.co/njHMFun5sz",
+            "date": "Thu Apr 30 12:37:50 +0000 2026",
+            "message_id": "2049830586039288138",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2049830518775234560/pu/img/7V-jRW98I8s8Dm1R.jpg"
             ]
         }
     ]
