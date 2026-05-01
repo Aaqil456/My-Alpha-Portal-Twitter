@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T03:41:36.462060",
+    "timestamp": "2026-05-01T09:49:07.194529",
     "messages": [
         {
             "source": "twitter",
@@ -2776,6 +2776,19 @@
             "message_id": "2050026986601615479",
             "photos": [
                 "https://pbs.twimg.com/media/HHMorUYbYAAESYO.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8 Important update for @worldlibertyfi token sale investors\n\n\ud83d\udcddNew proposal live\n\ud83e\ude99early $WLFI buyers Opt-in to new unlock terms\n\ud83d\udd122year lock\n\ud83d\uddd3\ufe0fThen 2 year linear vest\n\n\ud83d\udcc5This 2 year lock starts from date of this proposal approval\n\n\u26a0\ufe0fIf u participated in sale &amp; Don\u2019t vote \"yes\", https://t.co/9lySHAkIAY",
+            "translated_text": "Update penting untuk pelabur jualan token @worldlibertyfi\n\nCadangan baru dah keluar.\nPembeli awal $WLFI boleh pilih untuk ikut terma buka kunci yang baru.\nKunci selama 2 tahun.\nLepas tu, vesting linear selama 2 tahun.\n\nTempoh kunci 2 tahun ni bermula dari tarikh cadangan ni diluluskan.\n\nKalau anda dah sertai jualan ni dan tak undi \"ya\", https://t.co/9lySHAkIAY",
+            "date": "Fri May 01 08:33:33 +0000 2026",
+            "message_id": "2050131497164919133",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2050131467318251520/pu/img/Cha-O2Fnkm6G-1JX.jpg"
             ]
         }
     ]
