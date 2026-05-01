@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-04-30T17:24:57.482011",
+    "timestamp": "2026-05-01T03:41:36.462060",
     "messages": [
         {
             "source": "twitter",
@@ -2763,6 +2763,19 @@
             "message_id": "2049830586039288138",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2049830518775234560/pu/img/7V-jRW98I8s8Dm1R.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udeeaAnother day another exploit\n\n\u2620\ufe0f @wasabi_protocol\n\ud83d\udcb5 $5M\n\n\ud83e\udd37When is this exploit season ending?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/WqKJqTwyyR",
+            "translated_text": "\ud83e\udeea Hari lain, eksploitasi lain pula\n\n\u2620\ufe0f @wasabi_protocol\n\ud83d\udcb5 $5M\n\n\ud83e\udd37 Bila la musim eksploitasi ni nak habis?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 Retweet https://t.co/WqKJqTwyyR",
+            "date": "Fri May 01 01:38:15 +0000 2026",
+            "message_id": "2050026986601615479",
+            "photos": [
+                "https://pbs.twimg.com/media/HHMorUYbYAAESYO.jpg"
             ]
         }
     ]
