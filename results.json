@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-02T09:10:44.236721",
+    "timestamp": "2026-05-02T16:53:36.407798",
     "messages": [
         {
             "source": "twitter",
@@ -2826,6 +2826,19 @@
             "message_id": "2050439959434449179",
             "photos": [
                 "https://pbs.twimg.com/media/HHSgRODagAAqaFm.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update on @billions_ntwk sale refund\n\n\ud83c\udf81 They added 5% bonus\n \ud83d\udcb8 If u joined sale with $100 u get $105 as refund\n\n\ud83e\ude99Also sale participated users get additional consideration in $BILL Airdrop\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/AYam0780W1",
+            "translated_text": "\ud83d\udca5 Makluman terkini tentang refund jualan @billions_ntwk\n\n\ud83c\udf81 Ada tambahan bonus 5%\n\ud83d\udcb8 Kalau join jualan dengan $100, anda dapat $105 sebagai refund\n\n\ud83e\ude99 Selain tu, pengguna yang sertai jualan akan dapat lebih lagi dalam Airdrop $BILL\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/AYam0780W1",
+            "date": "Sat May 02 13:15:47 +0000 2026",
+            "message_id": "2050564912020398218",
+            "photos": [
+                "https://pbs.twimg.com/media/HHUR6bfaEAAKdxx.jpg"
             ]
         }
     ]
