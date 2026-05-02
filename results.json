@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-01T17:00:15.877859",
+    "timestamp": "2026-05-02T02:57:31.245830",
     "messages": [
         {
             "source": "twitter",
@@ -2801,6 +2801,19 @@
             "date": "Fri May 01 12:32:40 +0000 2026",
             "message_id": "2050191672869519589",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @billions_ntwk TGE Hints out\n\n\ud83d\udcc5 4th May\n\ud83e\udd14Let's hope they give some decent Airdrop\n\n\ud83e\udef5Wt do u think? Will it cook or rekt because of major CEX?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/yRuyNcdHfU",
+            "translated_text": "\ud83d\udca5 @billions_ntwk TGE dah ada bayangan\n\n\ud83d\udcc5 4 Mei\n\ud83e\udd14 Harap-harap diorang bagi Airdrop yang lumayan.\n\n\ud83e\udef5 Anda rasa macam mana? Adakah ia akan menjadi atau lingkup sebab CEX besar?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/yRuyNcdHfU",
+            "date": "Sat May 02 00:45:07 +0000 2026",
+            "message_id": "2050376002266972548",
+            "photos": [
+                "https://pbs.twimg.com/media/HHRmGxWaUAAT5NX.jpg"
+            ]
         }
     ]
 }
