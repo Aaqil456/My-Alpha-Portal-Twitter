@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-02T16:53:36.407798",
+    "timestamp": "2026-05-03T03:34:08.865739",
     "messages": [
         {
             "source": "twitter",
@@ -2839,6 +2839,19 @@
             "message_id": "2050564912020398218",
             "photos": [
                 "https://pbs.twimg.com/media/HHUR6bfaEAAKdxx.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f $MEGA down another 20%\n\n\ud83e\udd3a @monad fudding @megaeth on Binance listing fee\n\u26a0\ufe0f Just a reminder $MON is still not listed on Binance\n\ud83d\ude02 All the crazy FUD starts whenever I'm holding a coin\n\n\ud83e\udd14R u still holding ur allocation? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/JmRzARZvI7",
+            "translated_text": "\u2620\ufe0f $MEGA jatuh lagi 20%\n\n\ud83e\udd3a @monad sebar FUD pasal @megaeth tentang yuran penyenaraian Binance\n\u26a0\ufe0f Cuma nak ingatkan $MON masih belum disenaraikan di Binance\n\ud83d\ude02 Semua FUD yang bukan-bukan ni mula bila saya pegang satu-satu koin\n\n\ud83e\udd14 Awak masih pegang alokasi awak ke? Beritahu saya\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/JmRzARZvI7",
+            "date": "Sun May 03 01:36:32 +0000 2026",
+            "message_id": "2050751330151723102",
+            "photos": [
+                "https://pbs.twimg.com/media/HHW7dtsaMAAqbi5.jpg"
             ]
         }
     ]
