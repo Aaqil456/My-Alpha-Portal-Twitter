@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-03T03:34:08.865739",
+    "timestamp": "2026-05-04T10:16:36.566272",
     "messages": [
         {
             "source": "twitter",
@@ -2852,6 +2852,19 @@
             "message_id": "2050751330151723102",
             "photos": [
                 "https://pbs.twimg.com/media/HHW7dtsaMAAqbi5.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude99 $BILL is live for 3hrs+\n\n\u26a0\ufe0fStill no claim for community\n\n\ud83e\udd23If u r wondering about the reason - it is same \"Major CEX\" that cancelled community allocation\n\n\ud83e\udd37This major CEX won't allow project to give tokens to community in initial couple of hrs\n\n\u274cThey took user allocation &amp; https://t.co/0wyYrhtrTy",
+            "translated_text": "\ud83e\ude99 $BILL dah live lebih 3 jam.\n\u26a0\ufe0f Masih tak boleh claim untuk komuniti.\n\ud83e\udd23 Kalau nak tahu sebabnya, ia adalah \"CEX Utama\" yang sama yang batalkan peruntukan komuniti.\n\ud83e\udd37 \"CEX Utama\" ni tak benarkan projek ni bagi token kepada komuniti dalam beberapa jam pertama.\n\u274c Diorang ambil peruntukan pengguna dan https://t.co/0wyYrhtrTy",
+            "date": "Mon May 04 10:11:08 +0000 2026",
+            "message_id": "2051243219237871878",
+            "photos": [
+                "https://pbs.twimg.com/media/HHd61XracAAhXY2.jpg"
             ]
         }
     ]
