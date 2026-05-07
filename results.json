@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-06T17:43:38.604804",
+    "timestamp": "2026-05-07T17:50:30.264267",
     "messages": [
         {
             "source": "twitter",
@@ -2891,6 +2891,19 @@
             "message_id": "2052029025300992284",
             "photos": [
                 "https://pbs.twimg.com/media/HHpFhVFbgAAUSI3.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @NexusLabs added to @coinbase roadmap\n\n\ud83d\udd1cSo soon TGE\n\ud83d\udcc4Contract deployed on Ethereum\n\n\ud83e\ude99Total supply - 100 trillion\n\ud83d\ude02Yes trillions\n\n\ud83e\udd14Strange thing is this supply is split to 111 wallets\n\ud83e\udd37Many wallets hold 1%\n\ud83e\udde2Higest holding wallet has only 4.8%\n\n\ud83e\udef5Wt u think?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/b7rh7BrmEd",
+            "translated_text": "\ud83d\udca5 @NexusLabs dah masuk dalam roadmap @coinbase\n\n\ud83d\udd1cTGE akan datang tak lama lagi\n\ud83d\udcc4Kontrak dah di-deploy kat Ethereum\n\n\ud83e\ude99Jumlah supply - 100 trilion\n\ud83d\ude02Ya, trilion!\n\n\ud83e\udd14Yang peliknya, supply ni dibahagikan kepada 111 wallet\n\ud83e\udd37Banyak wallet pegang 1%\n\ud83e\udde2Wallet yang pegang paling banyak pun cuma ada 4.8%\n\n\ud83e\udef5Anda rasa macam mana?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/b7rh7BrmEd",
+            "date": "Thu May 07 16:28:00 +0000 2026",
+            "message_id": "2052425224294175057",
+            "photos": [
+                "https://pbs.twimg.com/media/HHut3UmbwAArJZi.jpg"
             ]
         }
     ]
