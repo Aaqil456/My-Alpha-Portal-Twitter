@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-07T17:50:30.264267",
+    "timestamp": "2026-05-08T03:26:31.576561",
     "messages": [
         {
             "source": "twitter",
@@ -2904,6 +2904,19 @@
             "message_id": "2052425224294175057",
             "photos": [
                 "https://pbs.twimg.com/media/HHut3UmbwAArJZi.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 My locked $BILL Airdrop is now worth $2555\n\n\ud83e\udd14But what will be the value during unlock?\n\ud83e\udef5Can u guess?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/YoGJpenDbh",
+            "translated_text": "\ud83d\ude01 Airdrop $BILL saya yang dah lock sekarang bernilai $2555\n\n\ud83e\udd14 Tapi berapa agaknya nilai dia bila dah unlock nanti?\n\ud83e\udef5 Boleh teka tak?\n\n\ud83d\udc99 Like\n\ud83d\udd01 RT https://t.co/YoGJpenDbh",
+            "date": "Fri May 08 01:49:30 +0000 2026",
+            "message_id": "2052566531964551544",
+            "photos": [
+                "https://pbs.twimg.com/media/HHwuYRYbIAAsUM0.jpg"
             ]
         }
     ]
