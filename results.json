@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-10T03:37:00.586620",
+    "timestamp": "2026-05-10T09:40:52.005856",
     "messages": [
         {
             "source": "twitter",
@@ -2943,6 +2943,19 @@
             "message_id": "2053282472520192370",
             "photos": [
                 "https://pbs.twimg.com/media/HH65hhPbcAABsXf.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update on @NexusLabs\n\n\u2705Testnet portal is back online\n\u2705U can now check $NEX points\n\n\ud83d\udd17 https://t.co/vWU5CMFYSD\n\u2705Login &amp; check under rewards tab\n\ud83d\udcf8Post ur screenshot\n\n\ud83e\ude99Total supply - 100T\n\ud83e\udd14So 1 Testnet point = 1 mainnet token?\n\n\ud83e\udef5 Wt do u think? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/vIP6zx5gfj",
+            "translated_text": "\ud83d\udca5 Info terkini pasal @NexusLabs\n\n\u2705 Portal Testnet dah online balik\n\u2705 Anda dah boleh semak mata $NEX\n\n\ud83d\udd17 https://t.co/vWU5CMFYSD\n\u2705 Log masuk &amp; semak dekat tab ganjaran\n\ud83d\udcf8 Kongsikan screenshot anda\n\n\ud83e\ude99 Jumlah bekalan - 100T\n\ud83e\udd14 Jadi, 1 mata Testnet = 1 token mainnet?\n\n\ud83e\udef5 Apa pendapat anda? Beritahu saya\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/vIP6zx5gfj",
+            "date": "Sun May 10 05:08:52 +0000 2026",
+            "message_id": "2053341480937488535",
+            "photos": [
+                "https://pbs.twimg.com/media/HH7vMTHa8AA1cJ-.jpg"
             ]
         }
     ]
