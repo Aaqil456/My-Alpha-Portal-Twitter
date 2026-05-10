@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-09T03:24:55.395876",
+    "timestamp": "2026-05-10T03:37:00.586620",
     "messages": [
         {
             "source": "twitter",
@@ -2930,6 +2930,19 @@
             "message_id": "2052921137831800903",
             "photos": [
                 "https://pbs.twimg.com/media/HH1w5DdakAAiJQV.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude33 $BILL - $0.12\n\n\ud83d\udcb0 FDV - $1.21B\n\ud83d\udcb5 Token sale FDV - $100M\n\n\ud83d\ude80That's 12X\n\u26a0\ufe0fBut they added vesting of minimum 6months\n\n\ud83e\udd37It may not survive this pump for 6 months..\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/74sgHi43Ve",
+            "translated_text": "\ud83d\ude33 $BILL - $0.12\n\n\ud83d\udcb0 FDV - $1.21B\n\ud83d\udcb5 FDV masa jualan token - $100M\n\n\ud83d\ude80 Itu dah 12x!\n\u26a0\ufe0f Tapi diorang letak tempoh vesting minimum 6 bulan.\n\n\ud83e\udd37 Entah-entah tak tahan lama pun pump ni sampai 6 bulan..\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/74sgHi43Ve",
+            "date": "Sun May 10 01:14:24 +0000 2026",
+            "message_id": "2053282472520192370",
+            "photos": [
+                "https://pbs.twimg.com/media/HH65hhPbcAABsXf.jpg"
             ]
         }
     ]
