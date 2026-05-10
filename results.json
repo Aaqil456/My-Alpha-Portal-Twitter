@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-10T09:40:52.005856",
+    "timestamp": "2026-05-10T16:59:18.204421",
     "messages": [
         {
             "source": "twitter",
@@ -2956,6 +2956,19 @@
             "message_id": "2053341480937488535",
             "photos": [
                 "https://pbs.twimg.com/media/HH7vMTHa8AA1cJ-.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82 @farcaster_xyz Hypersnap Airdrop 2nd claim is live\n\n\ud83d\udd17 https://t.co/oLpMf8hVkG\n\u2705Open app\n\u2705Check eligibility\n\u2705Connect wallet\n\u2705Claim\n\n\ud83d\udcc5Next unlock in 5 days\n\ud83d\udcb8 $SNAP - $0.026\n\ud83e\ude99Total supply - 2B\n\ud83d\udcc8 FDV - $52M\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/aYhaq1jXVn",
+            "translated_text": "\ud83e\ude82 @farcaster_xyz Hypersnap Airdrop tuntutan kedua dah boleh dibuat!\n\n\ud83d\udd17 https://t.co/oLpMf8hVkG\n\u2705Buka app\n\u2705Semak kelayakan\n\u2705Sambungkan dompet\n\u2705Tuntut\n\n\ud83d\udcc5Pembukaan seterusnya dalam 5 hari\n\ud83d\udcb8 $SNAP - $0.026\n\ud83e\ude99Jumlah bekalan - 2B\n\ud83d\udcc8 FDV - $52M\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/aYhaq1jXVn",
+            "date": "Sun May 10 12:03:38 +0000 2026",
+            "message_id": "2053445856549122117",
+            "photos": [
+                "https://pbs.twimg.com/media/HH9OHuIa8AAyg3o.jpg"
             ]
         }
     ]
