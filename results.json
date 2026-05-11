@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T03:51:07.404584",
+    "timestamp": "2026-05-11T17:57:06.710334",
     "messages": [
         {
             "source": "twitter",
@@ -2982,6 +2982,19 @@
             "message_id": "2053655379989639530",
             "photos": [
                 "https://pbs.twimg.com/media/HIAMr1bbgAALC6A.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Simple guide on @dango Perp DEX &amp; points\n\n\ud83d\udcb0Funding - $3.5M\n\ud83d\udcb5Need capital to farm volume\n\n\ud83e\ude99Volume &amp; Liquidity gives points\n\ud83e\ude99Points Distributed weekly\n\ud83e\ude99Weekly 1M points\n\ud83e\ude9975% for volume &amp; open interest\n\ud83e\ude9925%  for vault deposit\n\ud83d\udcc5Week 4 ongoing\n\n\ud83d\udcc8As for team, 50-60% to https://t.co/Kbe86hC0pA",
+            "translated_text": "\ud83d\udca5 Panduan ringkas tentang @dango Perp DEX & mata\n\ud83d\udcb0 Dana - $3.5 juta\n\ud83d\udcb5 Perlukan modal untuk kumpul volume\n\ud83e\ude99 Volume & Kecairan beri mata\n\ud83e\ude99 Mata diedarkan setiap minggu\n\ud83e\ude99 Setiap minggu 1 juta mata\n\ud83e\ude99 75% untuk volume & open interest\n\ud83e\ude99 25% untuk deposit vault\n\ud83d\udcc5 Minggu ke-4 sedang berjalan\n\ud83d\udcc8 Untuk pasukan, 50-60% kepada https://t.co/Kbe86hC0pA",
+            "date": "Mon May 11 12:32:08 +0000 2026",
+            "message_id": "2053815417186210205",
+            "photos": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/2053815312227938304/pu/img/4DNFnPTGEbsBaAqZ.jpg"
             ]
         }
     ]
