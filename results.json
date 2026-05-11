@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-10T16:59:18.204421",
+    "timestamp": "2026-05-11T03:51:07.404584",
     "messages": [
         {
             "source": "twitter",
@@ -2969,6 +2969,19 @@
             "message_id": "2053445856549122117",
             "photos": [
                 "https://pbs.twimg.com/media/HH9OHuIa8AAyg3o.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 $OCT up 37%\n\n\u2705Bridged my Tokens finally &amp; sold\n\ud83d\udcb5 ~$100\n\n\ud83d\udd1cWill post the guide shortly\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/DYhUHIN6wL",
+            "translated_text": "\ud83d\udca5 $OCT naik 37%\n\n\u2705Akhirnya dah bridge token saya & jual\n\ud83d\udcb5 Sekitar $100\n\n\ud83d\udd1cNanti saya post panduan tak lama lagi\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/DYhUHIN6wL",
+            "date": "Mon May 11 01:56:12 +0000 2026",
+            "message_id": "2053655379989639530",
+            "photos": [
+                "https://pbs.twimg.com/media/HIAMr1bbgAALC6A.jpg"
             ]
         }
     ]
