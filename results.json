@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-11T17:57:06.710334",
+    "timestamp": "2026-05-12T03:34:35.602496",
     "messages": [
         {
             "source": "twitter",
@@ -2995,6 +2995,19 @@
             "message_id": "2053815417186210205",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2053815312227938304/pu/img/4DNFnPTGEbsBaAqZ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @arc tokenomics &amp; Whitepaper out\n\n\ud83e\ude99Total supply - 10B\n\ud83e\ude99Ecosystem - 60%\n\ud83e\ude99Circle - 25%\n\ud83e\ude99Reserve - 15%\n\n\ud83d\udcb5Ecosystem also includes Token sale\n\ud83e\udd14Soon we may see $ARC token sale\n\n\ud83d\udcb0They also revealed @a16zcrypto investment of $75M\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/QBp26YZ1en",
+            "translated_text": "\ud83d\udca5 @arc tokenomics & Whitepaper dah keluar\n\n\ud83e\ude99 Jumlah bekalan - 10B\n\ud83e\ude99 Ekosistem - 60%\n\ud83e\ude99 Circle - 25%\n\ud83e\ude99 Rizab - 15%\n\n\ud83d\udcb5 Ekosistem juga termasuk Jualan token\n\ud83e\udd14 Tak lama lagi kita mungkin akan nampak jualan token $ARC\n\n\ud83d\udcb0 Diorang juga dedahkan pelaburan @a16zcrypto sebanyak $75M\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/QBp26YZ1en",
+            "date": "Tue May 12 01:15:37 +0000 2026",
+            "message_id": "2054007553705828792",
+            "photos": [
+                "https://pbs.twimg.com/media/HIFM-wrbgAA4vTQ.jpg"
             ]
         }
     ]
