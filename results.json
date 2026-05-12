@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-12T03:34:35.602496",
+    "timestamp": "2026-05-12T10:34:35.483563",
     "messages": [
         {
             "source": "twitter",
@@ -3008,6 +3008,19 @@
             "message_id": "2054007553705828792",
             "photos": [
                 "https://pbs.twimg.com/media/HIFM-wrbgAA4vTQ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd5c @superformxyz drop final vesting is live\n\n\ud83d\udd17https://t.co/ya0GEJJivI\n\u2705Check &amp; claim your $UP\n\n\ud83e\udd5cI Claimed 840 $UP\n\ud83d\udcb1 $UP - $0.12\n\ud83d\udcb0Value $100\n\ud83d\udcc8Up is 4X up from April\n\n\ud83d\udcf8Post your screenshots\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/8h1Bx9ZwFe",
+            "translated_text": "\ud83e\udd5c Pengagihan vesting terakhir @superformxyz dah bermula!\n\n\ud83d\udd17https://t.co/ya0GEJJivI\n\u2705 Semak dan tuntut $UP anda\n\n\ud83e\udd5c Saya dah tuntut 840 $UP\n\ud83d\udcb1 $UP - $0.12\n\ud83d\udcb0 Nilai $100\n\ud83d\udcc8 $UP dah naik 4 kali ganda dari bulan April\n\n\ud83d\udcf8 Kongsi screenshot anda\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/8h1Bx9ZwFe",
+            "date": "Tue May 12 09:05:37 +0000 2026",
+            "message_id": "2054125836664730042",
+            "photos": [
+                "https://pbs.twimg.com/media/HIG4jrgakAAfC9r.jpg"
             ]
         }
     ]
