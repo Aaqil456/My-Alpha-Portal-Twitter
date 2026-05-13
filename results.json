@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-13T03:42:02.502449",
+    "timestamp": "2026-05-13T10:31:54.064284",
     "messages": [
         {
             "source": "twitter",
@@ -3035,6 +3035,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HIKUft7aIAAsJVN.jpg",
                 "https://pbs.twimg.com/media/HIKUftxbgAAvgl0.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcb0My $1000 @billions_ntwk token sale allocation is now worth $20000\n\n\ud83d\ude02Im sure it will not be $20K in October\n\ud83e\udd14But will it be at least $2K\n\n\ud83d\udc40Planning to take 6 months vesting plan,as capital is only $1K\n\n\ud83e\udef5If u have allocation, Would u take or skip?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/TuxEyN4jzc",
+            "translated_text": "\ud83d\udcb0Alokasi jualan token @billions_ntwk saya yang $1000 tu sekarang dah bernilai $20000\n\n\ud83d\ude02Mesti takkanlah sampai $20K pada bulan Oktober nanti.\n\ud83e\udd14Tapi, adakah ia akan cecah sekurang-kurangnya $2K?\n\n\ud83d\udc40Rancang nak ambil pelan vesting 6 bulan, sebab modal cuma $1K je.\n\n\ud83e\udef5Kalau ada alokasi, nak ambil ke nak lepaskan?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/TuxEyN4jzc",
+            "date": "Wed May 13 09:45:43 +0000 2026",
+            "message_id": "2054498314171871279",
+            "photos": [
+                "https://pbs.twimg.com/media/HIMLUwQbMAASElZ.jpg"
             ]
         }
     ]
