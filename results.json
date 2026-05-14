@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-14T03:41:13.654238",
+    "timestamp": "2026-05-14T10:22:04.175640",
     "messages": [
         {
             "source": "twitter",
@@ -3061,6 +3061,19 @@
             "message_id": "2054732555308720473",
             "photos": [
                 "https://pbs.twimg.com/media/HIPgXVgaQAEefWh.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @solsticefi TGE confirmed\n\n\ud83d\udcc5 21st May\n\ud83e\ude99 $SLX\n\ud83e\ude99 Total supply - 1B\n\n\ud83e\udd14What do u think, will be the listing FDV?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/5uquBo184z",
+            "translated_text": "\ud83d\udca5 @solsticefi TGE dah disahkan\n\n\ud83d\udcc5 21 Mei\n\ud83e\ude99 $SLX\n\ud83e\ude99 Jumlah bekalan - 1 bilion\n\n\ud83e\udd14 Agak-agak, berapa FDV masa listing nanti?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/5uquBo184z",
+            "date": "Thu May 14 06:23:40 +0000 2026",
+            "message_id": "2054809856176181638",
+            "photos": [
+                "https://pbs.twimg.com/media/HIQmrAOaIAErDN_.jpg"
             ]
         }
     ]
