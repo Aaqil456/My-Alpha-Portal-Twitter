@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-13T10:31:54.064284",
+    "timestamp": "2026-05-14T03:41:13.654238",
     "messages": [
         {
             "source": "twitter",
@@ -3048,6 +3048,19 @@
             "message_id": "2054498314171871279",
             "photos": [
                 "https://pbs.twimg.com/media/HIMLUwQbMAASElZ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc40Leaked $POLY Airdrop claim page https://t.co/jtwQqMcAS5",
+            "translated_text": "\ud83d\udc40 Laman tuntutan airdrop $POLY yang bocor https://t.co/jtwQqMcAS5",
+            "date": "Thu May 14 01:16:30 +0000 2026",
+            "message_id": "2054732555308720473",
+            "photos": [
+                "https://pbs.twimg.com/media/HIPgXVgaQAEefWh.jpg"
             ]
         }
     ]
