@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-15T10:27:43.201828",
+    "timestamp": "2026-05-15T17:42:07.379042",
     "messages": [
         {
             "source": "twitter",
@@ -3100,6 +3100,19 @@
             "message_id": "2055210240967389293",
             "photos": [
                 "https://pbs.twimg.com/media/HIWS0ZNacAE17iq.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude4eSo no one gets $BILL token for 6 months\n\n\ud83e\udd37Entire $BILL supply in control of the Major CEX\n\n\ud83d\udd12Airdrop locked 6mth\n\ud83d\udd12ICO locked 6mth\n\ud83d\udd12Tria rewards locked 6mth\n\n\ud83e\udee0Not looking good\n\n\ud83d\ude02if no such lock token might be trading at $100M FDV\n\ud83d\ude1cWhich would be useless too\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/JF3xPVDYKM",
+            "translated_text": "Maknanya, tak ada siapa dapat token $BILL selama 6 bulan.\nSemua bekalan $BILL dikawal oleh CEX Utama.\nAirdrop terkunci 6 bulan.\nICO terkunci 6 bulan.\nGanjaran Tria terkunci 6 bulan.\nMacam tak berapa bagus je ni.\nKalau tak ada kunci macam ni, token mungkin didagangkan pada $100M FDV.\nItu pun tak guna juga.\nSuka\nRT https://t.co/JF3xPVDYKM",
+            "date": "Fri May 15 12:51:42 +0000 2026",
+            "message_id": "2055269894808305948",
+            "photos": [
+                "https://pbs.twimg.com/media/HIXJEs2aoAAnwzj.jpg"
             ]
         }
     ]
