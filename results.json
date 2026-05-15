@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-15T03:45:38.553311",
+    "timestamp": "2026-05-15T10:27:43.201828",
     "messages": [
         {
             "source": "twitter",
@@ -3087,6 +3087,19 @@
             "message_id": "2055104825168388136",
             "photos": [
                 "https://pbs.twimg.com/media/HIUy8pfbsAAPFc-.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @bulktrade\n\n\ud83d\udcb0Project is giving $50000 in rewards\n\ud83e\udeeaFor Testnet volume\n\n\ud83d\ude02Usually Testnet profit is not having any value, but.. \n\n\ud83c\udf81If u r good at trading, join Testnet &amp; generate good P&amp;L\n\ud83d\udc65Top 50 users based on realized profit will share $50K\n\n\ud83d\udcc5Ends - 28 May, https://t.co/NQ4UXUNL9m",
+            "translated_text": "\ud83d\udca5Update pasal @bulktrade\n\n\ud83d\udcb0Projek ni bagi ganjaran $50000\n\ud83e\udeeaUntuk volume Testnet\n\n\ud83d\ude02Biasanya profit Testnet tak ada nilai, tapi..\n\n\ud83c\udf81Kalau pandai trading, join Testnet &amp; jana P&amp;L yang bagus\n\ud83d\udc6550 pengguna teratas berdasarkan profit sebenar akan kongsi $50K\n\n\ud83d\udcc5Tamat - 28 Mei, https://t.co/NQ4UXUNL9m",
+            "date": "Fri May 15 08:54:40 +0000 2026",
+            "message_id": "2055210240967389293",
+            "photos": [
+                "https://pbs.twimg.com/media/HIWS0ZNacAE17iq.jpg"
             ]
         }
     ]
