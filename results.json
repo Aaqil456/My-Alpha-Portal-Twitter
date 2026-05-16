@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-16T03:29:25.586552",
+    "timestamp": "2026-05-16T09:42:57.222012",
     "messages": [
         {
             "source": "twitter",
@@ -3126,6 +3126,19 @@
             "message_id": "2055472670628893169",
             "photos": [
                 "https://pbs.twimg.com/media/HIaBfqXaIAAQK_0.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udeea $MEGA trading 8% below public sale price\n\n\ud83d\udcb5 Sale price - $0.099\n\ud83d\udcc9 Now - $0.092\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/Odi41nSLK8",
+            "translated_text": "\ud83e\udeea $MEGA didagangkan 8% di bawah harga jualan awam\n\n\ud83d\udcb5 Harga jualan - $0.099\n\ud83d\udcc9 Sekarang - $0.092\n\n\ud83d\udc99Suka\n\ud83d\udd01Kongsi semula https://t.co/Odi41nSLK8",
+            "date": "Sat May 16 09:00:47 +0000 2026",
+            "message_id": "2055574168608067633",
+            "photos": [
+                "https://pbs.twimg.com/media/HIbdzzgbIAAUETd.jpg"
             ]
         }
     ]
