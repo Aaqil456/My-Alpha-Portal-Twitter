@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-19T03:53:04.928096",
+    "timestamp": "2026-05-19T18:08:28.267583",
     "messages": [
         {
             "source": "twitter",
@@ -3204,6 +3204,19 @@
             "message_id": "2056544981771550919",
             "photos": [
                 "https://pbs.twimg.com/media/HIpQwowbwAEpbfg.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 $ETH withdraw is now enabled on @aave\n\n\ud83d\udce4U can withdraw your Ethereum on all chains\n\ud83c\udfc3I'm withdrawing all my ETH from all my wallets one by one\n\n\ud83e\udd37Not worth doing DeFi at this risk for just 1.6% APY\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/KIOoCXKLLX",
+            "translated_text": "\ud83d\ude01 Pengeluaran $ETH dah boleh buat di @aave\n\n\ud83d\udce4 Boleh keluarkan Ethereum anda di semua chain.\n\ud83c\udfc3 Saya tengah keluarkan semua ETH saya dari semua wallet saya satu per satu.\n\n\ud83e\udd37 Tak berbaloi nak buat DeFi dengan risiko macam ni untuk APY 1.6% je.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/KIOoCXKLLX",
+            "date": "Tue May 19 16:16:12 +0000 2026",
+            "message_id": "2056770908510208222",
+            "photos": [
+                "https://pbs.twimg.com/media/HIsePc7aQAAb5zy.jpg"
             ]
         }
     ]
