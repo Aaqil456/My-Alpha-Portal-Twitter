@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-18T11:46:29.192311",
+    "timestamp": "2026-05-19T03:53:04.928096",
     "messages": [
         {
             "source": "twitter",
@@ -3191,6 +3191,19 @@
             "message_id": "2056231049139827033",
             "photos": [
                 "https://pbs.twimg.com/media/HIkzOr6bYAALHx0.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8Another big Exploit\n\n\ud83e\ude99Hacker minted 1000 $eBTC just like that on @monad\n\ud83e\udeeaThat's $76M\n\n\ud83e\udd23Current supply of $eBTC - 1509\n\n\ud83d\udce5Deposited 45 $eBTC into Curvance\n\ud83d\udce4Borrowed 11 $WBTC\n\ud83c\udf09Bridged $WBTC to Ethereum\n\ud83d\udd04Swapped to $ETH\n\ud83d\udcb8Sent 384 $ETH ($821.7K) to new wallet\n\n\ud83d\ude33Still have https://t.co/C3lfuzxOgQ",
+            "translated_text": "\ud83d\udea8Satu lagi exploit besar\n\n\ud83e\ude99Hacker dah 'mint' 1000 $eBTC macam tu je di @monad\n\ud83e\udeeaItu $76 juta\n\n\ud83e\udd23Bekalan $eBTC semasa - 1509\n\n\ud83d\udce5Deposit 45 $eBTC ke Curvance\n\ud83d\udce4Pinjam 11 $WBTC\n\ud83c\udf09Pindahkan $WBTC ke Ethereum\n\ud83d\udd04Tukar kepada $ETH\n\ud83d\udcb8Hantar 384 $ETH ($821.7K) ke dompet baru\n\n\ud83d\ude33Masih ada https://t.co/C3lfuzxOgQ",
+            "date": "Tue May 19 01:18:27 +0000 2026",
+            "message_id": "2056544981771550919",
+            "photos": [
+                "https://pbs.twimg.com/media/HIpQwowbwAEpbfg.jpg"
             ]
         }
     ]
