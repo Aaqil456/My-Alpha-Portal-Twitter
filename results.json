@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-20T18:20:50.534031",
+    "timestamp": "2026-05-21T18:02:47.576116",
     "messages": [
         {
             "source": "twitter",
@@ -3230,6 +3230,20 @@
             "message_id": "2057108363637625107",
             "photos": [
                 "https://pbs.twimg.com/media/HIxRJ8ybYAAtmap.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 $MEGA crosses FDV of $BILL\n\n\ud83e\udd37TBH both of them not looking good https://t.co/lrz1QaqgiV",
+            "translated_text": "\ud83d\ude01 $MEGA melepasi nilai FDV sebanyak $BILL\n\n\ud83e\udd37 Jujur cakap, kedua-duanya tak nampak bagus https://t.co/lrz1QaqgiV",
+            "date": "Thu May 21 14:51:07 +0000 2026",
+            "message_id": "2057474271866486876",
+            "photos": [
+                "https://pbs.twimg.com/media/HI2d8Zob0AAR4Vm.jpg",
+                "https://pbs.twimg.com/media/HI2d8ZJbcAAuRne.jpg"
             ]
         }
     ]
