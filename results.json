@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-23T03:34:14.961411",
+    "timestamp": "2026-05-23T17:03:10.738892",
     "messages": [
         {
             "source": "twitter",
@@ -3257,6 +3257,19 @@
             "message_id": "2057993218260922812",
             "photos": [
                 "https://pbs.twimg.com/media/HI917EUacAAin1f.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f @solsticefi on Binance Alpha\n\n\ud83d\udcc5TGE - 25 May https://t.co/6Nd8Zd1rSm",
+            "translated_text": "\u2620\ufe0f @solsticefi di Binance Alpha\n\n\ud83d\udcc5 TGE - 25 Mei https://t.co/6Nd8Zd1rSm",
+            "date": "Sat May 23 12:20:58 +0000 2026",
+            "message_id": "2058161261414944878",
+            "photos": [
+                "https://pbs.twimg.com/media/HJAOwZxbIAAzJc-.jpg"
             ]
         }
     ]
