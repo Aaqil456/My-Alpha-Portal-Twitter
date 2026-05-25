@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-25T11:55:02.080900",
+    "timestamp": "2026-05-25T17:46:13.990156",
     "messages": [
         {
             "source": "twitter",
@@ -3296,6 +3296,19 @@
             "message_id": "2058840707801239755",
             "photos": [
                 "https://pbs.twimg.com/media/HJJ4tTMboAArEgk.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udd34 $ESPORTS on Binance Alpha dumped 93% in 1hr https://t.co/TRdKv5lXwc",
+            "translated_text": "\ud83d\udd34 $ESPORTS di Binance Alpha jatuh mendadak 93% dalam 1 jam https://t.co/TRdKv5lXwc",
+            "date": "Mon May 25 15:59:38 +0000 2026",
+            "message_id": "2058941068977299884",
+            "photos": [
+                "https://pbs.twimg.com/media/HJLT_KWboAE75ot.jpg"
             ]
         }
     ]
