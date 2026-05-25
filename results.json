@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-24T17:05:59.580619",
+    "timestamp": "2026-05-25T11:55:02.080900",
     "messages": [
         {
             "source": "twitter",
@@ -3283,6 +3283,19 @@
             "message_id": "2058526001873989884",
             "photos": [
                 "https://pbs.twimg.com/media/HJFae6lagAA_zY2.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @billions_ntwk  refund of @KaitoAI token sale\n\n\ud83d\udce4Another $1.44M refunded\n\ud83d\udcb0Total refund so far - $3.44M\n\n\ud83d\ude47Remaining refund is ~$1M, hope they distribute it soon\n\ud83e\udef5Did u get refund? Let me know\n\u274cI haven't got\n\n\ud83d\udc65That's 72% of refund request\n\ud83e\udd14So Total refund opt-in https://t.co/nLSsUUbfq6",
+            "translated_text": "\ud83d\udca5Update pasal @billions_ntwk pulangkan duit jualan token @KaitoAI\n\ud83d\udce4Lagi $1.44 juta dah dipulangkan\n\ud83d\udcb0Jumlah pulangan duit setakat ni - $3.44 juta\n\ud83d\ude47Baki pulangan duit tinggal ~$1 juta, harap diorang agihkan cepat-cepat\n\ud83e\udef5Dah dapat pulangan duit ke? Bagitau la saya\n\u274cSaya belum dapat\n\ud83d\udc65Itu dah 72% daripada permintaan pulangan duit\n\ud83e\udd14Jadi, jumlah yang pilih untuk pulangan duit https://t.co/nLSsUUbfq6",
+            "date": "Mon May 25 09:20:50 +0000 2026",
+            "message_id": "2058840707801239755",
+            "photos": [
+                "https://pbs.twimg.com/media/HJJ4tTMboAArEgk.jpg"
             ]
         }
     ]
