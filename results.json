@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-26T03:53:05.317435",
+    "timestamp": "2026-05-26T18:29:29.157475",
     "messages": [
         {
             "source": "twitter",
@@ -3321,6 +3321,19 @@
             "date": "Tue May 26 01:15:34 +0000 2026",
             "message_id": "2059080973141344413",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Just as expected it is about @base MCP\n\n\u274cNot about token\n\u274cNot TGE related\n\n\ud83d\ude09Base TGE is not as close as you think\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/xVsCxLpduM",
+            "translated_text": "\ud83d\ude01Macam yang dijangka, ni pasal @base MCP.\n\n\u274cBukan pasal token.\n\u274cTak berkaitan dengan TGE.\n\n\ud83d\ude09Base TGE taklah sedekat yang disangka.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/xVsCxLpduM",
+            "date": "Tue May 26 16:22:35 +0000 2026",
+            "message_id": "2059309231409647810",
+            "photos": [
+                "https://pbs.twimg.com/media/HJQi0xyakAIO5P-.jpg"
+            ]
         }
     ]
 }
