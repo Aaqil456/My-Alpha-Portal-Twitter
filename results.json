@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-28T11:40:32.401027",
+    "timestamp": "2026-05-28T18:38:24.067384",
     "messages": [
         {
             "source": "twitter",
@@ -3359,6 +3359,19 @@
             "message_id": "2059916314916049035",
             "photos": [
                 "https://pbs.twimg.com/ext_tw_video_thumb/2059916148100202496/pu/img/ZMQatTdJF9oaOHz1.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude09 481 @arc House points\n\n\ud83e\udd0fJust 19 points away from 500\n\ud83e\udef5What about u?\n\n\ud83d\udcf8Post points screenshots\n\u26a0\ufe0f No confirmed rewards for points\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/9qCuCeu6k9",
+            "translated_text": "\ud83d\ude09 481 mata @arc House\n\n\ud83e\udd0f Tinggal 19 mata je lagi nak cecah 500\n\ud83e\udef5 Macam mana dengan awak?\n\n\ud83d\udcf8 Kongsi screenshot mata awak\n\u26a0\ufe0f Belum ada ganjaran yang disahkan untuk mata ni\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/9qCuCeu6k9",
+            "date": "Thu May 28 14:29:51 +0000 2026",
+            "message_id": "2060005636625346944",
+            "photos": [
+                "https://pbs.twimg.com/media/HJacNZCaYAAg3mw.jpg"
             ]
         }
     ]
