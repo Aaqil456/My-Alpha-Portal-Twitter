@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-29T11:32:14.285247",
+    "timestamp": "2026-05-30T03:41:51.383939",
     "messages": [
         {
             "source": "twitter",
@@ -3385,6 +3385,19 @@
             "message_id": "2060223657532878945",
             "photos": [
                 "https://pbs.twimg.com/media/HJdifdqa0AAwWr2.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude00Just purchased @The_Beacon_GG Royal Bundle\n\n\ud83d\udcb0Cost - $500\n\n\ud83d\udc47Contain\n\ud83e\ude99 $BCN - 1333\n\ud83d\udc8eGlint - 180000\n\n\ud83c\udf81I can buy 180 Premium Glint Chest\n\ud83e\ude99Each chest can give ~4 $BCN\n\ud83e\ude99Total from Chest ~720 $BCN\n\n\ud83e\ude99Total $BCN - 2053\n\ud83e\udd14With 25% TGE I Get 513 $BCN\n\n\ud83e\ude99Total $BCN supply - 100M https://t.co/OE7FUXHAlI",
+            "translated_text": "\ud83d\ude00Baru je beli @The_Beacon_GG Royal Bundle\n\n\ud83d\udcb0Harga - $500\n\n\ud83d\udc47Dalamnya ada\n\ud83e\ude99 $BCN - 1333\n\ud83d\udc8eGlint - 180000\n\n\ud83c\udf81Boleh beli 180 Premium Glint Chest\n\ud83e\ude99Setiap chest boleh bagi ~4 $BCN\n\ud83e\ude99Jumlah dari Chest ~720 $BCN\n\n\ud83e\ude99Jumlah $BCN keseluruhan - 2053\n\ud83e\udd14Dengan 25% TGE, saya dapat 513 $BCN\n\n\ud83e\ude99Jumlah bekalan $BCN - 100M https://t.co/OE7FUXHAlI",
+            "date": "Fri May 29 15:51:51 +0000 2026",
+            "message_id": "2060388662148575567",
+            "photos": [
+                "https://pbs.twimg.com/media/HJf4kJUbwAA3NbX.jpg"
             ]
         }
     ]
