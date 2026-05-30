@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-30T10:02:57.544188",
+    "timestamp": "2026-05-30T17:11:45.457807",
     "messages": [
         {
             "source": "twitter",
@@ -3411,6 +3411,20 @@
             "message_id": "2060643885806927972",
             "photos": [
                 "https://pbs.twimg.com/media/HJjgsZIb0AA9eI3.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83c\udfae Gameplay guide on @The_Beacon_GG Goblin's Gambit\n\n\ud83d\udc7ePart - 3\n\ud83e\uddf0Chests &amp; Rewards\n\n\ud83e\udd1fThere r 3 type of Chests\n\ud83e\udebbUmbra Chest - 1000 Umbra shards\n\ud83d\udc19Kraken Chest - 200 Gobloonz\n\ud83d\udc8eGlint Chest - 1000 Glint\n\n\ud83c\udf81Each chest has 2 type of rewards\n\ud83d\udc55Cosmetics\n\ud83e\ude99 $BCN\n\n\ud83d\udc47Detailed breakup of https://t.co/t5qwRw7yc7",
+            "translated_text": "\ud83c\udfae Panduan bermain untuk @The_Beacon_GG Goblin's Gambit\n\n\ud83d\udc7e Bahagian - 3\n\ud83e\uddf0 Petak Harta & Ganjaran\n\n\ud83e\udd1f Ada 3 jenis Petak Harta\n\ud83e\udebb Umbra Chest - 1000 Umbra shards\n\ud83d\udc19 Kraken Chest - 200 Gobloonz\n\ud83d\udc8e Glint Chest - 1000 Glint\n\n\ud83c\udf81 Setiap petak harta ada 2 jenis ganjaran\n\ud83d\udc55 Kosmetik\n\ud83e\ude99 $BCN\n\n\ud83d\udc47 Maklumat lanjut di https://t.co/t5qwRw7yc7",
+            "date": "Sat May 30 12:43:57 +0000 2026",
+            "message_id": "2060703760717074771",
+            "photos": [
+                "https://pbs.twimg.com/media/HJkXJHlbUAAdHPX.jpg",
+                "https://pbs.twimg.com/media/HJkXJKfbIAAJJ4U.jpg"
             ]
         }
     ]
