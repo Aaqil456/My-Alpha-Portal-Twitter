@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-30T17:11:45.457807",
+    "timestamp": "2026-05-31T17:09:35.479351",
     "messages": [
         {
             "source": "twitter",
@@ -3425,6 +3425,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HJkXJHlbUAAdHPX.jpg",
                 "https://pbs.twimg.com/media/HJkXJKfbIAAJJ4U.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @megaeth Terminal Program concluded\n\n\ud83d\udd17 https://t.co/n3WmOMXXe7\n\u2705Login &amp; check if u r eligible for rewards\n\n\u274cI'm not eligible\n\ud83d\udcf8Wt about u? Post screenshot\n\n\ud83d\udcc5If u r eligible, register wallet before 10 June\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/bPLKc2hYeP",
+            "translated_text": "\ud83d\udca5 @megaeth Terminal Program dah selesai\n\n\ud83d\udd17 https://t.co/n3WmOMXXe7\n\u2705 Log masuk & semak sama ada anda layak untuk ganjaran\n\n\u274c Saya tak layak\n\ud83d\udcf8 Anda macam mana? Kongsi tangkapan skrin\n\n\ud83d\udcc5 Kalau anda layak, daftar dompet sebelum 10 Jun\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/bPLKc2hYeP",
+            "date": "Sun May 31 12:38:06 +0000 2026",
+            "message_id": "2061064677032136870",
+            "photos": [
+                "https://pbs.twimg.com/media/HJpfZqTbMAAOq3Z.jpg"
             ]
         }
     ]
