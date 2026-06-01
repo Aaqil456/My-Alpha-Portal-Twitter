@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-05-31T17:09:35.479351",
+    "timestamp": "2026-06-01T20:19:11.423532",
     "messages": [
         {
             "source": "twitter",
@@ -3438,6 +3438,19 @@
             "message_id": "2061064677032136870",
             "photos": [
                 "https://pbs.twimg.com/media/HJpfZqTbMAAOq3Z.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @MicroStrategy just sold 32 $BTC\n\n\ud83e\udd37So I update the strategy Tracker with sell orders(in green)\n\n\ud83d\udfe2Wt do u think? More green dots expected?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/lceYwRYCHf",
+            "translated_text": "\ud83d\udca5 @MicroStrategy baru je jual 32 $BTC\n\n\ud83e\udd37 Jadi saya kemaskini Tracker strategi tu dengan order jual (warna hijau)\n\n\ud83d\udfe2 Apa pendapat awak? Jangka ada lagi tak titik hijau?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/lceYwRYCHf",
+            "date": "Mon Jun 01 13:18:12 +0000 2026",
+            "message_id": "2061437157286551569",
+            "photos": [
+                "https://pbs.twimg.com/media/HJuyKDEbkAAwKu5.jpg"
             ]
         }
     ]
