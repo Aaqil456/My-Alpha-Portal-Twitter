@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-01T20:19:11.423532",
+    "timestamp": "2026-06-02T12:06:39.895520",
     "messages": [
         {
             "source": "twitter",
@@ -3451,6 +3451,20 @@
             "message_id": "2061437157286551569",
             "photos": [
                 "https://pbs.twimg.com/media/HJuyKDEbkAAwKu5.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc40 I'm seeing this for the first time in this cycle\n\n\ud83e\udeea $ETH outperforming $BTC\n\ud83d\udcc8Eth/BTC up- 4.3%\n\n\ud83d\udcc9 $BTC down 4.6% while $ETH only 0.6% down\n\n\ud83e\udd14Users migrating from bitcoin to Ethereum after Yesterday's Strategy news?\n\ud83d\ude05Or by mistake?\n\n\ud83e\udef5Wt do u think? Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/pnNGEpPDot",
+            "translated_text": "\ud83d\udc40 Saya nampak ni buat kali pertama dalam kitaran ni.\n\ud83e\udeea $ETH mengatasi $BTC\n\ud83d\udcc8 Eth/BTC naik 4.3%\n\ud83d\udcc9 $BTC turun 4.6% sementara $ETH cuma turun 0.6%\n\ud83e\udd14 Pengguna beralih dari Bitcoin ke Ethereum lepas berita Strategi semalam?\n\ud83d\ude05 Atau tersilap?\n\ud83e\udef5 Apa pendapat awak? Beritahu saya.\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/pnNGEpPDot",
+            "date": "Tue Jun 02 09:17:29 +0000 2026",
+            "message_id": "2061738966265827604",
+            "photos": [
+                "https://pbs.twimg.com/media/HJzEqI6aYAAT65_.jpg",
+                "https://pbs.twimg.com/media/HJzEqHZaEAA-Qzn.jpg"
             ]
         }
     ]
