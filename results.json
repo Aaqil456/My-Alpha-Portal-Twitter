@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-04T11:17:22.276481",
+    "timestamp": "2026-06-04T18:20:53.458670",
     "messages": [
         {
             "source": "twitter",
@@ -3491,6 +3491,19 @@
             "message_id": "2062460600559800472",
             "photos": [
                 "https://pbs.twimg.com/tweet_video_thumb/HJ9U-k0bYAA_oPz.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udd34 Another REKT token sale\n\n\ud83d\udcc9 $TEA listed 75% below sale price\n\n\ud83d\udcb5Sale price - $0.0005\n\ud83d\udcb5Price now - $0.00012\n\n\ud83d\udcb0Sale FDV was $50M but now it is at $12M FDV\n\ud83d\ude01Good we skipped this sale\n\n\ud83d\udca1Pro tip - if u see @CoinList sale, RUN\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/calLlW5FPe",
+            "translated_text": "\ud83d\udd34 Satu lagi jualan token REKT\n\ud83d\udcc9 $TEA tersenarai 75% di bawah harga jualan\n\ud83d\udcb5Harga jualan - $0.0005\n\ud83d\udcb5Harga sekarang - $0.00012\n\ud83d\udcb0FDV masa jualan adalah $50M tapi sekarang pada $12M FDV\n\ud83d\ude01Nasib baik kita tak masuk jualan ni\n\ud83d\udca1Tips pro - kalau nampak jualan @CoinList, LARI\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/calLlW5FPe",
+            "date": "Thu Jun 04 12:34:08 +0000 2026",
+            "message_id": "2062513232657744199",
+            "photos": [
+                "https://pbs.twimg.com/media/HJ-E2dYaoAA9xv5.jpg"
             ]
         }
     ]
