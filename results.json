@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-04T18:20:53.458670",
+    "timestamp": "2026-06-05T04:04:22.669001",
     "messages": [
         {
             "source": "twitter",
@@ -3504,6 +3504,19 @@
             "message_id": "2062513232657744199",
             "photos": [
                 "https://pbs.twimg.com/media/HJ-E2dYaoAA9xv5.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8Critical vulnerability found in Zcash Orchard shielded pool\n\n\u26a0\ufe0fBug could have allowed unlimited undetectable counterfeit ZEC to be minted since May 2022\n\ud83d\udc77Emergency fix deployed on 2nd June\n\n\ud83e\udd37Due to Orchard's privacy design, there's no way to prove whether the bug was https://t.co/VLDcY7AMIl",
+            "translated_text": "\ud83d\udea8 Kerentanan kritikal ditemui dalam Zcash Orchard shielded pool.\n\u26a0\ufe0f Pepijat ini mungkin boleh membenarkan ZEC palsu dicetak tanpa had dan tidak dapat dikesan sejak Mei 2022.\n\ud83d\udc77 Pembetulan kecemasan telah dilaksanakan pada 2 Jun.\n\ud83e\udd37 Disebabkan reka bentuk privasi Orchard, tiada cara untuk membuktikan sama ada pepijat itu telah dieksploitasi. SUMBER: https://t.co/VLDcY7AMIl",
+            "date": "Fri Jun 05 00:56:48 +0000 2026",
+            "message_id": "2062700129514311968",
+            "photos": [
+                "https://pbs.twimg.com/media/HKAu1NPaEAA4vEz.jpg"
             ]
         }
     ]
