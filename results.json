@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-07T04:14:03.612896",
+    "timestamp": "2026-06-07T10:31:13.883280",
     "messages": [
         {
             "source": "twitter",
@@ -3554,6 +3554,19 @@
             "message_id": "2063463270149935216",
             "photos": [
                 "https://pbs.twimg.com/media/HKLk6AwbAAAEiTT.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update on @bulktrade\n\n\u2728Week 1 points distributed\n\ud83d\udd17 https://t.co/R51W4z4ga4\n\ud83d\udcf8Check &amp; post your screenshot\n\n\ud83d\udcb5My deposit- $1850\n\ud83e\ude99My points- 103\n\ud83e\ude99Points this week- 1M\n\ud83e\ude99Total points- 1.5M\n\n\u26a0\ufe0fDeposits r time weighted\n\u26a0\ufe0fIf u deposited recently, u may get next week\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/DCZJACYavK",
+            "translated_text": "\ud83d\udca5 Makluman terkini tentang @bulktrade\n\n\u2728 Poin minggu pertama dah diedarkan\n\ud83d\udd17 https://t.co/R51W4z4ga4\n\ud83d\udcf8 Semak dan kongsi tangkapan skrin anda\n\n\ud83d\udcb5 Deposit saya - $1850\n\ud83e\ude99 Poin saya - 103\n\ud83e\ude99 Poin minggu ni - 1M\n\ud83e\ude99 Jumlah poin - 1.5M\n\n\u26a0\ufe0f Deposit dikira ikut masa\n\u26a0\ufe0f Kalau anda baru deposit, mungkin dapat minggu depan\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/DCZJACYavK",
+            "date": "Sun Jun 07 09:01:32 +0000 2026",
+            "message_id": "2063546891548430511",
+            "photos": [
+                "https://pbs.twimg.com/media/HKMw9lcaEAAIzyF.jpg"
             ]
         }
     ]
