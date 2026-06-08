@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-08T04:18:47.030096",
+    "timestamp": "2026-06-08T12:36:18.347297",
     "messages": [
         {
             "source": "twitter",
@@ -3581,6 +3581,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/HKQLXkLaYAANGfu.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14 So last week the strategy was just testing whether they could actually sell $BTC or not?",
+            "translated_text": "\ud83e\udd14 Jadi, minggu lepas strateginya cuma nak uji sama ada diorang betul-betul boleh jual $BTC ke tak?",
+            "date": "Mon Jun 08 12:25:03 +0000 2026",
+            "message_id": "2063960495967862948",
+            "photos": []
         }
     ]
 }
