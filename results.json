@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-08T12:36:18.347297",
+    "timestamp": "2026-06-09T03:50:05.833816",
     "messages": [
         {
             "source": "twitter",
@@ -3592,6 +3592,19 @@
             "date": "Mon Jun 08 12:25:03 +0000 2026",
             "message_id": "2063960495967862948",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8Another day another big Exploit\n\n\u2620\ufe0fHumanity has reported a security incident\n\ud83d\udcb8Involving compromised private keys belonging to a Humanity Foundation member\n\n\ud83d\udcb0Exploit size- $30M\n\ud83d\udcb1Hacker swapped $H to $ETH\n\ud83d\udcc983% Price drop\n\n\ud83d\udccaFDV Before- $7B\n\ud83d\ude33After exploit - $1.2B\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/fkX2a7r3r8",
+            "translated_text": "\ud83d\udea8Hari lain, lagi satu eksploitasi besar.\n\u2620\ufe0fHumanity dah laporkan insiden keselamatan\n\ud83d\udcb8Melibatkan private key yang dah terjejas milik ahli Humanity Foundation.\n\ud83d\udcb0Saiz eksploitasi - $30 juta\n\ud83d\udcb1Hacker tukar $H kepada $ETH\n\ud83d\udcc9Harga jatuh 83%\n\ud83d\udccaFDV Sebelum - $7 bilion\n\ud83d\ude33Selepas eksploitasi - $1.2 bilion\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/fkX2a7r3r8",
+            "date": "Tue Jun 09 02:36:32 +0000 2026",
+            "message_id": "2064174779767373947",
+            "photos": [
+                "https://pbs.twimg.com/media/HKVrCwhbQAAX2tZ.jpg"
+            ]
         }
     ]
 }
