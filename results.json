@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-10T18:32:21.329407",
+    "timestamp": "2026-06-11T04:15:43.085032",
     "messages": [
         {
             "source": "twitter",
@@ -3643,6 +3643,19 @@
             "message_id": "2064690679637516766",
             "photos": [
                 "https://pbs.twimg.com/media/HKdBOc6aIAAT3LP.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8Another day another exploit\n\n\u2620\ufe0f @Raydium\n\ud83d\udcb0Exploit size - $1.34M\n\u26d3\ufe0fOn Solana\n\n\ud83d\udc47How it happened\n\ud83c\udfe6There was a old LP from Serum DEX era\n\ud83d\udcb0Holding 1.34M\n\ud83d\udcc4To withdraw assets, you're supposed to have LP token\n\u2620\ufe0fIt has a bug, to withdraw it only check if user has LP but don't https://t.co/NQtMU6ANS7",
+            "translated_text": "\ud83d\udea8 Ada lagi kes eksploitasi hari ni.\n\u2620\ufe0f @Raydium\n\ud83d\udcb0 Jumlah eksploitasi - $1.34 juta\n\u26d3\ufe0f Di Solana\n\ud83d\udc47 Macam mana ia berlaku:\n\ud83c\udfe6 Ada LP lama dari zaman Serum DEX.\n\ud83d\udcb0 Memegang $1.34 juta.\n\ud83d\udcc4 Untuk keluarkan aset, sepatutnya kena ada token LP.\n\u2620\ufe0f Ada bug, untuk keluarkan, ia cuma semak kalau pengguna ada LP tapi tak https://t.co/NQtMU6ANS7",
+            "date": "Thu Jun 11 02:05:21 +0000 2026",
+            "message_id": "2064891707305623899",
+            "photos": [
+                "https://pbs.twimg.com/media/HKf4D5hakAAxwFR.jpg"
             ]
         }
     ]
