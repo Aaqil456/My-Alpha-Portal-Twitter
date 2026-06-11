@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-11T04:15:43.085032",
+    "timestamp": "2026-06-11T12:12:05.356215",
     "messages": [
         {
             "source": "twitter",
@@ -3656,6 +3656,19 @@
             "message_id": "2064891707305623899",
             "photos": [
                 "https://pbs.twimg.com/media/HKf4D5hakAAxwFR.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update on @The_Beacon_GG Goblin's Gambit\n\n\ud83d\udea8Open ur chests\n\n\ud83d\udc47My stats\n\ud83d\udcb0Spent - $500\n\ud83e\ude99 $BCN - 2918\n\ud83d\udc8eGlint - 749\n\ud83c\udfb0 Gobloonz - 230\n\ud83e\udebbUmbra shards - 29\n\n\ud83e\udef5Wt about u?\n\ud83d\udcf8Post your stats screenshot\n\n\ud83d\udcc5Season 1 ends - 18 June\n\ud83c\udf81If u purchased or have Glint to buy chest, just buy https://t.co/jtmjpiCyMK",
+            "translated_text": "\ud83d\udca5 Update pasal @The_Beacon_GG Goblin's Gambit\n\n\ud83d\udea8Buka peti korang\n\n\ud83d\udc47Stat saya\n\ud83d\udcb0Dah belanja - $500\n\ud83e\ude99 $BCN - 2918\n\ud83d\udc8eGlint - 749\n\ud83c\udfb0 Gobloonz - 230\n\ud83e\udebbUmbra shards - 29\n\n\ud83e\udef5Korang pulak macam mana?\n\ud83d\udcf8Kongsi screenshot stat korang\n\n\ud83d\udcc5Musim 1 tamat - 18 Jun\n\ud83c\udf81Kalau korang dah beli atau ada Glint nak beli peti, beli je https://t.co/jtmjpiCyMK",
+            "date": "Thu Jun 11 04:33:35 +0000 2026",
+            "message_id": "2064929010983801076",
+            "photos": [
+                "https://pbs.twimg.com/media/HKgZyRBa8AAMJPV.jpg"
             ]
         }
     ]
