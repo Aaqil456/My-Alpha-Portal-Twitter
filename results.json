@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T04:16:35.216958",
+    "timestamp": "2026-06-12T11:45:33.501434",
     "messages": [
         {
             "source": "twitter",
@@ -3695,6 +3695,19 @@
             "message_id": "2065249725432148380",
             "photos": [
                 "https://pbs.twimg.com/media/HKk9cKiacAATGAK.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude80Today $SPCX stock listing\n\n\ud83d\udcb5IPO price - $135\n\n\ud83d\udc40It is trading at $174 on Pre-IPO Perpetual Contracts on Binance Futures\n\n\ud83c\udfc6SpaceX sitting at #10 in world assets at IPO price\n\n\ud83e\udd14Wt do u think about this IPO?\n\ud83e\udd14Will it list above or below IPO price?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/42Cer65mW1",
+            "translated_text": "\ud83d\ude80Hari ni penyenaraian saham $SPCX\n\ud83d\udcb5Harga IPO - $135\n\ud83d\udc40Sekarang ni, ia didagangkan pada $174 di Pre-IPO Perpetual Contracts dekat Binance Futures.\n\ud83c\udfc6SpaceX berada di kedudukan #10 dalam aset dunia pada harga IPO.\n\ud83e\udd14Apa pendapat anda tentang IPO ni?\n\ud83e\udd14Agak-agak, ia akan disenaraikan lebih tinggi atau lebih rendah dari harga IPO?\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/42Cer65mW1",
+            "date": "Fri Jun 12 09:23:45 +0000 2026",
+            "message_id": "2065364420625301559",
+            "photos": [
+                "https://pbs.twimg.com/media/HKml_clbAAANxj9.jpg"
             ]
         }
     ]
