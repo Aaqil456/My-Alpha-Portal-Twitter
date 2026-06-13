@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T10:32:24.170571",
+    "timestamp": "2026-06-13T17:25:48.190696",
     "messages": [
         {
             "source": "twitter",
@@ -3732,6 +3732,20 @@
             "message_id": "2065671365920014369",
             "photos": [
                 "https://pbs.twimg.com/media/HKq9Juva4AAbw_k.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14What do u think will be the price of $BTC &amp; $ETH next year? https://t.co/xNwUQEaC9J",
+            "translated_text": "\ud83e\udd14 Korang rasa berapa harga $BTC & $ETH tahun depan? https://t.co/xNwUQEaC9J",
+            "date": "Sat Jun 13 12:53:02 +0000 2026",
+            "message_id": "2065779477364588891",
+            "photos": [
+                "https://pbs.twimg.com/media/HKsffLDbkAAt-N3.jpg",
+                "https://pbs.twimg.com/media/HKsffN_bIAA_uqp.jpg"
             ]
         }
     ]
