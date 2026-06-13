@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-12T18:09:21.319399",
+    "timestamp": "2026-06-13T10:32:24.170571",
     "messages": [
         {
             "source": "twitter",
@@ -3720,6 +3720,19 @@
             "date": "Fri Jun 12 16:32:04 +0000 2026",
             "message_id": "2065472209758654700",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on $2500 giveaway\n\n\ud83d\udcb8If u r one of the X winner &amp; sent me wallet in DM\n\ud83e\udef5Check ur wallet\n\ud83d\udcf8Post ur screenshot\n\ud83d\udc64Distributed to 14 users out of 20\n\n\ud83d\udcb0Total Giveaway - $2500\n\ud83d\udc6550 winners\n\ud83d\udcb5Each - $50\n\n\ud83e\udd37I'm yet to receive wallets from 6 more users given below\n@Dave_612 https://t.co/fFhN75wdqL",
+            "translated_text": "\ud83d\udca5Update pasal giveaway $2500\n\n\ud83d\udcb8Kalau anda salah seorang pemenang X &amp; dah hantar alamat wallet kat DM saya\n\ud83e\udef5Sila semak wallet anda\n\ud83d\udcf8Post screenshot anda\n\ud83d\udc64Dah diagihkan kepada 14 daripada 20 pengguna\n\n\ud83d\udcb0Jumlah Giveaway - $2500\n\ud83d\udc6550 pemenang\n\ud83d\udcb5Setiap seorang - $50\n\n\ud83e\udd37Saya masih belum terima alamat wallet daripada lagi 6 pengguna yang disenaraikan di bawah\n@Dave_612 https://t.co/fFhN75wdqL",
+            "date": "Sat Jun 13 05:43:26 +0000 2026",
+            "message_id": "2065671365920014369",
+            "photos": [
+                "https://pbs.twimg.com/media/HKq9Juva4AAbw_k.jpg"
+            ]
         }
     ]
 }
