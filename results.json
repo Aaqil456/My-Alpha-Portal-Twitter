@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-13T17:25:48.190696",
+    "timestamp": "2026-06-14T10:50:19.283408",
     "messages": [
         {
             "source": "twitter",
@@ -3746,6 +3746,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HKsffLDbkAAt-N3.jpg",
                 "https://pbs.twimg.com/media/HKsffN_bIAA_uqp.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude80 $MEGA 23% up in 24hrs\n\n\ud83d\udcc9But still trading 35% below public sale price\n\n\ud83e\udd23At least it managed a bounce, unlike $LINEA, which only knows one direction\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/lIAkGIi60W",
+            "translated_text": "\ud83d\ude80 $MEGA naik 23% dalam 24 jam.\n\n\ud83d\udcc9 Tapi masih didagangkan 35% di bawah harga jualan awam.\n\n\ud83e\udd23 Sekurang-kurangnya ia berjaya melantun semula, tak macam $LINEA yang cuma tahu satu arah je.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/lIAkGIi60W",
+            "date": "Sun Jun 14 08:46:13 +0000 2026",
+            "message_id": "2066079751593468361",
+            "photos": [
+                "https://pbs.twimg.com/media/HKwwlNnacAAQauy.jpg"
             ]
         }
     ]
