@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-14T17:22:32.805721",
+    "timestamp": "2026-06-16T19:39:21.427836",
     "messages": [
         {
             "source": "twitter",
@@ -3772,6 +3772,19 @@
             "message_id": "2066138133956337786",
             "photos": [
                 "https://pbs.twimg.com/media/HKxlrulagAExhiH.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udee0 Will miss u @ready_co\n\n\u274cAll cards outside European Union r deactivated https://t.co/fIbxHxUJ3N",
+            "translated_text": "\ud83e\udee0 Mesti rindu awak @ready_co\n\n\u274c Semua kad di luar Kesatuan Eropah dah dinyahaktifkan https://t.co/fIbxHxUJ3N",
+            "date": "Tue Jun 16 12:26:06 +0000 2026",
+            "message_id": "2066859863196512299",
+            "photos": [
+                "https://pbs.twimg.com/media/HK72FJ1XIAAc44E.jpg"
             ]
         }
     ]
