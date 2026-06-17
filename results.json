@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-16T19:39:21.427836",
+    "timestamp": "2026-06-17T18:22:35.023161",
     "messages": [
         {
             "source": "twitter",
@@ -3785,6 +3785,19 @@
             "message_id": "2066859863196512299",
             "photos": [
                 "https://pbs.twimg.com/media/HK72FJ1XIAAc44E.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update on @base\n\n\ud83d\udccaBase explorer just added cards\n\u2705U can check ur wallet Reputation score\n\n\ud83d\udc47Steps\n\ud83d\udd17 https://t.co/BuaP0KJGtg\n\u2705Paste ur address\n\u2705Open \"cards\" tab\n\u2705Check ur stats\n\n\ud83d\udccaMy reputation score - 829\n\ud83d\udccaTrust score - 66\n\n\ud83e\udef5Wt about u?\n\ud83d\udcf7Post screenshot\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/qskQCjAuen",
+            "translated_text": "\ud83d\udca5 Update pasal @base\n\n\ud83d\udccaBase explorer baru je tambah fungsi 'cards'\n\u2705Anda boleh semak skor Reputasi wallet anda\n\n\ud83d\udc47Langkah-langkahnya\n\ud83d\udd17 https://t.co/BuaP0KJGtg\n\u2705Tampal alamat wallet anda\n\u2705Buka tab \"cards\"\n\u2705Semak statistik anda\n\n\ud83d\udccaSkor reputasi saya - 829\n\ud83d\udccaSkor kepercayaan - 66\n\n\ud83e\udef5Macam mana pula dengan anda?\n\ud83d\udcf7Kongsi screenshot\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/qskQCjAuen",
+            "date": "Wed Jun 17 13:17:17 +0000 2026",
+            "message_id": "2067235131962912967",
+            "photos": [
+                "https://pbs.twimg.com/media/HLBLZLBbkAAAzt7.jpg"
             ]
         }
     ]
