@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-19T04:44:26.581027",
+    "timestamp": "2026-06-20T17:37:25.093421",
     "messages": [
         {
             "source": "twitter",
@@ -3824,6 +3824,19 @@
             "message_id": "2067821746670243993",
             "photos": [
                 "https://pbs.twimg.com/media/HLJg6pAaQAAvDMv.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8Read this if u don't want a notice from Income Tax Department \ud83c\uddee\ud83c\uddf3\n\n\ud83d\udcc6ITR filing for assessment year 2026-27 is live\n\n\u26a0\ufe0fImportant for anyone who traded crypto on Indian CEXs during FY 2025-26\n\n\ud83d\udcc3Check your 26AS report with list of transactions declared by Indian CEX for your PAN https://t.co/CG367yhA4y",
+            "translated_text": "\ud83d\udea8Baca ni kalau tak nak dapat notis daripada Jabatan Cukai Pendapatan \ud83c\uddee\ud83c\uddf3\n\n\ud83d\udcc6Pengisian ITR untuk tahun taksiran 2026-27 dah dibuka.\n\n\u26a0\ufe0fPenting untuk sesiapa yang berdagang kripto di CEX India sepanjang FY 2025-26.\n\n\ud83d\udcc3Semak laporan 26AS anda dengan senarai transaksi yang diisytiharkan oleh CEX India untuk PAN anda https://t.co/CG367yhA4y",
+            "date": "Sat Jun 20 12:31:38 +0000 2026",
+            "message_id": "2068310807566540939",
+            "photos": [
+                "https://pbs.twimg.com/media/HLQdtsvbEAEijiX.jpg"
             ]
         }
     ]
