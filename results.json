@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-22T19:32:29.240828",
+    "timestamp": "2026-06-23T03:51:25.075680",
     "messages": [
         {
             "source": "twitter",
@@ -3850,6 +3850,19 @@
             "message_id": "2069044673772245033",
             "photos": [
                 "https://pbs.twimg.com/amplify_video_thumb/2069044571309522944/img/bGAa118kFxZ8W6cA.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd23So they were useless.. https://t.co/nPGUNGoxLV",
+            "translated_text": "\ud83e\udd23 Maknanya, tak ada gunalah diorang tu... https://t.co/nPGUNGoxLV",
+            "date": "Tue Jun 23 02:02:39 +0000 2026",
+            "message_id": "2069239680206573821",
+            "photos": [
+                "https://pbs.twimg.com/media/HLdqhOQaEAAeZfT.jpg"
             ]
         }
     ]
