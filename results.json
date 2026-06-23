@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T03:51:25.075680",
+    "timestamp": "2026-06-23T17:59:58.440164",
     "messages": [
         {
             "source": "twitter",
@@ -3863,6 +3863,19 @@
             "message_id": "2069239680206573821",
             "photos": [
                 "https://pbs.twimg.com/media/HLdqhOQaEAAeZfT.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Just deposited $10K in @tori_finance\n\n\ud83e\udde2Deposit cap - $50M\n\u2705$22M already filed\n\n\ud83d\udd17 https://t.co/IPEJttkuAW\n\u2705If u planning to deposit follow my guide\n\n\ud83d\udcf8Post your screenshot if already deposited\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/ZVKnvF0AiQ",
+            "translated_text": "\ud83d\ude01Baru je deposit $10K dalam @tori_finance\n\n\ud83e\udde2Had deposit - $50M\n\u2705$22M dah masuk\n\n\ud83d\udd17 https://t.co/IPEJttkuAW\n\u2705Kalau nak deposit, ikut panduan saya\n\n\ud83d\udcf8Post screenshot anda kalau dah deposit\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/ZVKnvF0AiQ",
+            "date": "Tue Jun 23 14:13:38 +0000 2026",
+            "message_id": "2069423638340903314",
+            "photos": [
+                "https://pbs.twimg.com/media/HLgR1F3bEAAK8hb.jpg"
             ]
         }
     ]
