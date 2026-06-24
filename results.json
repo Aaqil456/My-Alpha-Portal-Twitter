@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-23T17:59:58.440164",
+    "timestamp": "2026-06-24T10:53:14.008517",
     "messages": [
         {
             "source": "twitter",
@@ -3876,6 +3876,19 @@
             "message_id": "2069423638340903314",
             "photos": [
                 "https://pbs.twimg.com/media/HLgR1F3bEAAK8hb.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude02For @xStocksFi demo I purchased $120 of $SPCX\n\n\ud83d\udcb5At $210\n\ud83e\udea6Now $SPCX at $154\n\u2620\ufe0fThat has become top\n\n\ud83e\udd14Wt do u understand from this\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/OszlnS3i7D",
+            "translated_text": "\ud83d\ude02 Untuk demo @xStocksFi, saya beli $120 $SPCX.\n\n\ud83d\udcb5 Pada $210\n\ud83e\udea6 Sekarang $SPCX pada $154\n\u2620\ufe0f Itu dah jadi paling teruk.\n\n\ud83e\udd14 Apa yang awak faham dari ni?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/OszlnS3i7D",
+            "date": "Wed Jun 24 04:37:35 +0000 2026",
+            "message_id": "2069641060759048481",
+            "photos": [
+                "https://pbs.twimg.com/media/HLjXkncXsAAdt-4.jpg"
             ]
         }
     ]
