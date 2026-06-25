@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-24T17:57:23.625694",
+    "timestamp": "2026-06-25T03:53:44.260987",
     "messages": [
         {
             "source": "twitter",
@@ -3902,6 +3902,19 @@
             "message_id": "2069826932095828028",
             "photos": [
                 "https://pbs.twimg.com/media/HLmAnwsW4AAl6w5.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother UnStablecoin\n\n\ud83d\udcc9 $MIM - $0.49\n\ud83d\udd34Trading 51% below peg\n\n\ud83e\udef5Do u have any exposure?let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/UA7gCOekck",
+            "translated_text": "\u2620\ufe0fSatu lagi UnStablecoin\n\n\ud83d\udcc9 $MIM - $0.49\n\ud83d\udd34Berdagang 51% di bawah paras peg\n\n\ud83e\udef5Ada tak anda terdedah? Beritahu saya.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/UA7gCOekck",
+            "date": "Thu Jun 25 01:36:51 +0000 2026",
+            "message_id": "2069957964019245233",
+            "photos": [
+                "https://pbs.twimg.com/media/HLn3yyfawAAGi0K.jpg"
             ]
         }
     ]
