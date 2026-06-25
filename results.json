@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-25T03:53:44.260987",
+    "timestamp": "2026-06-25T10:45:21.455660",
     "messages": [
         {
             "source": "twitter",
@@ -3915,6 +3915,19 @@
             "message_id": "2069957964019245233",
             "photos": [
                 "https://pbs.twimg.com/media/HLn3yyfawAAGi0K.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14Can u guess the name of this coin?\n\n\ud83d\udca1Hint - it is still at $7.5B FDV after this 80% dump\n\n\ud83d\ude33Seriously..? What's the utility\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/T5gsliJTbh",
+            "translated_text": "\ud83e\udd14Boleh teka tak nama koin ni?\n\n\ud83d\udca1Petunjuk - dia masih pada $7.5B FDV selepas kejatuhan 80% ni.\n\n\ud83d\ude33Seriuslah..? Apa utilitinya?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/T5gsliJTbh",
+            "date": "Thu Jun 25 08:56:34 +0000 2026",
+            "message_id": "2070068622370996547",
+            "photos": [
+                "https://pbs.twimg.com/media/HLpccAwb0AAQmDo.jpg"
             ]
         }
     ]
