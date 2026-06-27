@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-27T03:42:52.671250",
+    "timestamp": "2026-06-27T10:11:46.075123",
     "messages": [
         {
             "source": "twitter",
@@ -3980,6 +3980,19 @@
             "message_id": "2070690672403951946",
             "photos": [
                 "https://pbs.twimg.com/media/HLySMCeaAAAa_6Y.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Full details on @squidrouter Token sale\n\n\ud83d\udcc5Sale Start - June 30, 6:30PM IST\n\ud83d\udcc5Ends - July 3, 6:30PM IST\n\n\ud83e\ude99 $QUID\n\ud83e\ude99Total supply - 1B\n\ud83e\ude99Sale 5% - 50M\n\n\ud83d\udcb5Price - $0.045\n\ud83d\udcc8FDV- $45M\n\ud83d\udcb0Hard Cap - $2.25M\n\n\ud83d\udd13TGE - 100% unlock\n\ud83d\udcddSale Format - Fixed Price, Pro-Rata, Merit-Based https://t.co/Gjwv6RlklP",
+            "translated_text": "\ud83d\udca5Info penuh pasal jualan token @squidrouter\n\n\ud83d\udcc5Mula Jualan - 30 Jun, 6:30 malam IST\n\ud83d\udcc5Tamat - 3 Julai, 6:30 malam IST\n\n\ud83e\ude99 $QUID\n\ud83e\ude99Jumlah bekalan - 1 bilion\n\ud83e\ude99Jualan 5% - 50 juta\n\n\ud83d\udcb5Harga - $0.045\n\ud83d\udcc8FDV - $45 juta\n\ud83d\udcb0Hard Cap - $2.25 juta\n\n\ud83d\udd13TGE - Buka kunci 100%\n\ud83d\udcddFormat Jualan - Harga Tetap, Pro-Rata, Berasaskan Merit https://t.co/Gjwv6RlklP",
+            "date": "Sat Jun 27 07:45:14 +0000 2026",
+            "message_id": "2070775447278039425",
+            "photos": [
+                "https://pbs.twimg.com/media/HLzfSqmakAAabCg.jpg"
             ]
         }
     ]
