@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-27T10:11:46.075123",
+    "timestamp": "2026-06-28T17:16:21.224401",
     "messages": [
         {
             "source": "twitter",
@@ -3993,6 +3993,19 @@
             "message_id": "2070775447278039425",
             "photos": [
                 "https://pbs.twimg.com/media/HLzfSqmakAAabCg.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14How many @bulktrade Aura did u accumulate?\n\n\ud83d\udd17 https://t.co/R51W4z4ga4\n\ud83d\udcf8Check &amp; post your screenshot\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/RBaxD7meHk",
+            "translated_text": "\ud83e\udd14Berapa banyak @bulktrade Aura yang anda dah kumpul?\n\n\ud83d\udd17 https://t.co/R51W4z4ga4\n\ud83d\udcf8Semak & kongsi screenshot anda\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/RBaxD7meHk",
+            "date": "Sun Jun 28 09:19:30 +0000 2026",
+            "message_id": "2071161558030532920",
+            "photos": [
+                "https://pbs.twimg.com/media/HL4-dSCboAA-i84.jpg"
             ]
         }
     ]
