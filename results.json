@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T04:14:02.954666",
+    "timestamp": "2026-06-29T12:37:26.383324",
     "messages": [
         {
             "source": "twitter",
@@ -4018,6 +4018,19 @@
             "date": "Mon Jun 29 02:02:17 +0000 2026",
             "message_id": "2071413918959018367",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude33 USDT trading at \u20b9102\n\n\ud83d\udcb5In March I remember selling at \u20b997\n\ud83d\udcc85% up in 3 months\n\n\ud83e\udee09% premium on $ price\n\ud83d\ude4eIndian users r basically paying 9% premium to buy any crypto\n\n\ud83e\udd37So our portfolio is 9% up\n\ud83e\udef5Wt do u think? I think it's temporary\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/K3dtGTUYBo",
+            "translated_text": "\ud83d\ude33 USDT sekarang \u20b9102\n\n\ud83d\udcb5 Bulan Mac dulu saya ingat saya jual pada harga \u20b997\n\ud83d\udcc8 Naik 5% dalam 3 bulan\n\n\ud83e\udee0 Premium 9% dari harga dolar\n\ud83d\ude4e Pengguna India pada dasarnya membayar premium 9% untuk beli mana-mana kripto\n\n\ud83e\udd37 Jadi, portfolio kita naik 9%\n\ud83e\udef5 Awak rasa macam mana? Saya rasa ini sementara je\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/K3dtGTUYBo",
+            "date": "Mon Jun 29 09:55:37 +0000 2026",
+            "message_id": "2071533036769005865",
+            "photos": [
+                "https://pbs.twimg.com/media/HL-QUKta8AAkhoy.jpg"
+            ]
         }
     ]
 }
