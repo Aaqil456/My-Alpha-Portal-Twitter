@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-28T17:16:21.224401",
+    "timestamp": "2026-06-29T04:14:02.954666",
     "messages": [
         {
             "source": "twitter",
@@ -4007,6 +4007,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/HL4-dSCboAA-i84.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd37 I don't hold any $ANSEM\n\n\ud83e\udef5Wt about u?",
+            "translated_text": "\ud83e\udd37 Saya takde $ANSEM pun.\n\n\ud83e\udef5 Awak pula?",
+            "date": "Mon Jun 29 02:02:17 +0000 2026",
+            "message_id": "2071413918959018367",
+            "photos": []
         }
     ]
 }
