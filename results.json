@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-06-29T12:37:26.383324",
+    "timestamp": "2026-06-30T03:55:46.187776",
     "messages": [
         {
             "source": "twitter",
@@ -4030,6 +4030,19 @@
             "message_id": "2071533036769005865",
             "photos": [
                 "https://pbs.twimg.com/media/HL-QUKta8AAkhoy.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f @solsticefi update\n\n\ud83e\udd23 2nd unlock moved to 9th July (previously 5July)\n\n\ud83d\udcb5They added TVL requirement for 2nd unlock\n\n\ud83d\ude02Now extend unlock whenever they want\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/LrnJNz1QRH",
+            "translated_text": "\u2620\ufe0f @solsticefi info terkini\n\n\ud83e\udd23 Unlock kedua ditunda ke 9 Julai (sebelum ini 5 Julai)\n\n\ud83d\udcb5 Diorang tambah syarat TVL untuk unlock kedua\n\n\ud83d\ude02 Sekarang diorang boleh panjangkan tempoh unlock bila-bila masa diorang nak\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/LrnJNz1QRH",
+            "date": "Tue Jun 30 01:03:06 +0000 2026",
+            "message_id": "2071761411810971842",
+            "photos": [
+                "https://pbs.twimg.com/media/HMBgBaFa4AAubS8.jpg"
             ]
         }
     ]
