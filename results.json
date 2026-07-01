@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-01T04:10:48.534886",
+    "timestamp": "2026-07-01T17:59:38.852858",
     "messages": [
         {
             "source": "twitter",
@@ -4082,6 +4082,19 @@
             "message_id": "2072143984076771520",
             "photos": [
                 "https://pbs.twimg.com/media/HMG79-PawAAP4As.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udea6 RIP @jup_mobile Card 4% cashback\n\n\ud83d\udcb8Jup card cashback reduced to 2%\n\u274c Cashback of $100 on $1000 spend is also reduced to $20\n\n\ud83d\ude05That was quick\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/WMWNdktEL7",
+            "translated_text": "\ud83e\udea6 RIP Kad @jup_mobile pulangan tunai 4%\n\n\ud83d\udcb8Pulangan tunai kad Jup dikurangkan kepada 2%\n\u274c Pulangan tunai $100 untuk perbelanjaan $1000 turut dikurangkan kepada $20\n\n\ud83d\ude05Cepatnya!\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/WMWNdktEL7",
+            "date": "Wed Jul 01 13:23:50 +0000 2026",
+            "message_id": "2072310212573454700",
+            "photos": [
+                "https://pbs.twimg.com/media/HMJTJrwacAALuc8.jpg"
             ]
         }
     ]
