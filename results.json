@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-04T10:13:18.830762",
+    "timestamp": "2026-07-07T03:40:54.936103",
     "messages": [
         {
             "source": "twitter",
@@ -4171,6 +4171,19 @@
             "message_id": "2073338787682513342",
             "photos": [
                 "https://pbs.twimg.com/media/HMX6ofkaAAAtC6n.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude33Funniest @bonk_inu hack explained\n\n\u2620\ufe0fHacker purchased $4M worth of $BONK\n\ud83d\udcddCreate a DAO proposal BIP #76\n\ud83d\ude05If proposal passes 4.4T $BONK will be transferred to hacker wallet\n\n\ud83d\udcc5Proposal was live for 7 days\n\u274cNo one notices\n\u23f0At the end of proposal hacker vote \"YES\"\n\n\u2705Proposal https://t.co/Fbe1ZDbRRE",
+            "translated_text": "\ud83d\ude33Hack @bonk_inu paling kelakar dah dijelaskan\n\n\u2620\ufe0fHacker tu beli $BONK bernilai $4 juta\n\ud83d\udcddDia buat cadangan DAO, BIP #76\n\ud83d\ude05Kalau cadangan tu lulus, 4.4 trilion $BONK akan dipindahkan ke dompet hacker\n\n\ud83d\udcc5Cadangan tu aktif selama 7 hari\n\u274cTak ada siapa perasan pun\n\u23f0Bila tempoh cadangan tamat, hacker tu undi \"YA\"\n\n\u2705Cadangan https://t.co/Fbe1ZDbRRE",
+            "date": "Tue Jul 07 02:11:00 +0000 2026",
+            "message_id": "2074315212489203825",
+            "photos": [
+                "https://pbs.twimg.com/media/HMlyr_YbYAIWkv8.jpg"
             ]
         }
     ]
