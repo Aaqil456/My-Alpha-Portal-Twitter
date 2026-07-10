@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-10T03:36:10.902422",
+    "timestamp": "2026-07-10T10:57:40.660500",
     "messages": [
         {
             "source": "twitter",
@@ -4223,6 +4223,20 @@
             "message_id": "2075217365625868615",
             "photos": [
                 "https://pbs.twimg.com/media/HMynMSUbYAEfy6_.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14 @grvt_io can u clarify\n\n\ud83d\udcddIf user doesn't register for Airdrop they will get allocation or not?\n\n\ud83d\ude05Looks like a setup\n\n\u2705If u have GRVT points just register before deadline or else u may lose ur allocation\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/8syfEQukQx",
+            "translated_text": "\ud83e\udd14 @grvt_io boleh tolong jelaskan?\n\n\ud83d\udcdd Kalau pengguna tak daftar untuk Airdrop, mereka akan dapat peruntukan ke tak?\n\n\ud83d\ude05 Nampak macam ada *setup* je ni.\n\n\u2705 Kalau ada GRVT points, daftar je sebelum tarikh akhir, kalau tak nanti terlepas peruntukan tu.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/8syfEQukQx",
+            "date": "Fri Jul 10 08:55:34 +0000 2026",
+            "message_id": "2075504190500098380",
+            "photos": [
+                "https://pbs.twimg.com/media/HM2sDBBakAE9cmP.jpg",
+                "https://pbs.twimg.com/media/HM2sDksagAAkodU.jpg"
             ]
         }
     ]
