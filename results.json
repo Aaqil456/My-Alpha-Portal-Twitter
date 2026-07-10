@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-10T10:57:40.660500",
+    "timestamp": "2026-07-10T17:48:54.156144",
     "messages": [
         {
             "source": "twitter",
@@ -4237,6 +4237,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HM2sDBBakAE9cmP.jpg",
                 "https://pbs.twimg.com/media/HM2sDksagAAkodU.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc40Looks like @arcus_xyz is still underfarmed\n\n\ud83d\udcb1Total volume - $1.58M\n\u23f024hr volume - $185K\n\u26a0\ufe0fNot official, but as per Defilama\n\n\ud83e\udd14So if they announce points &amp; distributed retroactively\n\ud83d\ude09Early users get good shade as Total volume is less\n\n\ud83d\udca1Most of the users waiting for Perp https://t.co/MsXnPO9QfE",
+            "translated_text": "\ud83d\udc40Nampak gayanya @arcus_xyz ni masih belum ramai yang 'farm'.\n\n\ud83d\udcb1Jumlah volum - $1.58 juta\n\u23f0Volum 24 jam - $185 ribu\n\u26a0\ufe0fBukan rasmi, tapi ikut Defilama.\n\n\ud83e\udd14Jadi kalau diorang umumkan poin & diagihkan secara retroaktif,\n\ud83d\ude09Pengguna awal dapat untung sebab Jumlah volum masih rendah.\n\n\ud83d\udca1Kebanyakan pengguna tengah tunggu Perp https://t.co/MsXnPO9QfE",
+            "date": "Fri Jul 10 12:32:37 +0000 2026",
+            "message_id": "2075558811482701889",
+            "photos": [
+                "https://pbs.twimg.com/media/HM3duzoa8AA3bIi.jpg"
             ]
         }
     ]
