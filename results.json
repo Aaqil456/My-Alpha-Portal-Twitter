@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-10T17:48:54.156144",
+    "timestamp": "2026-07-11T17:00:46.816690",
     "messages": [
         {
             "source": "twitter",
@@ -4250,6 +4250,19 @@
             "message_id": "2075558811482701889",
             "photos": [
                 "https://pbs.twimg.com/media/HM3duzoa8AA3bIi.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude48Miss those early DeFi days\n\n\ud83d\ude05Can u believe - 48,249% APY\n\ud83d\udcc5Posted this video back in 2020\n\n\ud83e\udee0Miss those days\n\ud83e\udef5Which year did u join crypto?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/vU5AWjSbeC",
+            "translated_text": "\ud83d\ude48Rindu zaman awal DeFi dulu\n\ud83d\ude05Percaya tak - 48,249% APY\n\ud83d\udcc5Video ni kami post pada tahun 2020\n\ud83e\udee0Rindu zaman tu\n\ud83e\udef5Tahun bila anda join crypto?\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/vU5AWjSbeC",
+            "date": "Sat Jul 11 13:27:47 +0000 2026",
+            "message_id": "2075935084394516923",
+            "photos": [
+                "https://pbs.twimg.com/media/HM8z9KhbIAAnMOh.jpg"
             ]
         }
     ]
