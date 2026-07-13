@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-13T03:18:38.212554",
+    "timestamp": "2026-07-13T11:14:37.037912",
     "messages": [
         {
             "source": "twitter",
@@ -4289,6 +4289,19 @@
             "message_id": "2076297243989361079",
             "photos": [
                 "https://pbs.twimg.com/media/HNB9VjGbUAAXvr9.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Full details on @ASCIIcats_ NFT mint on @RobinhoodCrypto chain\n\n\ud83d\ude3aTotal supply - 3333\n\ud83d\udcafFREE mint (pay gas only)\n\ud83d\udc641 NFT per wallet\n\u26d3\ufe0fRobinhood Chain\n\ud83c\udfa8100% onchain ASCII art\n\n\ud83e\udd37Mint Date - Unknown\n\ud83e\udd16Antibot 1 IP = 1 mint\n\ud83d\udd17Mint - https://t.co/6IOX3maSUJ\n\ud83d\udc65Public mint\n\u274cNo https://t.co/kW01n7GRUZ",
+            "translated_text": "\ud83d\udca5Maklumat penuh tentang mint NFT @ASCIIcats_ di Robinhood Chain @RobinhoodCrypto\n\n\ud83d\ude3aJumlah bekalan - 3333\n\ud83d\udcafMint PERCUMA (cuma perlu bayar yuran gas)\n\ud83d\udc641 NFT untuk setiap dompet\n\u26d3\ufe0fRobinhood Chain\n\ud83c\udfa8100% seni ASCII atas rantaian\n\n\ud83e\udd37Tarikh Mint - Belum diketahui\n\ud83e\udd16Antibot: 1 IP = 1 mint\n\ud83d\udd17Pautan Mint - https://t.co/6IOX3maSUJ\n\ud83d\udc65Mint awam\n\u274cTiada https://t.co/kW01n7GRUZ",
+            "date": "Mon Jul 13 08:38:53 +0000 2026",
+            "message_id": "2076587153489080443",
+            "photos": [
+                "https://pbs.twimg.com/media/HNGFAXSaEAEep9K.jpg"
             ]
         }
     ]
