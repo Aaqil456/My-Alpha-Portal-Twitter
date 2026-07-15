@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-15T02:41:39.279023",
+    "timestamp": "2026-07-15T10:05:17.987124",
     "messages": [
         {
             "source": "twitter",
@@ -4354,6 +4354,19 @@
             "message_id": "2077210265087840301",
             "photos": [
                 "https://pbs.twimg.com/media/HNO7uTma4AAeyfG.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Detailed guide on @arcus_xyz Spot trading cost\n\n\ud83d\ude03We already know, spot is live but Perp waitlist\n\u2705Spot trading fee is zero\n\n\ud83e\udd14Then where is the cost coming from?\n\ud83d\udcb1Swap slippages\n\n\u26fdEverytime u buy &amp; sell there is small slippage\n\ud83d\ude09Let's calculate\n\n\ud83d\udc47Did a $500 buy &amp; $500 sell https://t.co/WDA1IqVXPj",
+            "translated_text": "\ud83d\udca5Panduan terperinci tentang kos trading Spot @arcus_xyz\n\ud83d\ude03Macam kita dah tahu, Spot dah aktif tapi Perp masih dalam senarai menunggu\n\u2705Yuran trading Spot adalah sifar\n\ud83e\udd14Jadi, dari mana datangnya kos tu?\n\ud83d\udcb1Slippage swap\n\u26fdSetiap kali kita beli & jual, ada slippage kecil\n\ud83d\ude09Jom kira\n\ud83d\udc47Beli $500 & jual $500 https://t.co/WDA1IqVXPj",
+            "date": "Wed Jul 15 04:45:42 +0000 2026",
+            "message_id": "2077253249175031995",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2077253145311453184/img/qd0V8F51KigQZI_e.jpg"
             ]
         }
     ]
