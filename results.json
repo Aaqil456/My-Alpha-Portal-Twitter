@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-14T10:00:56.172196",
+    "timestamp": "2026-07-15T02:41:39.279023",
     "messages": [
         {
             "source": "twitter",
@@ -4341,6 +4341,19 @@
             "message_id": "2076948548906897775",
             "photos": [
                 "https://pbs.twimg.com/media/HNLNsUUaYAAwdwW.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude03Co-founder of Coinbase @brian_armstrong\n\ud83c\uddee\ud83c\uddf3coming to India for a podcast with @nikhilkamathcio\n\n\ud83d\ude09I heard a question regarding @base is gated etc.. \n\ud83d\udc40Will he talk about Base token &amp; governance?\n\n\ud83e\udd14Lets see\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/VHGuw6bYij",
+            "translated_text": "\ud83d\ude03Pengasas bersama Coinbase @brian_armstrong\n\ud83c\uddee\ud83c\uddf3akan datang ke India untuk podcast bersama @nikhilkamathcio\n\n\ud83d\ude09Saya dengar ada soalan pasal @base ni ada halangan/terhad dan sebagainya..\n\ud83d\udc40Adakah dia akan cakap pasal token Base &amp; tadbir urus?\n\n\ud83e\udd14Kita tengoklah\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/VHGuw6bYij",
+            "date": "Wed Jul 15 01:54:54 +0000 2026",
+            "message_id": "2077210265087840301",
+            "photos": [
+                "https://pbs.twimg.com/media/HNO7uTma4AAeyfG.jpg"
             ]
         }
     ]
