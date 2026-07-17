@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-17T10:00:25.258297",
+    "timestamp": "2026-07-17T17:15:24.297330",
     "messages": [
         {
             "source": "twitter",
@@ -4406,6 +4406,19 @@
             "message_id": "2077977961572282810",
             "photos": [
                 "https://pbs.twimg.com/media/HNZ18GMawAAmaWN.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd23 @grvt_io TGE postponed once again\n\n\ud83d\udcc5New TGE date - 30 July\n\ud83e\udd37Not sure if this is the final postpone\n\n\ud83e\udef5Wt do u think?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/1cqizd9Qsd",
+            "translated_text": "\ud83e\udd23 @grvt_io TGE ditunda sekali lagi\n\n\ud83d\udcc5Tarikh TGE baru - 30 Julai\n\ud83e\udd37Tak pasti ini penangguhan terakhir ke tak\n\n\ud83e\udef5Apa pendapat semua?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/1cqizd9Qsd",
+            "date": "Fri Jul 17 12:42:09 +0000 2026",
+            "message_id": "2078097925687947733",
+            "photos": [
+                "https://pbs.twimg.com/media/HNbjC_UbMAAlIX-.jpg"
             ]
         }
     ]
