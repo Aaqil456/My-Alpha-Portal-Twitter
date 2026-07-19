@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-19T09:53:50.226162",
+    "timestamp": "2026-07-19T17:00:38.535998",
     "messages": [
         {
             "source": "twitter",
@@ -4480,6 +4480,19 @@
             "message_id": "2078699797608108181",
             "photos": [
                 "https://pbs.twimg.com/media/HNkGce4aUAAdTeB.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udea8We might have just escaped one of the biggest exploit in crypto hystory\n\n\u26a0\ufe0fAgain this is via social engineering\n\ud83e\udef5Do u Remember April $270M Drift exploit?\n\n\ud83d\udc47Here is the story of missed @MetaMask exploit\n\ud83d\udc68\u200d\ud83d\udcbbA developer approaches MetaMask through a thirdparty service provider https://t.co/SDJrwwu3NI",
+            "translated_text": "\ud83d\udea8Kita mungkin baru saja terselamat dari salah satu eksploitasi terbesar dalam sejarah kripto.\n\u26a0\ufe0fSekali lagi, ini melalui kejuruteraan sosial.\n\ud83e\udef5Ingat tak eksploitasi Drift $270 juta pada bulan April lepas?\n\ud83d\udc47Ini cerita pasal eksploitasi MetaMask yang nyaris berlaku.\n\ud83d\udc68\u200d\ud83d\udcbbSeorang pembangun mendekati MetaMask melalui penyedia perkhidmatan pihak ketiga https://t.co/SDJrwwu3NI",
+            "date": "Sun Jul 19 16:57:33 +0000 2026",
+            "message_id": "2078886976087040410",
+            "photos": [
+                "https://pbs.twimg.com/media/HNmwrxLbIAA0mHm.jpg"
             ]
         }
     ]
