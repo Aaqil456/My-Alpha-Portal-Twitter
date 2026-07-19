@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-18T17:00:07.830321",
+    "timestamp": "2026-07-19T02:57:04.415795",
     "messages": [
         {
             "source": "twitter",
@@ -4455,6 +4455,19 @@
             "date": "Sat Jul 18 13:05:15 +0000 2026",
             "message_id": "2078466128922415537",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udd34 $ANSEM down 60% from top\n\n\ud83e\udd14But Tbh this memecoin is lot better than CEX pump &amp; dump coins\n\n\ud83e\udd37We saw many such coins like $BILL $LAB &amp; others get heavily manipulated after listing\n\n\u2705But $ANSEM rally was momentum driven rather than scam  pump\n\ud83e\udd14Agreed?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/PajhD7kfuP",
+            "translated_text": "\ud83d\udd34 $ANSEM jatuh 60% dari puncak\n\n\ud83e\udd14Tapi sejujurnya, memecoin ni jauh lebih baik daripada syiling pump & dump CEX\n\n\ud83e\udd37Kita dah tengok banyak syiling macam ni macam $BILL, $LAB & lain-lain kena manipulasi teruk lepas disenaraikan\n\n\u2705Tapi kenaikan $ANSEM didorong oleh momentum, bukannya pam penipuan\n\n\ud83e\udd14Setuju?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/PajhD7kfuP",
+            "date": "Sun Jul 19 02:30:33 +0000 2026",
+            "message_id": "2078668787159793787",
+            "photos": [
+                "https://pbs.twimg.com/media/HNjqPdeaEAA1sfo.jpg"
+            ]
         }
     ]
 }
