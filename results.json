@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-19T17:00:38.535998",
+    "timestamp": "2026-07-20T10:54:41.857645",
     "messages": [
         {
             "source": "twitter",
@@ -4493,6 +4493,19 @@
             "message_id": "2078886976087040410",
             "photos": [
                 "https://pbs.twimg.com/media/HNmwrxLbIAA0mHm.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Successfully filed Income tax returns for FY 2025-26 including crypto profits\n\n\ud83e\udef5Wt about u?\n\ud83d\udcc5Last date - 31 July\n\n\ud83e\uddf5Check my previous guide to know if any CEX txn r reported for ur PAN\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/0pqDk6djbM",
+            "translated_text": "\ud83d\ude01Dah berjaya failkan penyata cukai pendapatan untuk Tahun Kewangan 2025-26 termasuk keuntungan kripto.\n\n\ud83e\udef5Awak pula macam mana?\n\ud83d\udcc5Tarikh akhir - 31 Julai\n\n\ud83e\uddf5Semak panduan saya sebelum ni untuk tahu kalau ada transaksi CEX yang dilaporkan untuk PAN awak.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/0pqDk6djbM",
+            "date": "Mon Jul 20 09:03:39 +0000 2026",
+            "message_id": "2079130103397888206",
+            "photos": [
+                "https://pbs.twimg.com/media/HNqNzrDbgAAruok.jpg"
             ]
         }
     ]
