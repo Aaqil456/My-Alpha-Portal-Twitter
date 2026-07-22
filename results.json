@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-21T10:27:10.641808",
+    "timestamp": "2026-07-22T17:22:59.450381",
     "messages": [
         {
             "source": "twitter",
@@ -4519,6 +4519,19 @@
             "message_id": "2079497932253102328",
             "photos": [
                 "https://pbs.twimg.com/media/HNvcWK6a4AAulpr.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udd34 Another UnStablecoin RIP\n\n\ud83e\udea6 @42dao_official\n\ud83d\udcc9 $BLC down 99.92%\n\ud83e\udd37Yesterday it was $1 today Zerooo..7208\n\n\ud83e\udd77Rekt After a ~$1M exploit\n\u25b6\ufe0fExploit Season continues\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/ostSMZMsqq",
+            "translated_text": "\ud83d\udd34 Ada lagi UnStablecoin RIP\n\n\ud83e\udea6 @42dao_official\n\ud83d\udcc9 $BLC turun 99.92%\n\ud83e\udd37 Semalam $1, hari ni dah kosong..7208\n\n\ud83e\udd77 Rekt selepas kena exploit lebih kurang $1 juta\n\u25b6\ufe0f Musim exploit masih berterusan\n\n\ud83d\udc99 Like\n\ud83d\udd01 RT https://t.co/ostSMZMsqq",
+            "date": "Wed Jul 22 12:44:01 +0000 2026",
+            "message_id": "2079910336187269588",
+            "photos": [
+                "https://pbs.twimg.com/media/HN1TbJXbUAA6SkQ.jpg"
             ]
         }
     ]
