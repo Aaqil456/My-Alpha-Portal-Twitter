@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-25T09:50:47.451271",
+    "timestamp": "2026-07-25T17:01:31.586383",
     "messages": [
         {
             "source": "twitter",
@@ -4558,6 +4558,19 @@
             "message_id": "2080928553131257930",
             "photos": [
                 "https://pbs.twimg.com/amplify_video_thumb/2080928488442511360/img/zaYDWjjMd1KC7l5-.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude03Tap &amp; HODL the image to see $BTC future. https://t.co/s7cg71AJ8B",
+            "translated_text": "\ud83d\ude03 Tekan & HODL gambar tu untuk tengok $BTC masa depan. https://t.co/s7cg71AJ8B",
+            "date": "Sat Jul 25 12:00:44 +0000 2026",
+            "message_id": "2080986605255639383",
+            "photos": [
+                "https://pbs.twimg.com/media/HOEjyVnaEAAl1Fm.png"
             ]
         }
     ]
