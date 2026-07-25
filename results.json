@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-25T02:51:26.269337",
+    "timestamp": "2026-07-25T09:50:47.451271",
     "messages": [
         {
             "source": "twitter",
@@ -4545,6 +4545,19 @@
             "message_id": "2080829808175665340",
             "photos": [
                 "https://pbs.twimg.com/media/HOCXrfka4AARmmZ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @baseapp Welcome rewards\n\n\ud83d\udcb8Earn upto $35\n\ud83d\udcb0Capital needed - $280\n\n\ud83d\udc47Steps\n\ud83d\udd17 https://t.co/XkTJAZhPfd\n\ud83c\udf9f\ufe0fCode - 4DSVB474\n\u2705Sign up\n\u2705Load wallet With ~$280\n\u2705Make single swap of $105\n\u2705Make next single swap of $255\n\ud83d\udcc5Hold $270 worth funds in wallet for 30 days https://t.co/95IBDAA7Rr",
+            "translated_text": "\ud83d\udca5Panduan ringkas untuk ganjaran Selamat Datang @baseapp\n\n\ud83d\udcb8Boleh dapat sehingga $35\n\ud83d\udcb0Modal diperlukan - $280\n\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17 https://t.co/XkTJAZhPfd\n\ud83c\udf9f\ufe0fKod - 4DSVB474\n\u2705Daftar\n\u2705Top up dompet dengan ~$280\n\u2705Buat satu swap sebanyak $105\n\u2705Buat satu swap seterusnya sebanyak $255\n\ud83d\udcc5Pegang dana bernilai $270 dalam dompet selama 30 hari https://t.co/95IBDAA7Rr",
+            "date": "Sat Jul 25 08:10:03 +0000 2026",
+            "message_id": "2080928553131257930",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2080928488442511360/img/zaYDWjjMd1KC7l5-.jpg"
             ]
         }
     ]
