@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-07-28T17:36:57.212727",
+    "timestamp": "2026-07-29T10:41:23.187711",
     "messages": [
         {
             "source": "twitter",
@@ -4624,6 +4624,19 @@
             "message_id": "2082088821525827628",
             "photos": [
                 "https://pbs.twimg.com/media/HOUQvqKaEAAwXcO.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 @grvt_io :  Press &amp; HODL the image to see actual allocation https://t.co/uoWbN1yOq8",
+            "translated_text": "\ud83d\ude01 @grvt_io : Tekan & HODL gambar ini untuk tengok peruntukan sebenar https://t.co/uoWbN1yOq8",
+            "date": "Wed Jul 29 04:04:03 +0000 2026",
+            "message_id": "2082316197484531812",
+            "photos": [
+                "https://pbs.twimg.com/media/HOXVu5Fa8AAVSQa.png"
             ]
         }
     ]
