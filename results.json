@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-01T03:14:49.590992",
+    "timestamp": "2026-08-01T10:01:42.153922",
     "messages": [
         {
             "source": "twitter",
@@ -4663,6 +4663,19 @@
             "message_id": "2083370172237382030",
             "photos": [
                 "https://pbs.twimg.com/media/HOmeIAgaQAATHur.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude02Current state of a crypto user\n\n\ud83d\udcbbHold crypto in a software wallet\n\u2620\ufe0fOne wrong file download &amp; funds gone\n\n\ud83c\udfe6Deposit to a CEX\n\ud83d\udd11Not ur keys, not ur crypto\n\n\ud83d\udce5Put it to work in DeFi\n\ud83e\udea9Exploit season is live\n\n\ud83d\udcf1Fine... move everything to a cold wallet\n\ud83e\udeb2New fear unlocked- https://t.co/j00etX9AYW",
+            "translated_text": "\ud83d\ude02 Situasi semasa pengguna kripto\n\n\ud83d\udcbb Simpan kripto dalam dompet perisian\n\u2620\ufe0f Tersalah muat turun satu fail & duit lesap\n\n\ud83c\udfe6 Deposit ke CEX\n\ud83d\udd11 Bukan kunci anda, bukan kripto anda\n\n\ud83d\udce5 Letak untuk bekerja dalam DeFi\n\ud83e\udea9 Musim eksploitasi sedang rancak\n\n\ud83d\udcf1 Oklah... pindahkan semua ke dompet sejuk\n\ud83e\udeb2 Ketakutan baru muncul - https://t.co/j00etX9AYW",
+            "date": "Sat Aug 01 08:46:00 +0000 2026",
+            "message_id": "2083474314955825440",
+            "photos": [
+                "https://pbs.twimg.com/media/HOn81xQa8AAYHcw.jpg"
             ]
         }
     ]
