@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-01T10:01:42.153922",
+    "timestamp": "2026-08-02T03:15:16.395328",
     "messages": [
         {
             "source": "twitter",
@@ -4676,6 +4676,19 @@
             "message_id": "2083474314955825440",
             "photos": [
                 "https://pbs.twimg.com/media/HOn81xQa8AAYHcw.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f @COLDCARDwallet exploit continues\n\n\ud83d\udcb8Total loss - $88M\n\ud83e\udee0Many users doesn't know about this issue\n\n\u26a0\ufe0fDrain continue untill they update the firmware &amp; migrate funds\n\ud83e\udee8Scary situation\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/DhdjyhMQCc",
+            "translated_text": "\u2620\ufe0f Eksploitasi @COLDCARDwallet masih berterusan\n\n\ud83d\udcb8 Jumlah kerugian - $88 juta\n\ud83e\udee0 Ramai pengguna tak tahu pasal isu ni\n\n\u26a0\ufe0f Penarikan dana berterusan sampai diorang update firmware & pindahkan dana\n\ud83e\udee8 Situasi menakutkan\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/DhdjyhMQCc",
+            "date": "Sun Aug 02 01:31:33 +0000 2026",
+            "message_id": "2083727368980730186",
+            "photos": [
+                "https://pbs.twimg.com/media/HOri_r0aEAAwO2a.jpg"
             ]
         }
     ]
