@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-02T09:59:54.884267",
+    "timestamp": "2026-08-03T03:17:17.797845",
     "messages": [
         {
             "source": "twitter",
@@ -4701,6 +4701,19 @@
             "date": "Sun Aug 02 08:33:03 +0000 2026",
             "message_id": "2083833442358423845",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fThere is lot of uncertainty about where to store crypto\n\n\ud83e\udd14Do u know about @Ledger Passphrase?\n\u2705This could be one option\n\u2705It is also available in few other Hardware wallets\n\n\ud83e\udd14What is Passphrase?\n\ud83d\udd20Usually Seed words r 12 or 24 words\n\ud83d\udd12More words = more safe\n\ud83d\udd24Passphrase = https://t.co/aesLOJMVWm",
+            "translated_text": "\u2620\ufe0fRamai yang tak pasti kat mana nak simpan crypto ni.\n\n\ud83e\udd14Tahu tak pasal @Ledger Passphrase?\n\u2705Ini boleh jadi salah satu pilihan.\n\u2705Ia juga ada dekat beberapa Hardware wallet lain.\n\n\ud83e\udd14Apa tu Passphrase?\n\ud83d\udd20Biasanya Seed words ni ada 12 atau 24 perkataan.\n\ud83d\udd12Lagi banyak perkataan = lagi selamat.\n\ud83d\udd24Passphrase = https://t.co/aesLOJMVWm",
+            "date": "Sun Aug 02 12:54:51 +0000 2026",
+            "message_id": "2083899327173497041",
+            "photos": [
+                "https://pbs.twimg.com/media/HOt_Y9Jb0AAeVnb.jpg"
+            ]
         }
     ]
 }
