@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-04T17:50:32.859227",
+    "timestamp": "2026-08-05T17:41:46.207063",
     "messages": [
         {
             "source": "twitter",
@@ -4776,6 +4776,19 @@
             "message_id": "2084647999918240188",
             "photos": [
                 "https://pbs.twimg.com/media/HO4oTaHakAA2vjb.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @arc Mainnet on 16th September\n\n\ud83d\udcddFew interesting details about Arc revealed in @circle Q2 results\n\n\ud83e\ude99Arc presale\n\ud83d\udc40Circle confirms that FY2026 guidance includes revenue recognized from the ARC Token presale\n\n\ud83e\udd14So presale completed\n\ud83d\uddd2\ufe0fReport does not disclose\n\u274cPresale date https://t.co/zGwUxz5SRk",
+            "translated_text": "\ud83d\udca5 @arc Mainnet pada 16 September\n\n\ud83d\udcdd Beberapa butiran menarik tentang Arc didedahkan dalam keputusan suku kedua @circle\n\n\ud83e\ude99 Pra-jualan Arc\n\ud83d\udc40 Circle mengesahkan yang panduan FY2026 merangkumi pendapatan yang diiktiraf daripada pra-jualan ARC Token\n\n\ud83e\udd14 Jadi pra-jualan dah selesai\n\ud83d\uddd2\ufe0f Laporan tak dedahkan\n\u274c Tarikh pra-jualan https://t.co/zGwUxz5SRk",
+            "date": "Wed Aug 05 11:42:46 +0000 2026",
+            "message_id": "2084968353303765380",
+            "photos": [
+                "https://pbs.twimg.com/media/HO9Lqcgb0AAG9xF.jpg"
             ]
         }
     ]
