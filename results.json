@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-08T01:48:12.373802",
+    "timestamp": "2026-08-09T01:55:31.353418",
     "messages": [
         {
             "source": "twitter",
@@ -4815,6 +4815,19 @@
             "message_id": "2085901706823696429",
             "photos": [
                 "https://pbs.twimg.com/media/HPKcizwb0AAZStt.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @arcus_xyz\n\n\ud83d\udcafPerp Maker fee is Zero now\n\u2705Time to grind volume if u already have Perp access\n\n\ud83c\udf9f\ufe0fTeam recently added fes to whitelists\n\u2705Check if u r given access\n\n\ud83d\udc47Steps to check\n\ud83d\udd17 https://t.co/QtCFGKO32B\n\u2705Connect wallet\n\u2705Go to Perp tab\n\u2705If u see option to https://t.co/khWwx0xzWp",
+            "translated_text": "\ud83d\udca5Kemaskini tentang @arcus_xyz\n\n\ud83d\udcafYuran Perp Maker dah kosong sekarang\n\u2705Masa untuk kumpul volume kalau awak dah ada akses Perp\n\n\ud83c\udf9f\ufe0fTim baru-baru ni dah tambah fes ke senarai putih\n\u2705Semak kalau awak dah diberi akses\n\n\ud83d\udc47Langkah-langkah untuk semak\n\ud83d\udd17 https://t.co/QtCFGKO32B\n\u2705Sambungkan dompet\n\u2705Pergi ke tab Perp\n\u2705Kalau awak nampak pilihan untuk https://t.co/khWwx0xzWp",
+            "date": "Sat Aug 08 14:08:47 +0000 2026",
+            "message_id": "2086092261323117042",
+            "photos": [
+                "https://pbs.twimg.com/media/HPNJ2f3acAAP-Ue.jpg"
             ]
         }
     ]
