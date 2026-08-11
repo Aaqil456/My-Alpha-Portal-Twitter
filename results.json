@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T08:59:46.956232",
+    "timestamp": "2026-08-11T16:59:08.827555",
     "messages": [
         {
             "source": "twitter",
@@ -4919,6 +4919,19 @@
             "message_id": "2087042506722853224",
             "photos": [
                 "https://pbs.twimg.com/media/HPaqDjObgAAk0jX.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude015 Important Reminders about @arcus_xyz\n\n1\ufe0f\u20e3Arcus token\n\ud83e\ude99CEO of DYdX already hinted about Arcus token\n\n2\ufe0f\u20e3Robinhood\n\u26d3\ufe0fArcus is DEX on @RobinhoodCrypto chain\n\ud83d\ude09So u indirectly position for Robinhood\n\n3\ufe0f\u20e3Users\n\ud83e\udd0fVery limited users have Perp access\n\ud83d\udc65Arcus Perp access is with hardly https://t.co/5ggdPDeDUk",
+            "translated_text": "\ud83d\ude015 Peringatan Penting tentang @arcus_xyz\n\n1\ufe0f\u20e3Token Arcus\n\ud83e\ude99CEO DYdX dah bagi bayangan pasal token Arcus\n\n2\ufe0f\u20e3Robinhood\n\u26d3\ufe0fArcus ni DEX atas rantaian @RobinhoodCrypto\n\ud83d\ude09Jadi, anda secara tak langsung dah bersedia untuk Robinhood\n\n3\ufe0f\u20e3Pengguna\n\ud83e\udd0fSangat sedikit pengguna yang ada akses Perp\n\ud83d\udc65Akses Perp Arcus sangat terhad. https://t.co/5ggdPDeDUk",
+            "date": "Tue Aug 11 13:07:32 +0000 2026",
+            "message_id": "2087164009351200775",
+            "photos": [
+                "https://pbs.twimg.com/media/HPcYmYfbAAApkuV.jpg"
             ]
         }
     ]
