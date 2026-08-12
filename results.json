@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-11T16:59:08.827555",
+    "timestamp": "2026-08-12T09:14:01.097652",
     "messages": [
         {
             "source": "twitter",
@@ -4932,6 +4932,19 @@
             "message_id": "2087164009351200775",
             "photos": [
                 "https://pbs.twimg.com/media/HPcYmYfbAAApkuV.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f Another day another exploit\n\n\ud83e\ude99 $ONE\n\ud83e\udea6 @harmonyprotocol\n\ud83e\udd77Hacker minted 4B tokens from tin air\n\ud83d\udce4Most of that is moved to CEX\n\n\ud83e\ude99Total supply before hack - 10B\n\ud83e\ude99After - 14B\n\n\ud83d\udcc9Price drop by 35%\n\u274cNo liquidity left\n\n\ud83d\ude05Hacker struggling to sell tokens\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/I0neTz3bK6",
+            "translated_text": "\u2620\ufe0f Hari ni ada lagi kes eksploitasi\n\n\ud83e\ude99 $ONE\n\ud83e\udea6 @harmonyprotocol\n\ud83e\udd77 Hacker dah 'mint' 4 bilion token dari udara kosong\n\ud83d\udce4 Kebanyakan token tu dah dipindahkan ke CEX\n\n\ud83e\ude99 Jumlah bekalan sebelum kena hack - 10 bilion\n\ud83e\ude99 Selepas kena hack - 14 bilion\n\n\ud83d\udcc9 Harga jatuh 35%\n\u274c Kecairan dah habis\n\n\ud83d\ude05 Hacker tu susah nak jual token-token tu\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/I0neTz3bK6",
+            "date": "Wed Aug 12 06:20:18 +0000 2026",
+            "message_id": "2087423916583334046",
+            "photos": [
+                "https://pbs.twimg.com/media/HPgE_D7bAAAERV-.jpg"
             ]
         }
     ]
