@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-13T02:09:56.299440",
+    "timestamp": "2026-08-13T16:58:16.266101",
     "messages": [
         {
             "source": "twitter",
@@ -4971,6 +4971,19 @@
             "message_id": "2087707850344992925",
             "photos": [
                 "https://pbs.twimg.com/media/HPkHOMabwAEozAT.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @BitRobotNetwork Access ID &amp; Bolts(pts)\n\n\ud83d\udcb0Funding - $8M\n\ud83d\udcafFREE\n\n\ud83c\udd95It is similar to @axisrobotics\n\ud83d\ude09If u remember I covered it in Axis guide for Alliance tasks\n\n\ud83d\udc47Steps\n\ud83d\udd17 https://t.co/rCY9J1vYRO\n\u2705Login with email\n\u2705Create profile\n\u2705Select add wallet\n\u2705Link https://t.co/XSIi1YttJF",
+            "translated_text": "\ud83d\udca5Panduan ringkas tentang Access ID & Bolts (pts) @BitRobotNetwork\n\n\ud83d\udcb0Dana - $8M\n\ud83d\udcafPERCUMA\n\n\ud83c\udd95Ia serupa dengan @axisrobotics\n\ud83d\ude09Kalau ingat, saya pernah kongsikan dalam panduan Axis untuk tugasan Alliance.\n\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17 https://t.co/rCY9J1vYRO\n\u2705Log masuk guna emel\n\u2705Buat profil\n\u2705Pilih 'add wallet'\n\u2705Pautkan https://t.co/XSIi1YttJF",
+            "date": "Thu Aug 13 12:44:32 +0000 2026",
+            "message_id": "2087882999673274571",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2087882967700152320/img/reTf4mmL_7NtlnQB.jpg"
             ]
         }
     ]
