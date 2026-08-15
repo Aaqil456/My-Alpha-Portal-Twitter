@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T08:31:36.872437",
+    "timestamp": "2026-08-15T16:27:50.990737",
     "messages": [
         {
             "source": "twitter",
@@ -5010,6 +5010,19 @@
             "message_id": "2088495562631118990",
             "photos": [
                 "https://pbs.twimg.com/media/HPvTpBIbcAADjG9.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udea6Another UnStablecoin coin\n\n\ud83e\ude99 $sNUSD by @Neutrl\n\ud83d\udcc9Dump 70%\n\ud83d\udcb5Traded at $0.28\n\ud83d\uded1After project announce minting &amp; redemption pause\n\n\ud83d\udc40But it bounced back after a day\n\ud83d\udcb5Now at $0.84\n\n\u274cClear details u they paused resumption\n\ud83e\udd14Wt do u think?\n\n\u274cDeFi not safe anymore\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/84CynO1aRb",
+            "translated_text": "\ud83e\udea6Satu lagi UnStablecoin.\n\n\ud83e\ude99 $sNUSD dari @Neutrl\n\ud83d\udcc9Jatuh 70%\n\ud83d\udcb5Pernah didagangkan pada $0.28\n\ud83d\uded1Selepas projek umumkan hentikan minting & penebusan.\n\n\ud83d\udc40Tapi, ia melantun semula selepas sehari.\n\ud83d\udcb5Sekarang pada $0.84.\n\n\u274cTiada butiran jelas bila mereka akan sambung semula.\n\ud83e\udd14Apa pendapat kamu?\n\n\u274cDeFi dah tak selamat lagi.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/84CynO1aRb",
+            "date": "Sat Aug 15 13:03:56 +0000 2026",
+            "message_id": "2088612655510736967",
+            "photos": [
+                "https://pbs.twimg.com/media/HPw-IzlbIAAe0s-.jpg"
             ]
         }
     ]
