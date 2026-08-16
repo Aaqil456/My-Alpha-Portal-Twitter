@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-15T16:27:50.990737",
+    "timestamp": "2026-08-16T16:28:59.962880",
     "messages": [
         {
             "source": "twitter",
@@ -5023,6 +5023,19 @@
             "message_id": "2088612655510736967",
             "photos": [
                 "https://pbs.twimg.com/media/HPw-IzlbIAAe0s-.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f 2 Hardware wallet data breach in 3 days\n\n\ud83d\udcc513 August\n\ud83e\udea6 @Trezor\n\n\ud83d\udcc516 August\n\ud83e\udea6 @SafePal\n\n\u274cSeed &amp; Pvt key r not compromised\n\n\ud83d\udc47User info leaked\n\u2733\ufe0fFull names\n\u2733\ufe0fShipping addresses\n\u2733\ufe0fPhone numbers\n\u2733\ufe0fEmail addresses\n\n\u26a0\ufe0fThis data will be used to send phishing email or physical https://t.co/ms1nheNHLk",
+            "translated_text": "\u2620\ufe0f Data 2 dompet perkakasan bocor dalam masa 3 hari\n\n\ud83d\udcc5 13 Ogos\n\ud83e\udea6 @Trezor\n\n\ud83d\udcc5 16 Ogos\n\ud83e\udea6 @SafePal\n\n\u274c Seed dan kunci peribadi tidak terjejas\n\n\ud83d\udc47 Maklumat pengguna yang bocor:\n\u2733\ufe0f Nama penuh\n\u2733\ufe0f Alamat penghantaran\n\u2733\ufe0f Nombor telefon\n\u2733\ufe0f Alamat e-mel\n\n\u26a0\ufe0f Data ini akan digunakan untuk menghantar e-mel pancingan data atau cubaan pancingan data secara fizikal https://t.co/ms1nheNHLk",
+            "date": "Sun Aug 16 11:50:14 +0000 2026",
+            "message_id": "2088956498118647840",
+            "photos": [
+                "https://pbs.twimg.com/media/HP123DYbEAA5r7w.jpg"
             ]
         }
     ]
