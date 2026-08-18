@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-17T16:29:49.383957",
+    "timestamp": "2026-08-18T08:39:45.630442",
     "messages": [
         {
             "source": "twitter",
@@ -5062,6 +5062,19 @@
             "message_id": "2089329422390198357",
             "photos": [
                 "https://pbs.twimg.com/media/HP7KCFiaIAE_c2w.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude05 @linera_io coming up with token sale\n\n\ud83e\ude99 $LNRA\n\ud83c\udfe6Sale in Sonar\n\n\ud83d\udd1cOther details will be revealed soon\n\ud83d\udc40Let's see how the sale terms r\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/noKWXv7IET",
+            "translated_text": "\ud83d\ude05 @linera_io akan ada jualan token\n\ud83e\ude99 $LNRA\n\ud83c\udfe6 Jualan di Sonar\n\ud83d\udd1c Maklumat lanjut akan dikongsi tak lama lagi\n\ud83d\udc40 Jom kita tengok macam mana terma jualan dia nanti\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/noKWXv7IET",
+            "date": "Tue Aug 18 04:35:04 +0000 2026",
+            "message_id": "2089571758332633507",
+            "photos": [
+                "https://pbs.twimg.com/media/HP-mb19bAAAXskV.jpg"
             ]
         }
     ]
