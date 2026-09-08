@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-08-18T16:34:35.690971",
+    "timestamp": "2026-09-08T12:41:52.411192",
     "messages": [
         {
             "source": "twitter",
@@ -5088,6 +5088,19 @@
             "message_id": "2089743597054894515",
             "photos": [
                 "https://pbs.twimg.com/amplify_video_thumb/2089743558832201728/img/t2MrA_Yz6Q9b9R_o.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @ethos_network sale\n\n\ud83e\ude99Final tokens will be distributed today\n\u274c $WHUF Listing is not today\n\n\ud83d\udcc5Tokens will be non transferable for 30days\n\n\u2705But they can be used to vouch during this period\n\u25b6\ufe0fI will post guide on vouch once it is live\n\n\ud83d\udcc5Tokens will be transferable on https://t.co/VXcytEpw31",
+            "translated_text": "\ud83d\udca5Update pasal jualan @ethos_network\n\ud83e\ude99Token terakhir akan diedarkan hari ini\n\u274cPenyenaraian $WHUF bukan hari ini\n\ud83d\udcc5Token tak boleh transfer selama 30 hari\n\u2705Tapi boleh digunakan untuk buat vouch dalam tempoh ni\n\u25b6\ufe0fSaya akan kongsikan panduan pasal vouch bila dah live nanti\n\ud83d\udcc5Token boleh transfer di https://t.co/VXcytEpw31",
+            "date": "Tue Sep 08 09:06:20 +0000 2026",
+            "message_id": "2097250172229304619",
+            "photos": [
+                "https://pbs.twimg.com/media/HRrt567bMAAKv9N.jpg"
             ]
         }
     ]
