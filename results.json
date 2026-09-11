@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-11T03:41:57.265955",
+    "timestamp": "2026-09-11T19:02:07.492966",
     "messages": [
         {
             "source": "twitter",
@@ -5154,6 +5154,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HR5kRxBaAAAusd1.jpg",
                 "https://pbs.twimg.com/media/HR5kSOZaMAArTpE.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude80 $ETH god candle https://t.co/RW3nLSG5qd",
+            "translated_text": "\ud83d\ude80 $ETH lonjakan harga yang luar biasa https://t.co/RW3nLSG5qd",
+            "date": "Fri Sep 11 14:04:26 +0000 2026",
+            "message_id": "2098412355264954597",
+            "photos": [
+                "https://pbs.twimg.com/media/HR8O6bMacAAK0C0.jpg"
             ]
         }
     ]
