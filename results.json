@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-13T13:11:02.824505",
+    "timestamp": "2026-09-13T18:36:48.572754",
     "messages": [
         {
             "source": "twitter",
@@ -5208,6 +5208,19 @@
                 "https://pbs.twimg.com/media/HSFVzhFbEAAQT2Q.jpg",
                 "https://pbs.twimg.com/media/HSFV0A-aEAATkGB.jpg",
                 "https://pbs.twimg.com/media/HSFV0hIbMAAqBUS.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @variational_io hidden detail\n\n\ud83e\udd77Variational is doing a secret meet up during Korea Blockchain Week\n\ud83d\udcc5On 30 Sept\n\n\ud83d\udc40As per doc, points distribution will conclude before Q3\n\n\ud83e\udd14So meet up &amp; end of points on same day\n\ud83d\ude09Hmm..\n\n\ud83e\udd17Looks like they may announce, Airdrop registration https://t.co/eQ1c7l672T",
+            "translated_text": "\ud83d\udca5 @variational_io ada info tersembunyi ni\n\n\ud83e\udd77 Variational akan buat pertemuan rahsia masa Korea Blockchain Week\n\ud83d\udcc5 Pada 30 September\n\n\ud83d\udc40 Ikut dokumen, pengagihan mata akan selesai sebelum Q3\n\n\ud83e\udd14 Jadi, pertemuan dengan tamatnya pengagihan mata pada hari yang sama\n\ud83d\ude09 Hmm..\n\n\ud83e\udd17 Nampak gayanya macam dorang mungkin akan umumkan pendaftaran Airdrop https://t.co/eQ1c7l672T",
+            "date": "Sun Sep 13 16:19:55 +0000 2026",
+            "message_id": "2099171223603400963",
+            "photos": [
+                "https://pbs.twimg.com/media/HSHBGYsaMAAbkAU.jpg"
             ]
         }
     ]
