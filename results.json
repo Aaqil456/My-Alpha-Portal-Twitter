@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-13T03:53:48.331435",
+    "timestamp": "2026-09-13T13:11:02.824505",
     "messages": [
         {
             "source": "twitter",
@@ -5193,6 +5193,21 @@
             "message_id": "2098751101998973176",
             "photos": [
                 "https://pbs.twimg.com/media/HSBDAHfbMAAGKfL.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc40So overnight OpenAI, Anthropic &amp; XAI agree to slow the pace of AI development\n\n\ud83e\udd14Wt exactly happening &amp; how it related to crypto?\n\n\ud83d\udc47Let's understand\n\ud83e\udd37Many think how is it even related to crypto\n\ud83d\ude09Just a reminder, most of the exploits happening in 2026 r with help of AI tools https://t.co/XV5B1asPg3",
+            "translated_text": "Jadi, semalam OpenAI, Anthropic & XAI bersetuju untuk perlahankan pembangunan AI.\n\nApa sebenarnya yang berlaku & macam mana ia berkaitan dengan kripto?\n\nJom kita fahamkan.\nMesti ramai yang tertanya, apa kaitan benda ni dengan kripto?\nSekadar nak ingatkan, kebanyakan eksploitasi yang berlaku pada 2026 nanti adalah dengan bantuan alat AI. https://t.co/XV5B1asPg3",
+            "date": "Sun Sep 13 08:31:12 +0000 2026",
+            "message_id": "2099053269775732831",
+            "photos": [
+                "https://pbs.twimg.com/media/HSFVzhFbEAAQT2Q.jpg",
+                "https://pbs.twimg.com/media/HSFV0A-aEAATkGB.jpg",
+                "https://pbs.twimg.com/media/HSFV0hIbMAAqBUS.jpg"
             ]
         }
     ]
