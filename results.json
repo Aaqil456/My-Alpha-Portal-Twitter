@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-13T18:36:48.572754",
+    "timestamp": "2026-09-14T14:50:04.086181",
     "messages": [
         {
             "source": "twitter",
@@ -5221,6 +5221,19 @@
             "message_id": "2099171223603400963",
             "photos": [
                 "https://pbs.twimg.com/media/HSHBGYsaMAAbkAU.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Update on @entropyIO\n\n\ud83d\udcb8First set of rebates earned through trading and referral activity  have now been distributed\n\ud83e\ude99Distributions are in $HYPE\n\n\ud83d\udd17 https://t.co/qq03V0Eem3\n\u2705Go to referral tab\n\u2705Claim rebate\n\n\u26fdSo basically if u used my link, u would have got full fee margin https://t.co/vnTMguYUQP",
+            "translated_text": "\ud83d\udca5Makluman terkini tentang @entropyIO\n\n\ud83d\udcb8Rebat pusingan pertama yang diperolehi melalui aktiviti dagangan dan rujukan dah pun diedarkan.\n\ud83e\ude99Rebat diagihkan dalam $HYPE.\n\n\ud83d\udd17 https://t.co/qq03V0Eem3\n\u2705Pergi ke tab rujukan\n\u2705Tuntut rebat\n\n\u26fdJadi, kalau awak guna link saya, awak akan dapat margin yuran penuh https://t.co/vnTMguYUQP",
+            "date": "Mon Sep 14 12:30:06 +0000 2026",
+            "message_id": "2099475779075920355",
+            "photos": [
+                "https://pbs.twimg.com/media/HSLWFzQaQAAq2qo.jpg"
             ]
         }
     ]
