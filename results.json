@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-15T13:16:53.821797",
+    "timestamp": "2026-09-15T19:34:42.983731",
     "messages": [
         {
             "source": "twitter",
@@ -5260,6 +5260,19 @@
             "message_id": "2099823433945432568",
             "photos": [
                 "https://pbs.twimg.com/media/HSQSSAGa0AIh00l.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @jumperapp make the jump event is live\n\n\ud83d\udd17 https://t.co/aXNnrEqBIr\n\u2705Connect x\n\u2705Join waitlist\n\u2705Invite others\n\n\ud83d\ude02Looks like not token\n\ud83d\udcc8Another Perp DEX may be\n\n\ud83e\udef5Wt do u think?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/xg3AhUZXHy",
+            "translated_text": "\ud83d\udca5 @jumperapp acara make the jump dah bermula\n\n\ud83d\udd17 https://t.co/aXNnrEqBIr\n\u2705Sambungkan akaun X\n\u2705Sertai senarai menunggu\n\u2705Jemput orang lain\n\n\ud83d\ude02Macam tak ada token\n\ud83d\udcc8Mungkin satu lagi Perp DEX\n\n\ud83e\udef5Apa pendapat awak?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/xg3AhUZXHy",
+            "date": "Tue Sep 15 17:15:04 +0000 2026",
+            "message_id": "2099909880350126136",
+            "photos": [
+                "https://pbs.twimg.com/media/HSRg5x1a4AAZ0Yx.jpg"
             ]
         }
     ]
