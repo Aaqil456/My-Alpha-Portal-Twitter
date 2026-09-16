@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-15T19:34:42.983731",
+    "timestamp": "2026-09-16T13:15:16.109662",
     "messages": [
         {
             "source": "twitter",
@@ -5273,6 +5273,19 @@
             "message_id": "2099909880350126136",
             "photos": [
                 "https://pbs.twimg.com/media/HSRg5x1a4AAZ0Yx.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83c\udf0b A Mega thread on @arc mainnet\n\n\u26a0\ufe0f No token as expected\n\u26fd $USDC will be gas token on Arc\n\n\ud83c\udf09Bridge\n\ud83d\udd17 https://t.co/8x7OT9Sh49\n\u2705Use official bridge\n\u26a0\ufe0fSlow &amp; expect delay\n\n\ud83d\udd17 https://t.co/2daT786hfE\n\u2705U may use alternate bridge for now\n\u2705Fast\n\n\ud83d\udcb1Swaps\n\ud83d\udd17 https://t.co/Pyji3ztLmF https://t.co/IGbdLq5eK8",
+            "translated_text": "\ud83c\udf0b Thread besar tentang mainnet @arc\n\n\u26a0\ufe0f Tak ada token macam yang dijangka\n\u26fd $USDC akan jadi token gas di Arc\n\n\ud83c\udf09 Bridge\n\ud83d\udd17 https://t.co/8x7OT9Sh49\n\u2705 Guna bridge rasmi\n\u26a0\ufe0f Perlahan &amp; jangka ada kelewatan\n\n\ud83d\udd17 https://t.co/2daT786hfE\n\u2705 Boleh guna bridge alternatif buat masa ni\n\u2705 Cepat\n\n\ud83d\udcb1 Swap\n\ud83d\udd17 https://t.co/Pyji3ztLmF https://t.co/IGbdLq5eK8",
+            "date": "Wed Sep 16 11:55:56 +0000 2026",
+            "message_id": "2100191957347946881",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2100191904097083392/img/PkjnS2mG7U1FNU3D.jpg"
             ]
         }
     ]
