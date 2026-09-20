@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-19T18:28:53.720319",
+    "timestamp": "2026-09-20T04:02:52.602024",
     "messages": [
         {
             "source": "twitter",
@@ -5364,6 +5364,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HSlR8dObgAAyZMe.jpg",
                 "https://pbs.twimg.com/media/HSlR89VaMAAxOlO.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Finally $ZAMA ATH\n\n\ud83d\udcb5 $0.081\n\ud83d\udfe2Trading above public sale price\n\n\ud83d\udcc8OG NFT FDV - $55M\n\ud83d\udcc8Binance FDV - ~$300M\n\ud83d\udcc8PUBLIC FDV - $550M\n\n\ud83e\udd14Did u join sale &amp; still holding for 7 months?\n\ud83d\udc47Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/gegC8ej1gG",
+            "translated_text": "\ud83d\ude01Akhirnya $ZAMA ATH\n\n\ud83d\udcb5 $0.081\n\ud83d\udfe2Berjaya didagangkan melebihi harga jualan awam\n\n\ud83d\udcc8OG NFT FDV - $55M\n\ud83d\udcc8Binance FDV - ~$300M\n\ud83d\udcc8PUBLIC FDV - $550M\n\n\ud83e\udd14Anda ada join jualan ni & masih hold lagi ke dah 7 bulan?\n\ud83d\udc47Beritahu saya\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/gegC8ej1gG",
+            "date": "Sun Sep 20 01:30:03 +0000 2026",
+            "message_id": "2101483999143313802",
+            "photos": [
+                "https://pbs.twimg.com/media/HSn4joFacAAsKMV.jpg"
             ]
         }
     ]
