@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-22T13:12:27.130393",
+    "timestamp": "2026-09-22T19:37:02.184501",
     "messages": [
         {
             "source": "twitter",
@@ -5442,6 +5442,19 @@
             "message_id": "2102375348122067138",
             "photos": [
                 "https://pbs.twimg.com/media/HS0jO3NbYAA_KnB.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude04 So @jumperapp token confirmed\n\n\ud83e\ude99 $JUMP\n\ud83d\udd1cNext we may see token sale\n\ud83c\udfe6 On @legiondotcc\n\n\ud83d\ude01So much hype\n\ud83d\udc40Let's wait &amp; see if it will be really worth it\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/ibZJKfkVMs",
+            "translated_text": "\ud83d\ude04 Nampaknya @jumperapp token dah confirm\n\n\ud83e\ude99 $JUMP\n\ud83d\udd1c Lepas ni mungkin akan ada jualan token\n\ud83c\udfe6 Dekat @legiondotcc\n\n\ud83d\ude01 Banyak betul hype\n\ud83d\udc40 Kita tunggu je lah kalau betul-betul berbaloi\n\n\ud83d\udc99 Like\n\ud83d\udd01 RT https://t.co/ibZJKfkVMs",
+            "date": "Tue Sep 22 14:21:22 +0000 2026",
+            "message_id": "2102402880024014940",
+            "photos": [
+                "https://pbs.twimg.com/media/HS08RdWaYAAO-lF.jpg"
             ]
         }
     ]
