@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-21T20:18:45.138029",
+    "timestamp": "2026-09-22T13:12:27.130393",
     "messages": [
         {
             "source": "twitter",
@@ -5429,6 +5429,19 @@
             "message_id": "2102049728628478071",
             "photos": [
                 "https://pbs.twimg.com/media/HSv7Fadb0AEUT5o.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude02Users who didn\u2019t get whitelisted for @zaddrnet mint\n\nYesterday        vs        Today https://t.co/3w7m7ZnqfW",
+            "translated_text": "\ud83d\ude02 Pengguna yang tak dapat whitelist untuk mint @zaddrnet\n\nSemalam vs Hari Ini https://t.co/3w7m7ZnqfW",
+            "date": "Tue Sep 22 12:31:57 +0000 2026",
+            "message_id": "2102375348122067138",
+            "photos": [
+                "https://pbs.twimg.com/media/HS0jO3NbYAA_KnB.jpg"
             ]
         }
     ]
