@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-23T03:55:26.544830",
+    "timestamp": "2026-09-23T13:27:40.972582",
     "messages": [
         {
             "source": "twitter",
@@ -5467,6 +5467,19 @@
             "date": "Wed Sep 23 02:23:53 +0000 2026",
             "message_id": "2102584707573743991",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc40Everyone on CT is posting @jumperapp token sale terms\n\n\ud83d\ude02Except the project itself https://t.co/MHZpNlp7Ig",
+            "translated_text": "\ud83d\udc40 Semua orang kat CT tengah kongsi terma jualan token @jumperapp\n\n\ud83d\ude02 Kecuali projek tu sendiri https://t.co/MHZpNlp7Ig",
+            "date": "Wed Sep 23 11:12:00 +0000 2026",
+            "message_id": "2102717612274614652",
+            "photos": [
+                "https://pbs.twimg.com/media/HS5ahLnbgAA_DGa.jpg"
+            ]
         }
     ]
 }
