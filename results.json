@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T03:48:19.252290",
+    "timestamp": "2026-09-24T13:22:59.994936",
     "messages": [
         {
             "source": "twitter",
@@ -5506,6 +5506,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/HS8kG11bUAAEVYu.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Perfect time to go back to my thread about Perp Smart Multi farming strategy\n\n\ud83c\udfc3Today Got multiple comments asking if they can start farming @variational_io now\n\ud83d\ude4eU can, but obviously u earn less points compared to early stage \n\n\ud83d\udc47Do this\n\u2705Read my post\n\u2705Filter few early perps",
+            "translated_text": "\ud83d\ude01Masa yang sesuai untuk kembali ke bebenang saya tentang strategi Perp Smart Multi farming.\n\ud83c\udfc3Hari ni dapat banyak komen tanya kalau boleh mula farming @variational_io sekarang.\n\ud83d\ude4eBoleh je, tapi mestilah dapat kurang poin berbanding masa awal-awal dulu.\n\ud83d\udc47Buat ni:\n\u2705Baca post saya\n\u2705Tapis beberapa perps awal",
+            "date": "Thu Sep 24 12:43:06 +0000 2026",
+            "message_id": "2103102927271498232",
+            "photos": []
         }
     ]
 }
