@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-24T13:22:59.994936",
+    "timestamp": "2026-09-25T04:03:43.037867",
     "messages": [
         {
             "source": "twitter",
@@ -5517,6 +5517,19 @@
             "date": "Thu Sep 24 12:43:06 +0000 2026",
             "message_id": "2103102927271498232",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f @tradehotstuff winding down\n\n\ud83d\udcb1They r working towards a strategic acquisition of Hotstuff Labs\n\n\ud83d\udd17 https://t.co/9DUhkdiQLk\n\ud83d\udcc5Withdraw all ur funds before 30 Sept\n\ud83d\udcddAfter withdrawal window closes, you can request a withdrawal by opening a support ticket in project Discord\n\n\ud83d\ude02At https://t.co/ZJBLDsKTz9",
+            "translated_text": "\u2620\ufe0f @tradehotstuff akan tutup\n\n\ud83d\udcb1 Mereka sedang dalam proses pengambilalihan strategik Hotstuff Labs\n\n\ud83d\udd17 https://t.co/9DUhkdiQLk\n\ud83d\udcc5 Keluarkan semua dana anda sebelum 30 September\n\ud83d\udcdd Selepas tempoh pengeluaran ditutup, anda boleh mohon pengeluaran dengan membuka tiket sokongan dalam Discord projek\n\n\ud83d\ude02 Di https://t.co/ZJBLDsKTz9",
+            "date": "Fri Sep 25 03:31:15 +0000 2026",
+            "message_id": "2103326437390586148",
+            "photos": [
+                "https://pbs.twimg.com/media/HTCEPmQbUAAbtNi.jpg"
+            ]
         }
     ]
 }
