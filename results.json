@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-26T19:05:59.496939",
+    "timestamp": "2026-09-27T13:38:51.217696",
     "messages": [
         {
             "source": "twitter",
@@ -5568,6 +5568,19 @@
             "message_id": "2103879101111283815",
             "photos": [
                 "https://pbs.twimg.com/media/HTJ645haEAALhSB.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83c\udf0bA Mega thread on @legiondotcc Republic\n\n\ud83e\udd98We know @jumperapp is coming to Legion for sale\n\ud83e\ude995% of the allocation is reserved for Republic\n\ud83d\udcb0That's ~$150K\n\n\ud83e\udd14How to get allocation on republic?\n\u2705Join Republic\n\u2705Complete tasks\n\u2705Earn VP (valor points)\n\u2705Bid VP to join sale https://t.co/4pHNgn5GM2",
+            "translated_text": "\ud83c\udf0bThread besar tentang @legiondotcc Republic\n\n\ud83e\udd98Kita tahu @jumperapp akan dijual di Legion\n\ud83e\ude995% daripada peruntukan dikhaskan untuk Republic\n\ud83d\udcb0Itu lebih kurang ~$150K\n\n\ud83e\udd14Macam mana nak dapat peruntukan di Republic?\n\u2705Sertai Republic\n\u2705Selesaikan tugasan\n\u2705Dapatkan VP (valor points)\n\u2705Bida VP untuk sertai jualan https://t.co/4pHNgn5GM2",
+            "date": "Sun Sep 27 12:39:50 +0000 2026",
+            "message_id": "2104189269594243131",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2104189129470943232/img/K1II0qMaIYWt-9M3.jpg"
             ]
         }
     ]
