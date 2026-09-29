@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-27T13:38:51.217696",
+    "timestamp": "2026-09-29T04:54:19.442136",
     "messages": [
         {
             "source": "twitter",
@@ -5581,6 +5581,19 @@
             "message_id": "2104189269594243131",
             "photos": [
                 "https://pbs.twimg.com/amplify_video_thumb/2104189129470943232/img/K1II0qMaIYWt-9M3.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Update for @ethos_network sale participants\n\n\ud83e\ude99 $WHUF token Contract Upgraded\n\ud83d\udd12Contract had one global lock \nbefore the Oct 8 unlock\n\ud83d\udd12Now they made it locked only for ~1,400 sale wallets\n\n\ud83d\ude09So foundation can provide tokens to MM/CEX etc well in advance\n\u23f0Unlock timestamp is https://t.co/tUL0zpIJbc",
+            "translated_text": "\ud83d\udca5 Update untuk peserta jualan @ethos_network\n\n\ud83e\ude99 Kontrak token $WHUF dah di-upgrade\n\ud83d\udd12 Sebelum ni kontrak tu dikunci secara global sebelum dibuka pada 8 Okt\n\ud83d\udd12 Sekarang ni, ia dikunci hanya untuk lebih kurang 1,400 dompet jualan\n\n\ud83d\ude09 Jadi, pihak yayasan boleh sediakan token untuk MM/CEX dan lain-lain awal-awal lagi\n\u23f0 Waktu buka kunci boleh tengok kat https://t.co/tUL0zpIJbc",
+            "date": "Tue Sep 29 04:30:58 +0000 2026",
+            "message_id": "2104791019879632924",
+            "photos": [
+                "https://pbs.twimg.com/media/HTW4RlwaUAAFGhb.jpg"
             ]
         }
     ]
