@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-09-30T04:40:56.480342",
+    "timestamp": "2026-09-30T14:43:58.376992",
     "messages": [
         {
             "source": "twitter",
@@ -5607,6 +5607,19 @@
             "message_id": "2105153490666549413",
             "photos": [
                 "https://pbs.twimg.com/media/HTcB76OacAER6fX.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01One more important tip to save fee on @arcus_xyz\n\n\ud83d\udcafWe already know, maker fee is Zero on Arcus perp\n\n\u26a0\ufe0fBut if u place a Take profit/stop loss order, it will be executed as taker order\n\u26a0\ufe0fSo don't place TP/SL\n\n\ud83d\udca1Insted use reduce only limit order\n\n\ud83d\udc47Explained with example https://t.co/eCNzm1SqMc",
+            "translated_text": "\ud83d\ude01Satu lagi tips penting untuk jimat yuran di @arcus_xyz\n\n\ud83d\udcafMacam yang kita tahu, yuran maker adalah Sifar di Arcus perp.\n\n\u26a0\ufe0fTapi kalau kita letak order Take profit/stop loss, ia akan dilaksanakan sebagai order taker.\n\u26a0\ufe0fJadi jangan letak TP/SL.\n\n\ud83d\udca1Sebaliknya, guna order limit 'reduce only'.\n\n\ud83d\udc47Dijelaskan dengan contoh https://t.co/eCNzm1SqMc",
+            "date": "Wed Sep 30 12:35:21 +0000 2026",
+            "message_id": "2105275305703375167",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2105275221578334208/img/2Bq1szWuT-XavglU.jpg"
             ]
         }
     ]
