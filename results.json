@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-04T04:56:46.863959",
+    "timestamp": "2026-10-04T13:48:40.031867",
     "messages": [
         {
             "source": "twitter",
@@ -5672,6 +5672,19 @@
             "message_id": "2106604836246663310",
             "photos": [
                 "https://pbs.twimg.com/media/HTwp7kfbEAAYOPl.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude05Generated $18M volume on @TitanExchange_ Testnet\n\n\u26a0\ufe0fThis is Testnet volume generated with test tokens\n\n\ud83e\udd14Haven't joined?\n\ud83d\udd17 https://t.co/ORyDyJ5o8K\n\u2705Login &amp; claim free $10K on Testnet\n\u2705Generate volume\n\n\ud83e\ude99250 points in 1st trade\n\ud83e\ude99Volume Points Distributed weekly\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/xvwosptm3T",
+            "translated_text": "\ud83d\ude05Dah jana volume $18M dekat Testnet @TitanExchange_\n\n\u26a0\ufe0fIni volume Testnet yang dijana guna token ujian je tau.\n\n\ud83e\udd14Belum join lagi ke?\n\ud83d\udd17 https://t.co/ORyDyJ5o8K\n\u2705Log masuk &amp; tuntut $10K percuma dekat Testnet\n\u2705Jana volume\n\n\ud83e\ude99Dapat 250 mata untuk trade pertama\n\ud83e\ude99Mata volume akan diedarkan setiap minggu\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/xvwosptm3T",
+            "date": "Sun Oct 04 12:36:34 +0000 2026",
+            "message_id": "2106725161710023072",
+            "photos": [
+                "https://pbs.twimg.com/media/HTyXXiQb0AA3Kns.jpg"
             ]
         }
     ]
