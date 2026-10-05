@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-04T13:48:40.031867",
+    "timestamp": "2026-10-05T04:44:09.020480",
     "messages": [
         {
             "source": "twitter",
@@ -5685,6 +5685,19 @@
             "message_id": "2106725161710023072",
             "photos": [
                 "https://pbs.twimg.com/media/HTyXXiQb0AA3Kns.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01I started focusing on @entropyIO\n\n\ud83e\udd0fHardly $20M volume in 24hrs in OI markets\n\n\ud83e\udd14 Still very early,but low liquidity means u can\u2019t open large positions\n\n\ud83d\udd17 https://t.co/fXi4THzc04\n\u2705Sign up &amp; start trading\n\u2705This also count towards @HyperliquidX volume\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/uuzTvOznrd",
+            "translated_text": "\ud83d\ude01Saya dah mula fokus pada @entropyIO\n\n\ud83e\udd0fBaru $20 juta volume dalam 24 jam kat pasaran OI\n\n\ud83e\udd14Masih awal sangat, tapi kecairan rendah maksudnya tak boleh buka posisi besar-besar\n\n\ud83d\udd17 https://t.co/fXi4THzc04\n\u2705Daftar & mula trade\n\u2705Ini pun dikira untuk volume @HyperliquidX\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/uuzTvOznrd",
+            "date": "Mon Oct 05 04:37:01 +0000 2026",
+            "message_id": "2106966867592302962",
+            "photos": [
+                "https://pbs.twimg.com/media/HT1zMmsboAAKKao.jpg"
             ]
         }
     ]
