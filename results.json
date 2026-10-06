@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-05T16:55:20.812887",
+    "timestamp": "2026-10-06T05:30:34.231735",
     "messages": [
         {
             "source": "twitter",
@@ -5710,6 +5710,19 @@
             "date": "Mon Oct 05 14:42:42 +0000 2026",
             "message_id": "2107119294786207911",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 @ethos_network TGE is getting closer\n\n\ud83d\udcc5In less than 3 days\n\u26a0\ufe0fDon't forget to vouch if u want 85% price guarantee\n\n\ud83e\udd14What do u think? Will I make it or am I going to rekt\n\ud83d\udcb0 $50K\n\ud83d\udcc9Maximum expected loss $7500\n\n\ud83e\udd14Can it give a 2x? Wt is ur view?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/Linx659Uhj",
+            "translated_text": "\ud83d\ude01 @ethos_network TGE dah makin dekat\n\ud83d\udcc5Tinggal kurang 3 hari\n\u26a0\ufe0fJangan lupa vouch kalau nak jaminan harga 85%\n\ud83e\udd14Korang rasa macam mana? Aku akan berjaya ke atau aku akan rugi teruk?\n\ud83d\udcb0 $50K\n\ud83d\udcc9Anggaran kerugian maksimum $7500\n\ud83e\udd14Boleh ke dapat 2x? Apa pandangan korang?\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/Linx65Uhj",
+            "date": "Tue Oct 06 04:30:10 +0000 2026",
+            "message_id": "2107327531980648606",
+            "photos": [
+                "https://pbs.twimg.com/media/HT67NwPaEAA5JlX.jpg"
+            ]
         }
     ]
 }
