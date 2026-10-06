@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-06T05:30:34.231735",
+    "timestamp": "2026-10-06T14:52:03.975109",
     "messages": [
         {
             "source": "twitter",
@@ -5723,6 +5723,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/HT67NwPaEAA5JlX.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @ethos_network listing on Coinbase confirmed\n\n\ud83d\ude01Now we just need some Korean CEX to list $WHUF",
+            "translated_text": "\ud83d\udca5 Listing @ethos_network di Coinbase dah sah.\n\ud83d\ude01 Sekarang tinggal nak ada mana-mana CEX Korea yang senaraikan $WHUF.",
+            "date": "Tue Oct 06 13:56:22 +0000 2026",
+            "message_id": "2107470020074979656",
+            "photos": []
         }
     ]
 }
