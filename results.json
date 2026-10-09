@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-09T05:13:55.704973",
+    "timestamp": "2026-10-09T20:39:13.956681",
     "messages": [
         {
             "source": "twitter",
@@ -5798,6 +5798,19 @@
             "message_id": "2108416689725718819",
             "photos": [
                 "https://pbs.twimg.com/media/HUKZzaNbIAA_-Q4.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcb8Keep funds on a CEX\n\ud83c\udfe6Bankruptcy risk\n\n\ud83d\udcbbKeep funds in a software wallet\n\ud83e\uddd1\u200d\ud83d\udcbbMalicious attack risk\n\n\ud83c\udf10Keep funds in DeFi\n\u2620\ufe0fSmart contract exploits \n \n\ud83d\udd10Keep funds in a hardware wallet\n\u26a0\ufe0fEntropy bugs or reseller issues\n\n\ud83d\ude02Where the hell are crypto bros supposed to store their https://t.co/j639l7hMDO",
+            "translated_text": "\ud83d\udcb8 Simpan dana di CEX\n\ud83c\udfe6 Risiko bankrap\n\n\ud83d\udcbb Simpan dana dalam dompet perisian\n\ud83e\uddd1\u200d\ud83d\udcbb Risiko serangan jahat\n\n\ud83c\udf10 Simpan dana di DeFi\n\u2620\ufe0f Eksploitasi kontrak pintar\n\n\ud83d\udd10 Simpan dana dalam dompet perkakasan\n\u26a0\ufe0f Pepijat entropi atau isu penjual semula\n\n\ud83d\ude02 Habis tu, kat mana la agaknya 'crypto bros' ni patut simpan duit diorang? https://t.co/j639l7hMDO",
+            "date": "Fri Oct 09 14:51:02 +0000 2026",
+            "message_id": "2108570942343368873",
+            "photos": [
+                "https://pbs.twimg.com/media/HUMmF9EbMAAYSGY.jpg"
             ]
         }
     ]
