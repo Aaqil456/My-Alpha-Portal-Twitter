@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-10T14:19:40.099383",
+    "timestamp": "2026-10-10T19:53:09.829705",
     "messages": [
         {
             "source": "twitter",
@@ -5837,6 +5837,19 @@
             "message_id": "2108898687514706314",
             "photos": [
                 "https://pbs.twimg.com/media/HURQLVdbQAAw1-R.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @axisrobotics tokenomics is out\n\n\ud83d\ude09Binance Alpha is almost confirmed\n\n\ud83e\ude99 $AXIS\n\ud83e\ude99Total supply - 1B\n\ud83e\ude99TGE supply - 165M\n\ud83e\ude99Total Airdrop 10% - 100M\n\n\ud83e\ude82Season 1 Airdrop 4% - 40M\n\ud83d\uddd3\ufe0fS1 Airdrop vesting - 50% TGE\n\ud83d\udd13rest 25% after 3mth &amp; 25% after 6mnth\n\n\u274cTGE date not revealed https://t.co/2r52rMcr6G",
+            "translated_text": "\ud83d\udca5 Tokenomics @axisrobotics dah keluar!\n\n\ud83d\ude09 Binance Alpha dah nak confirm.\n\n\ud83e\ude99 $AXIS\n\ud83e\ude99 Jumlah bekalan - 1 bilion\n\ud83e\ude99 Bekalan TGE - 165 juta\n\ud83e\ude99 Jumlah Airdrop 10% - 100 juta\n\n\ud83e\ude82 Airdrop Musim 1 sebanyak 4% - 40 juta\n\ud83d\uddd3\ufe0f Vesting Airdrop S1 - 50% masa TGE\n\ud83d\udd13 Bakinya 25% selepas 3 bulan & 25% lagi selepas 6 bulan\n\n\u274c Tarikh TGE belum didedahkan https://t.co/2r52rMcr6G",
+            "date": "Sat Oct 10 14:28:31 +0000 2026",
+            "message_id": "2108927662676922732",
+            "photos": [
+                "https://pbs.twimg.com/media/HURqhrQaYAAYwP2.jpg"
             ]
         }
     ]
