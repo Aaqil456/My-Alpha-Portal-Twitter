@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-11T04:46:35.093567",
+    "timestamp": "2026-10-11T14:45:01.164611",
     "messages": [
         {
             "source": "twitter",
@@ -5863,6 +5863,19 @@
             "message_id": "2109113131511460214",
             "photos": [
                 "https://pbs.twimg.com/media/HUUTNmsagAADDjF.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on @TxFlow_L1\n\n\ud83d\udcb1Perp DEX\n\ud83d\udcb0Funding - No\n\n\ud83e\ude99Trade to earn points\n\ud83e\ude99Weekly points distributed - 1.25M\n\ud83d\udcc5Points distributed every Monday\n\n\ud83d\udc47Steps\n\ud83d\udd17 https://t.co/hqSlNmEIM2\n\u2705Connect wallet\n\u2705Sign up\n\u2705Deposit\n\u2705Trade\n\n\u26a0\ufe0fU need invite to join, above link got some https://t.co/X05LsMxqXc",
+            "translated_text": "\ud83d\udca5Panduan ringkas tentang @TxFlow_L1\n\n\ud83d\udcb1Perp DEX\n\ud83d\udcb0Pendanaan - Tiada\n\n\ud83e\ude99Trade untuk dapatkan mata\n\ud83e\ude99Mata mingguan diedarkan - 1.25M\n\ud83d\udcc5Mata diedarkan setiap hari Isnin\n\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17 https://t.co/hqSlNmEIM2\n\u2705Sambungkan dompet\n\u2705Daftar\n\u2705Deposit\n\u2705Trade\n\n\u26a0\ufe0fKena ada jemputan untuk sertai, link di atas ada beberapa https://t.co/X05LsMxqXc",
+            "date": "Sun Oct 11 12:43:27 +0000 2026",
+            "message_id": "2109263611340460183",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2109263415399358464/img/MzPYqou4CELNrvij.jpg"
             ]
         }
     ]
