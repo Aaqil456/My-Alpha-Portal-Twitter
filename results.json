@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-10T19:53:09.829705",
+    "timestamp": "2026-10-11T04:46:35.093567",
     "messages": [
         {
             "source": "twitter",
@@ -5850,6 +5850,19 @@
             "message_id": "2108927662676922732",
             "photos": [
                 "https://pbs.twimg.com/media/HURqhrQaYAAYwP2.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14Did u try this 1000X leverage Perp? https://t.co/FxopyLYI6o",
+            "translated_text": "\ud83e\udd14 Dah cuba ke Perp leverage 1000X ni? https://t.co/FxopyLYI6o",
+            "date": "Sun Oct 11 02:45:30 +0000 2026",
+            "message_id": "2109113131511460214",
+            "photos": [
+                "https://pbs.twimg.com/media/HUUTNmsagAADDjF.jpg"
             ]
         }
     ]
