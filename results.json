@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-11T14:45:01.164611",
+    "timestamp": "2026-10-13T21:02:20.134471",
     "messages": [
         {
             "source": "twitter",
@@ -5876,6 +5876,19 @@
             "message_id": "2109263611340460183",
             "photos": [
                 "https://pbs.twimg.com/amplify_video_thumb/2109263415399358464/img/MzPYqou4CELNrvij.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @jumperapp is giving free @Trezor Model T\n\n\ud83c\udf9f\ufe0fEligiblelity - level 10 &amp; above\n\ud83d\udd17 https://t.co/ZERzcWPMIZ\n\u2705Claim here\n\n\ud83d\udcb5Free device worth 14000 INR\n\n\u26a0\ufe0fShipping cost extra 1850 INR\n\u26a0\ufe0fU may have to pay import duty of  30-60% depending on state\n\u26a0\ufe0fSo note this cost\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/B8rh4ZOGvu",
+            "translated_text": "\ud83d\udca5 @jumperapp bagi percuma @Trezor Model T\n\n\ud83c\udf9f\ufe0f Kelayakan - level 10 ke atas\n\ud83d\udd17 https://t.co/ZERzcWPMIZ\n\u2705 Tuntut di sini\n\n\ud83d\udcb5 Peranti percuma bernilai 14000 INR\n\n\u26a0\ufe0f Kos penghantaran tambahan 1850 INR\n\u26a0\ufe0f Anda mungkin perlu bayar cukai import sebanyak 30-60% bergantung pada negeri\n\u26a0\ufe0f Jadi, ambil kira kos ni\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/B8rh4ZOGvu",
+            "date": "Tue Oct 13 15:47:58 +0000 2026",
+            "message_id": "2110034820785156560",
+            "photos": [
+                "https://pbs.twimg.com/media/HUhZe-CbcAAL0ic.jpg"
             ]
         }
     ]
