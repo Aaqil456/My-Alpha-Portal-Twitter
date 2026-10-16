@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-15T13:10:47.332766",
+    "timestamp": "2026-10-16T13:04:48.093289",
     "messages": [
         {
             "source": "twitter",
@@ -5941,6 +5941,19 @@
             "message_id": "2110716350721335375",
             "photos": [
                 "https://pbs.twimg.com/media/HUrFVIObkAAdz8_.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01It is good time to interact with @entropyIO\n\n\u274cThey haven't revealed points yet\n\n\ud83e\udd14Let's compare Arcus volume before &amp; after points reveal\n\n\ud83d\udcc5Arcus points API leaked on 26Sept\n\ud83d\udcb124hr volume - $76M\n\ud83d\udcb124hr volume on 28Sept - $538M\n\n\ud83d\udcc8That's 7X volume growth after points https://t.co/wn8IyLJjAg",
+            "translated_text": "\ud83d\ude01Waktu yang bagus untuk berinteraksi dengan @entropyIO\n\u274cMereka belum dedahkan mata lagi\n\ud83e\udd14Jom bandingkan volum Arcus sebelum &amp; selepas mata didedahkan\n\ud83d\udcc5API mata Arcus bocor pada 26 Sept\n\ud83d\udcb1Volum 24 jam - $76 juta\n\ud83d\udcb1Volum 24 jam pada 28 Sept - $538 juta\n\ud83d\udcc8Itu pertumbuhan volum 7 kali ganda selepas mata https://t.co/wn8IyLJjAg",
+            "date": "Fri Oct 16 12:37:03 +0000 2026",
+            "message_id": "2111073939539779637",
+            "photos": [
+                "https://pbs.twimg.com/media/HUwKjOlawAAB8LU.jpg"
             ]
         }
     ]
