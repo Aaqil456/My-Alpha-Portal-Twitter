@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-20T13:24:34.645762",
+    "timestamp": "2026-10-21T03:50:46.744489",
     "messages": [
         {
             "source": "twitter",
@@ -6032,6 +6032,19 @@
             "message_id": "2112451382271967658",
             "photos": [
                 "https://pbs.twimg.com/media/HVDvVIna8AEr4tY.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude05Just received $1600 worth of forgotten $BTC.b in bridge claim\n\n\ud83d\udcddSomeone with name lostandfound.eth initiated contract to trigger this withdrawal\n\n\ud83e\udd14Did any of u got funds similarly?\n\ud83d\udc47Let me know\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/pIDVMcBVdU",
+            "translated_text": "\ud83d\ude05Baru dapat $BTC.b bernilai $1600 yang terlupa dari tuntutan bridge\n\n\ud83d\udcddAda orang nama lostandfound.eth aktifkan kontrak untuk picu pengeluaran ni\n\n\ud83e\udd14Ada sesiapa antara anda dapat duit macam ni juga ke?\n\ud83d\udc47Beritahu saya\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/pIDVMcBVdU",
+            "date": "Tue Oct 20 15:21:02 +0000 2026",
+            "message_id": "2112564756204953784",
+            "photos": [
+                "https://pbs.twimg.com/media/HVFWcpFbgAAc1o1.jpg"
             ]
         }
     ]
