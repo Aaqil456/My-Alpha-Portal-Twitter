@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-21T03:50:46.744489",
+    "timestamp": "2026-10-21T13:34:22.231861",
     "messages": [
         {
             "source": "twitter",
@@ -6045,6 +6045,19 @@
             "message_id": "2112564756204953784",
             "photos": [
                 "https://pbs.twimg.com/media/HVFWcpFbgAAc1o1.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5Simple guide on how to withdraw $AXIS from claim portal\n\n\u274cAs of now u cannot withdraw directly from @axisrobotics dashboard\n\n\ud83d\udc47Steps\n\ud83d\udd17 https://t.co/8xaIlVkbos\n\u2705Login with dashboard email\n\u2705Claim Airdrop\n\n\ud83d\udd17 https://t.co/g2Zk6YF2oe\n\u2705Login with same email\n\u2705Click on Axis https://t.co/dXahq7Q0yq",
+            "translated_text": "\ud83d\udca5Panduan ringkas cara nak keluarkan $AXIS dari portal tuntutan\n\n\u274cBuat masa ni, anda tak boleh keluarkan terus dari @axisrobotics dashboard\n\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17 https://t.co/8xaIlVkbos\n\u2705Log masuk guna emel dashboard\n\u2705Tuntut Airdrop\n\n\ud83d\udd17 https://t.co/g2Zk6YF2oe\n\u2705Log masuk guna emel yang sama\n\u2705Klik pada Axis https://t.co/dXahq7Q0yq",
+            "date": "Wed Oct 21 12:30:55 +0000 2026",
+            "message_id": "2112884335330333065",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2112884275335106561/img/Fz6b940dTO7K7Jrj.jpg"
             ]
         }
     ]
