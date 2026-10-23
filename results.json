@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-23T03:54:48.069983",
+    "timestamp": "2026-10-23T19:51:01.589694",
     "messages": [
         {
             "source": "twitter",
@@ -6097,6 +6097,19 @@
             "message_id": "2113453684172771663",
             "photos": [
                 "https://pbs.twimg.com/media/HVR-6-8bIAED8IF.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\ude82 @USDai_Official Season 2 Airdrop is ready to claim\n\n\ud83d\udd17 https://t.co/GusbDLO1RL\n\ud83d\udcf8Check &amp; post your screenshot\n\n\ud83d\udcddIf u have Allo points in S2 u can convert it to $CHIP\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/8DwnqgDTdB",
+            "translated_text": "\ud83e\ude82 Airdrop Musim 2 @USDai_Official dah boleh tuntut!\n\n\ud83d\udd17 https://t.co/GusbDLO1RL\n\ud83d\udcf8 Semak & kongsi screenshot anda\n\n\ud83d\udcdd Kalau anda ada Allo points dalam S2, anda boleh tukarkannya kepada $CHIP.\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/8DwngDTdB",
+            "date": "Fri Oct 23 12:33:44 +0000 2026",
+            "message_id": "2113609817097117913",
+            "photos": [
+                "https://pbs.twimg.com/media/HVUM6vIbcAAmfVJ.jpg"
             ]
         }
     ]
