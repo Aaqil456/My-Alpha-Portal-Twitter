@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-24T18:38:33.852648",
+    "timestamp": "2026-10-25T03:48:03.394184",
     "messages": [
         {
             "source": "twitter",
@@ -6149,6 +6149,19 @@
             "message_id": "2114019633246388409",
             "photos": [
                 "https://pbs.twimg.com/amplify_video_thumb/2114019585934737408/img/k6OCzcYZJ0c-QQ17.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother day another exploit\n\n\ud83e\udea6 @KeystoneWallet\n\ud83d\udc65A third party obtained hardware wallet customer shipping information\n\n\u26a0\ufe0fExposed info - names, contact details, shipping addresses, &amp; order details\n\u274cNot exposed - payment card or bank details, recovery phrases, private keys, or https://t.co/6tXhzTxwpE",
+            "translated_text": "\u2620\ufe0fSatu lagi kes eksploitasi hari ni\n\n\ud83e\udea6 @KeystoneWallet\n\ud83d\udc65Pihak ketiga dapat maklumat penghantaran pelanggan dompet perkakasan.\n\n\u26a0\ufe0fMaklumat yang terdedah - nama, maklumat hubungan, alamat penghantaran, dan butiran pesanan.\n\u274cTidak terdedah - butiran kad pembayaran atau bank, frasa pemulihan, kunci peribadi, atau https://t.co/6tHhzTxwpE",
+            "date": "Sun Oct 25 01:48:22 +0000 2026",
+            "message_id": "2114172184029729112",
+            "photos": [
+                "https://pbs.twimg.com/media/HVcMZO3bEAA6P8z.jpg"
             ]
         }
     ]
