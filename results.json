@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-26T03:51:49.827644",
+    "timestamp": "2026-10-26T14:56:33.770729",
     "messages": [
         {
             "source": "twitter",
@@ -6188,6 +6188,19 @@
             "message_id": "2114543844423614779",
             "photos": [
                 "https://pbs.twimg.com/media/HVhean7aQAE45qt.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @TxFlow_L1 exclusive campaign for our community\n\n\ud83c\udf81Win fee credits &amp; $USDC rewards\n\n\ud83d\udc47Steps\n\ud83d\udd17 https://t.co/uPwevNbnb2\n\u2705Connect wallet\n\u2705Join the campaign\n\n\ud83c\udd95If u r new u need invite code, u can use my code\n\ud83c\udf9f\ufe0fCode - TXCRYPTOTELUGU\n\n\ud83d\udcb1Generate taker volume to earn rewards\n\n\ud83d\udcb5 https://t.co/jdy2GTGp6g",
+            "translated_text": "\ud83d\udca5 Kempen eksklusif @TxFlow_L1 untuk komuniti kita\n\ud83c\udf81 Menangi kredit yuran & ganjaran $USDC\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17 https://t.co/uPwevNbnb2\n\u2705Sambungkan dompet\n\u2705Sertai kempen\n\ud83c\udd95Kalau anda baru, anda perlukan kod jemputan, anda boleh guna kod saya\n\ud83c\udf9f\ufe0fKod - TXCRYPTOTELUGU\n\ud83d\udcb1Jana volum taker untuk dapatkan ganjaran\n\ud83d\udcb5 https://t.co/jdy2GTGp6g",
+            "date": "Mon Oct 26 12:32:51 +0000 2026",
+            "message_id": "2114696761856184701",
+            "photos": [
+                "https://pbs.twimg.com/media/HVjpfoWbwAAbr4l.jpg"
             ]
         }
     ]
