@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-25T13:01:32.408394",
+    "timestamp": "2026-10-26T03:51:49.827644",
     "messages": [
         {
             "source": "twitter",
@@ -6175,6 +6175,19 @@
             "message_id": "2114334246689226769",
             "photos": [
                 "https://pbs.twimg.com/media/HVefyRmawAAlRe9.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother software wallet Vulnerability found &amp; fixed\n\n\ud83c\udf10 @ElectrumWallet\n\u26a0\ufe0fIf u r using this wallet, update ur wallet immediately\n\n\ud83e\udd77A malicious server could replace your broadcast $BTC transaction with a fake one directing funds to the attacker\n\n\ud83d\udc65As of now Only 2 users https://t.co/alLcHNLoEy",
+            "translated_text": "\u2620\ufe0fSatu lagi kelemahan dompet perisian ditemui & telah diperbaiki\n\n\ud83c\udf10 @ElectrumWallet\n\u26a0\ufe0fKalau anda guna dompet ini, terus kemas kini dompet anda serta-merta\n\n\ud83e\udd77Server jahat boleh ganti transaksi $BTC anda yang disiarkan dengan transaksi palsu yang menghantar dana kepada penyerang\n\n\ud83d\udc65Setakat ini hanya 2 pengguna https://t.co/alLcHNLoEy",
+            "date": "Mon Oct 26 02:25:13 +0000 2026",
+            "message_id": "2114543844423614779",
+            "photos": [
+                "https://pbs.twimg.com/media/HVhean7aQAE45qt.jpg"
             ]
         }
     ]
