@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-27T14:08:43.088114",
+    "timestamp": "2026-10-27T20:30:02.704219",
     "messages": [
         {
             "source": "twitter",
@@ -6227,6 +6227,19 @@
             "message_id": "2115068093906981116",
             "photos": [
                 "https://pbs.twimg.com/media/HVo7MBcaAAA_Eud.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Simple guide on @ensdomains V2 migration &amp; NFT mint\n\n\ud83d\ude09Mint NFT for $1\n\ud83d\udcc8NFT Floor $26 best offer $11\n\u26a0\ufe0fFloor may fall after many users mint\n\n\ud83c\udd95ENS v2 went live\n\ud83d\uddbc\ufe0fThey r giving NFT to eligible users after migration\n\ud83d\udcddU must be eligible if u have ENS\n\n\ud83d\udc47Steps\n\ud83d\udd17 https://t.co/3hByrKFU7r",
+            "translated_text": "\ud83d\udca5 Panduan ringkas untuk migrasi V2 @ensdomains & mint NFT\n\ud83d\ude09Boleh mint NFT pada harga $1\n\ud83d\udcc8Harga lantai NFT $26, tawaran terbaik $11\n\u26a0\ufe0fHarga lantai mungkin jatuh selepas ramai pengguna mint\n\ud83c\udd95ENS v2 dah dilancarkan\n\ud83d\uddbc\ufe0fDiorang bagi NFT kepada pengguna yang layak selepas migrasi\n\ud83d\udcddAnda mesti layak kalau anda ada ENS\n\ud83d\udc47Langkah-langkah\n\ud83d\udd17 https://t.co/3hByrKFU7r",
+            "date": "Tue Oct 27 16:32:00 +0000 2026",
+            "message_id": "2115119332204405221",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2115119293230977028/img/QQW3yBjInptLsX9c.jpg"
             ]
         }
     ]
