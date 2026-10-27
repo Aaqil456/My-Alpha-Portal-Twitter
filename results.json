@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-26T14:56:33.770729",
+    "timestamp": "2026-10-27T04:14:04.280534",
     "messages": [
         {
             "source": "twitter",
@@ -6201,6 +6201,19 @@
             "message_id": "2114696761856184701",
             "photos": [
                 "https://pbs.twimg.com/media/HVjpfoWbwAAbr4l.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Finally @soneium announced its token\n\n\ud83e\ude99 $SONEIUM\n\ud83d\udd1cTGE &amp; other details will be revealed later\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/1NFPAjY9rg",
+            "translated_text": "\ud83d\udca5 Akhirnya @soneium dah umumkan token dia\n\ud83e\ude99 $SONEIUM\n\ud83d\udd1c TGE &amp; butiran lain akan didedahkan nanti\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/1NFPAjY9rg",
+            "date": "Tue Oct 27 01:16:56 +0000 2026",
+            "message_id": "2114889048003383616",
+            "photos": [
+                "https://pbs.twimg.com/media/HVmYYK3bgAEAlLZ.jpg"
             ]
         }
     ]
