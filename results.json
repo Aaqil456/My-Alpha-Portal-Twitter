@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-29T15:01:09.943973",
+    "timestamp": "2026-10-30T04:55:24.655739",
     "messages": [
         {
             "source": "twitter",
@@ -6266,6 +6266,19 @@
             "message_id": "2115781751813636252",
             "photos": [
                 "https://pbs.twimg.com/media/HVzESX0aoAA6uUV.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u26a0\ufe0fUpdate from @binance on exploit\n\n\ud83e\uddd1\u200d\ud83d\udcbbExploit may involve a compromised DevOps engineer\u2019s laptop\n\ud83d\udcddNot confirmed yet, soon more details\n\n\ud83d\udcb8Binance confirmed it will cover the user funds\n\ud83d\udce4Withdraw will be enabled after security checks\n\n\ud83d\udcb0Total funds exploited - 6.3B\n\ud83e\udd76Frozen - $3B https://t.co/Nb5L6prCJR",
+            "translated_text": "\u26a0\ufe0fKemaskini dari @binance tentang eksploitasi\n\n\ud83e\uddd1\u200d\ud83d\udcbbEksploitasi ini mungkin melibatkan laptop jurutera DevOps yang telah digodam\n\ud83d\udcddBelum disahkan lagi, butiran lanjut akan menyusul\n\n\ud83d\udcb8Binance sahkan mereka akan tanggung dana pengguna\n\ud83d\udce4Pengeluaran akan dibuka semula selepas pemeriksaan keselamatan\n\n\ud83d\udcb0Jumlah dana yang dieksploitasi - 6.3 bilion\n\ud83e\udd76Dibekukan - $3 bilion https://t.co/Nb5L6prCJR",
+            "date": "Fri Oct 30 03:03:33 +0000 2026",
+            "message_id": "2116003043573707176",
+            "photos": [
+                "https://pbs.twimg.com/media/HV2NjPiaAAAeiBV.jpg"
             ]
         }
     ]
