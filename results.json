@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-10-31T14:23:42.106383",
+    "timestamp": "2026-11-01T14:49:42.571196",
     "messages": [
         {
             "source": "twitter",
@@ -6318,6 +6318,19 @@
             "message_id": "2116497170434257054",
             "photos": [
                 "https://pbs.twimg.com/media/HV9O9MBa4AEa9jT.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Just received $225 forgotten assets\n\n\ud83d\ude0aThanks to unlost.eth\n\u26fdThey covered gas &amp; claim\n\n\ud83e\udd37I still can't recollect where this $ETH was\n\n\ud83e\udee0I used to do so many txns on my family wallets, sometimes I lost track of it\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/Cv0KZiWo85",
+            "translated_text": "\ud83d\ude01Baru dapat $225 aset yang dah lupa\n\n\ud83d\ude0aTerima kasih kat unlost.eth\n\u26fdDiorang tanggung gas & claim\n\n\ud83e\udd37Saya masih tak dapat ingat kat mana $ETH ni\n\n\ud83e\udee0Dulu saya banyak sangat buat transaksi kat wallet keluarga saya, kadang-kadang saya terlepas pandang\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/Cv0KZiWo85",
+            "date": "Sun Nov 01 14:47:57 +0000 2026",
+            "message_id": "2116905087436259705",
+            "photos": [
+                "https://pbs.twimg.com/media/HWDB9E_a8AAMIkb.jpg"
             ]
         }
     ]
