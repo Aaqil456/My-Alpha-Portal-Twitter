@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-01T14:49:42.571196",
+    "timestamp": "2026-11-02T05:01:51.910791",
     "messages": [
         {
             "source": "twitter",
@@ -6331,6 +6331,19 @@
             "message_id": "2116905087436259705",
             "photos": [
                 "https://pbs.twimg.com/media/HWDB9E_a8AAMIkb.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14Market quickly recovering after one of the largest exploit in hystory\n\n\ud83e\udef5Wt do u think? Up from here or just a random pump\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/gkJ7iOl6xi",
+            "translated_text": "\ud83e\udd14Pasaran cepat pulih selepas salah satu insiden exploit terbesar dalam sejarah.\n\ud83e\udef5Apa pendapat anda? Naik dari sini ke atau cuma 'pump' biasa?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/gkJ7iOl6xi",
+            "date": "Mon Nov 02 04:04:51 +0000 2026",
+            "message_id": "2117105633929609704",
+            "photos": [
+                "https://pbs.twimg.com/media/HWF4V7zbQAAzEQ-.jpg"
             ]
         }
     ]
