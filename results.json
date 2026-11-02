@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-02T05:01:51.910791",
+    "timestamp": "2026-11-02T17:59:19.536909",
     "messages": [
         {
             "source": "twitter",
@@ -6344,6 +6344,19 @@
             "message_id": "2117105633929609704",
             "photos": [
                 "https://pbs.twimg.com/media/HWF4V7zbQAAzEQ-.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc40Looks like @glider__ TGE is approaching\n\n\ud83d\udcc5Something is coming on 12 November\n\ud83d\ude01May be tokenomics\n\n\ud83e\ude99My points - 2.5M\n\ud83d\udd17 https://t.co/ugh9MjcnM7\n\ud83d\udcf8Check &amp; post ur screenshot\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/xYkwV5yWc9",
+            "translated_text": "Nampaknya TGE @glider__ dah makin dekat.\n\nAda sesuatu akan datang pada 12 November ni.\nMungkin tokenomics.\n\nPoin saya - 2.5 juta.\n\ud83d\udd17 https://t.co/ugh9MjcnM7\n\ud83d\udcf8Semak & muat naik screenshot anda.\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/xYkwV5yWc9",
+            "date": "Mon Nov 02 12:29:04 +0000 2026",
+            "message_id": "2117232522405048759",
+            "photos": [
+                "https://pbs.twimg.com/media/HWHrwYPbIAAqqBC.jpg"
             ]
         }
     ]
