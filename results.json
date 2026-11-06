@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-06T15:46:04.266925",
+    "timestamp": "2026-11-06T21:22:14.699156",
     "messages": [
         {
             "source": "twitter",
@@ -6422,6 +6422,19 @@
             "message_id": "2118622588872294781",
             "photos": [
                 "https://pbs.twimg.com/media/HWbcAqAboAAEoDC.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u26a0\ufe0f Update on @FungoLabs mint\n\n\u274cAuction cancelled due to less participation\n\ud83d\udcb8They will refund all the funds collected via bids\n\n\ud83c\udfc3They would have taken money &amp; completed mint, good they choose to refund\n\n\ud83e\udd14Wt do u think?did they do correct?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/7dWw8XDXGM",
+            "translated_text": "\u26a0\ufe0f Makluman terkini tentang mint @FungoLabs\n\n\u274c Lelongan dibatalkan sebab kurang penyertaan\n\ud83d\udcb8 Mereka akan pulangkan semula semua duit yang terkumpul melalui bidaan\n\n\ud83c\udfc3 Mereka boleh saja ambil duit & teruskan minting, baguslah mereka pilih untuk pulangkan semula\n\n\ud83e\udd14 Apa pendapat anda? Betul ke tindakan mereka ni?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/7dWw8XDXGM",
+            "date": "Fri Nov 06 16:26:43 +0000 2026",
+            "message_id": "2118741881622544523",
+            "photos": [
+                "https://pbs.twimg.com/media/HWdIgoYaQAExEdF.jpg"
             ]
         }
     ]
