@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-06T05:42:06.318331",
+    "timestamp": "2026-11-06T15:46:04.266925",
     "messages": [
         {
             "source": "twitter",
@@ -6409,6 +6409,19 @@
             "message_id": "2118561552467132558",
             "photos": [
                 "https://pbs.twimg.com/media/HWakfx8bwAADc97.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 @jumperapp sale concluded a month ago\n\n\ud83d\ude09Still waiting for TGE details?\n\ud83e\udd14What do u think? TGE this month or this year or next year?\n\n\ud83d\udc47Let me know in comments section\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/vOoUS0njyU",
+            "translated_text": "\ud83d\ude01 Jualan @jumperapp dah habis sebulan lepas\n\n\ud83d\ude09 Masih tunggu butiran TGE ke?\n\ud83e\udd14 Apa pendapat anda? TGE bulan ni ke, tahun ni ke, atau tahun depan?\n\n\ud83d\udc47 Beritahu saya di ruangan komen\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/vOoUS0njyU",
+            "date": "Fri Nov 06 08:32:41 +0000 2026",
+            "message_id": "2118622588872294781",
+            "photos": [
+                "https://pbs.twimg.com/media/HWbcAqAboAAEoDC.jpg"
             ]
         }
     ]
