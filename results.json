@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-06T21:22:14.699156",
+    "timestamp": "2026-11-07T19:59:02.421453",
     "messages": [
         {
             "source": "twitter",
@@ -6435,6 +6435,19 @@
             "message_id": "2118741881622544523",
             "photos": [
                 "https://pbs.twimg.com/media/HWdIgoYaQAExEdF.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f Another day another wallet exploit\n\n\ud83e\udea6 @keplrwallet\n\u26a0\ufe0funauthorized transactions on some Keplr accounts\n\ud83d\udce7Wallets created with Google or Apple login r seen impacted\n\n\ud83d\ude01Users though why to store seed Insted use email accounts, now that is also impacted\n\n\ud83e\udd37Protecting crypto is https://t.co/hHhUrYjZMy",
+            "translated_text": "\u2620\ufe0f Hari ni pun ada lagi kes dompet kena exploit\n\ud83e\udea6 @keplrwallet\n\u26a0\ufe0f transaksi tak sah pada beberapa akaun Keplr\n\ud83d\udce7 Dompet yang dibuat guna login Google atau Apple nampak terjejas\n\ud83d\ude01 Dulu pengguna fikir kenapa nak simpan seed, baik guna akaun emel, sekarang ni pun dah terjejas juga\n\ud83e\udd37 Nak lindungi kripto ni https://t.co/hHhUrYjZMy",
+            "date": "Sat Nov 07 07:39:21 +0000 2026",
+            "message_id": "2118971553950187777",
+            "photos": [
+                "https://pbs.twimg.com/media/HWgZZL-aQAAh6gX.jpg"
             ]
         }
     ]
