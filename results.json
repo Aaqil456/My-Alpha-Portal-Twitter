@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-07T19:59:02.421453",
+    "timestamp": "2026-11-08T14:52:00.883403",
     "messages": [
         {
             "source": "twitter",
@@ -6448,6 +6448,19 @@
             "message_id": "2118971553950187777",
             "photos": [
                 "https://pbs.twimg.com/media/HWgZZL-aQAAh6gX.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udc47 @VitalikButerin says\n\n\u2705ETH is store of value (SoV)\n\u274cNot fee burning token https://t.co/c27XkDc0B4",
+            "translated_text": "\ud83d\udc47 @VitalikButerin cakap\n\n\u2705ETH adalah penyimpan nilai (SoV)\n\u274cBukan token pembakar yuran https://t.co/c27XkDc0B4",
+            "date": "Sun Nov 08 12:35:07 +0000 2026",
+            "message_id": "2119408372252578078",
+            "photos": [
+                "https://pbs.twimg.com/media/HWmmrhWaYAAaAV9.jpg"
             ]
         }
     ]
