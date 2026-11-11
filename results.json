@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-10T06:31:46.201460",
+    "timestamp": "2026-11-11T05:17:31.350620",
     "messages": [
         {
             "source": "twitter",
@@ -6487,6 +6487,20 @@
             "message_id": "2120011465705013740",
             "photos": [
                 "https://pbs.twimg.com/media/HWvLMGYakAASlAI.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fHow it started   vs  How it's going\n\n\ud83e\udea6 @suiballO Shutting down\n\ud83e\udea9 @SuiNetwork announced SuiBall hardware wallet a year ago\n\u274cDevices not dispatched even after a year\n\n\ud83d\udce4Now they announced shutdown because Sui Foundation things it is risky to back a hardware wallet project https://t.co/RizOakCgXI",
+            "translated_text": "\u2620\ufe0fDulu macam mana vs Sekarang macam mana\n\n\ud83e\udea6 @suiballO Akan ditutup\n\ud83e\udea9 @SuiNetwork umumkan dompet perkakasan SuiBall setahun yang lalu\n\u274cPeranti tak dihantar pun walaupun dah setahun\n\n\ud83d\udce4Sekarang ni, mereka umumkan tutup operasi sebab Sui Foundation rasa berisiko untuk sokong projek dompet perkakasan. https://t.co/RizOakCgXI",
+            "date": "Wed Nov 11 04:44:46 +0000 2026",
+            "message_id": "2120377170354942211",
+            "photos": [
+                "https://pbs.twimg.com/media/HW0XyZfakAAt2v3.jpg",
+                "https://pbs.twimg.com/media/HW0Xy4WaUAAAO89.jpg"
             ]
         }
     ]
