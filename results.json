@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-11T05:17:31.350620",
+    "timestamp": "2026-11-11T15:57:13.303052",
     "messages": [
         {
             "source": "twitter",
@@ -6501,6 +6501,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HW0XyZfakAAt2v3.jpg",
                 "https://pbs.twimg.com/media/HW0Xy4WaUAAAO89.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother sunset on @SuiNetwork\n\n\ud83e\udea6 @suiet_wallet\n\ud83c\udf07Sunsetting it's wallet\n\n\u26a0\ufe0fBackup ur seed words &amp; import it to other Sui wallet\n\n\ud83e\udd14Why sudden changes &amp; sunset in Sui economy? What do you think?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/3OCBBfiYmZ",
+            "translated_text": "\u2620\ufe0fSatu lagi 'sunset' di @SuiNetwork\n\n\ud83e\udea6 @suiet_wallet\n\ud83c\udf07Menutup dompetnya\n\n\u26a0\ufe0fSimpan 'seed words' korang dan pindahkan ke dompet Sui lain.\n\n\ud83e\udd14Kenapa tiba-tiba ada perubahan dan 'sunset' dalam ekosistem Sui? Apa pendapat korang?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/3OCBBfiYmZ",
+            "date": "Wed Nov 11 14:49:07 +0000 2026",
+            "message_id": "2120529260800803181",
+            "photos": [
+                "https://pbs.twimg.com/media/HW2iHyMaoAARDLp.jpg"
             ]
         }
     ]
