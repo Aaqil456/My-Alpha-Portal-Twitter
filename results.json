@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-12T06:21:58.011755",
+    "timestamp": "2026-11-12T16:39:25.834535",
     "messages": [
         {
             "source": "twitter",
@@ -6528,6 +6528,17 @@
             "photos": [
                 "https://pbs.twimg.com/media/HW5pnC3bkAA8Vwq.jpg"
             ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude05All this hype to launch another investing experience\n\n\u274cNo details on token or TGE",
+            "translated_text": "\ud83d\ude05Semua kecoh-kecoh ni semata-mata nak lancarkan lagi satu pengalaman melabur\n\n\u274cTak ada butiran tentang token atau TGE",
+            "date": "Thu Nov 12 14:39:58 +0000 2026",
+            "message_id": "2120889345028858197",
+            "photos": []
         }
     ]
 }
