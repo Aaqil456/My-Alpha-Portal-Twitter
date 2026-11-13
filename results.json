@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-12T16:39:25.834535",
+    "timestamp": "2026-11-13T05:42:25.389137",
     "messages": [
         {
             "source": "twitter",
@@ -6539,6 +6539,19 @@
             "date": "Thu Nov 12 14:39:58 +0000 2026",
             "message_id": "2120889345028858197",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83c\udf0bA Mega thread on how to apply for McDonald's job\n\n\ud83d\udc47\ud83e\uddf5 https://t.co/tULRDJU3ws",
+            "translated_text": "\ud83c\udf0bThread lengkap tentang macam mana nak mohon kerja di McDonald's.\n\n\ud83d\udc47\ud83e\uddf5 https://t.co/tULRDJU3ws",
+            "date": "Fri Nov 13 04:30:19 +0000 2026",
+            "message_id": "2121098310035603500",
+            "photos": [
+                "https://pbs.twimg.com/media/HW-nqQ3agAA3doH.jpg"
+            ]
         }
     ]
 }
