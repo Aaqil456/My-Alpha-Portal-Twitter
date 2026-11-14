@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-14T05:31:45.316403",
+    "timestamp": "2026-11-14T14:51:57.569298",
     "messages": [
         {
             "source": "twitter",
@@ -6575,6 +6575,19 @@
             "message_id": "2121435469154287825",
             "photos": [
                 "https://pbs.twimg.com/media/HXDaUFNbMAAlpQq.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0f Another day another exploit\n\n\ud83e\udea6 @KAVA_CHAIN\n\u26a0\ufe0fUnauthorized $KAVA bridged to BSC &amp; sold\n\n\ud83d\udcc9Price drop by 41%\n\ud83c\udfe6Project confirm it is not infinity mint glitch, it issue with Kava Lend\n\n\ud83e\udee0Exploit Season continues\n\ud83e\udd14Who's next?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/YyZG6f9AaI",
+            "translated_text": "\u2620\ufe0f Hari ni, ada lagi kes eksploitasi\n\ud83e\udea6 @KAVA_CHAIN\n\u26a0\ufe0f $KAVA yang tak dibenarkan dah dipindahkan ke BSC &amp; dijual\n\ud83d\udcc9 Harga dah turun 41%\n\ud83c\udfe6 Pihak projek sahkan bukan masalah 'infinity mint glitch', tapi ada isu dengan Kava Lend.\n\ud83e\udee0 Musim eksploitasi ni masih berlanjutan\n\ud83e\udd14 Siapa pula lepas ni?\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/YyZG6f9AaI",
+            "date": "Sat Nov 14 13:43:46 +0000 2026",
+            "message_id": "2121599978514911362",
+            "photos": [
+                "https://pbs.twimg.com/media/HXFv7vYaYAAAs8l.jpg"
             ]
         }
     ]
