@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-13T15:58:34.987510",
+    "timestamp": "2026-11-14T05:31:45.316403",
     "messages": [
         {
             "source": "twitter",
@@ -6563,6 +6563,19 @@
             "date": "Fri Nov 13 12:51:46 +0000 2026",
             "message_id": "2121224500499141100",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc9More dump..\n\n\ud83d\udd34 $BTC $67545\n\ud83d\udd34 $ETH $1900\n\ud83d\udd34 $SOL $75\n\ud83d\udd34 $BNB $624\n\n\ud83e\udd14Where do u think the bottom is?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/5vrClZIV9l",
+            "translated_text": "\ud83d\udcc9Terus merudum..\n\n\ud83d\udd34 $BTC $67545\n\ud83d\udd34 $ETH $1900\n\ud83d\udd34 $SOL $75\n\ud83d\udd34 $BNB $624\n\n\ud83e\udd14Agak-agak, mana paras terendah dia?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/5vrClZIV9l",
+            "date": "Sat Nov 14 02:50:04 +0000 2026",
+            "message_id": "2121435469154287825",
+            "photos": [
+                "https://pbs.twimg.com/media/HXDaUFNbMAAlpQq.jpg"
+            ]
         }
     ]
 }
