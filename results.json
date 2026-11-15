@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-14T14:51:57.569298",
+    "timestamp": "2026-11-15T05:29:52.207382",
     "messages": [
         {
             "source": "twitter",
@@ -6588,6 +6588,19 @@
             "message_id": "2121599978514911362",
             "photos": [
                 "https://pbs.twimg.com/media/HXFv7vYaYAAAs8l.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc9More dump..\n\n\ud83d\udd34 $BTC $62336\n\ud83d\udd34 $ETH $1727\n\ud83d\udd34 $SOL $67\n\ud83d\udd34 $BNB $569\n\n\ud83e\udd14Where do u think the bottom is?\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/l3yW8SLng1",
+            "translated_text": "\ud83d\udcc9Terus jatuh lagi..\n\n\ud83d\udd34 $BTC $62336\n\ud83d\udd34 $ETH $1727\n\ud83d\udd34 $SOL $67\n\ud83d\udd34 $BNB $569\n\n\ud83e\udd14Agak-agak mana bottom dia?\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/l3yW8SLng1",
+            "date": "Sun Nov 15 01:58:49 +0000 2026",
+            "message_id": "2121784959002439912",
+            "photos": [
+                "https://pbs.twimg.com/media/HXIYLC0bAAATXJV.jpg"
             ]
         }
     ]
