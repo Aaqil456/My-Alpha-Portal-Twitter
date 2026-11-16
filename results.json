@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-16T05:29:16.356416",
+    "timestamp": "2026-11-16T18:05:34.833589",
     "messages": [
         {
             "source": "twitter",
@@ -6628,6 +6628,19 @@
             "photos": [
                 "https://pbs.twimg.com/media/HXOG7S2aIAAdYeU.jpg",
                 "https://pbs.twimg.com/media/HXOG7pxbEAAtiCl.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother day another exploit\n\n\u26a0\ufe0f @Lighter_xyz posted an insident involving external party\n\u274cLighter is not exploited\n\n\u2705Looks like API keys of 2 major MM got compromised\n\u274cWithdrawal disabled temporarily\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/09MTqDun2e",
+            "translated_text": "\u2620\ufe0fHari lain, eksploitasi lain\n\n\u26a0\ufe0f @Lighter_xyz memuat naik insiden yang melibatkan pihak luar\n\u274cLighter tidak dieksploitasi\n\n\u2705Nampaknya kunci API 2 MM utama telah dikompromi\n\u274cPengeluaran dihentikan sementara\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/09MTqDun2e",
+            "date": "Mon Nov 16 12:04:37 +0000 2026",
+            "message_id": "2122299800574210456",
+            "photos": [
+                "https://pbs.twimg.com/media/HXPsajsacAAI-EZ.jpg"
             ]
         }
     ]
