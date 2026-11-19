@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-18T17:01:49.660391",
+    "timestamp": "2026-11-19T17:09:38.604022",
     "messages": [
         {
             "source": "twitter",
@@ -6680,6 +6680,19 @@
             "message_id": "2123066150296936795",
             "photos": [
                 "https://pbs.twimg.com/media/HXalWtuasAApuPZ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83e\udd14 1 @variational_io point =???\n\n\ud83e\ude99Airdrop Allocation - 32%\n\ud83d\udcc5Expected points by December ~11.3M \n\ud83d\udcc8Last round FDV - $1.5B\n\n\ud83d\udcb0So 1 point will be worth $42 worth of $VAR\n\ud83d\udcb0100 points = $4200 at last round FDV\n\n\ud83e\udd14But what do u think will be the listing FDV? More? \n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/QggnqncEjl",
+            "translated_text": "\ud83e\udd14 1 mata @variational_io =???\n\n\ud83e\ude99 Peruntukan Airdrop - 32%\n\ud83d\udcc5 Anggaran mata menjelang Disember ~11.3 Juta\n\ud83d\udcc8 FDV pusingan lepas - $1.5 Bilion\n\n\ud83d\udcb0 Jadi, 1 mata akan bernilai $42 dalam bentuk $VAR\n\ud83d\udcb0 100 mata = $4200 mengikut FDV pusingan lepas\n\n\ud83e\udd14 Tapi, pada pendapat anda, berapa agaknya FDV masa listing nanti? Lebih tinggi?\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/QggnqncEjl",
+            "date": "Thu Nov 19 12:39:54 +0000 2026",
+            "message_id": "2123395844741140959",
+            "photos": [
+                "https://pbs.twimg.com/media/HXfRQ1vaIAA8fnD.jpg"
             ]
         }
     ]
