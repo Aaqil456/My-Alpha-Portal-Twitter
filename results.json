@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-19T17:09:38.604022",
+    "timestamp": "2026-11-20T06:20:16.658819",
     "messages": [
         {
             "source": "twitter",
@@ -6693,6 +6693,19 @@
             "message_id": "2123395844741140959",
             "photos": [
                 "https://pbs.twimg.com/media/HXfRQ1vaIAA8fnD.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 @variational_io Pre-Market is live on @Lighter_xyz\n\n\ud83d\udcb5 $VAR - $1.42\n\ud83d\udcc8FDV - $1.42B\n\n\ud83d\udcc5week 49 of the Omni points distributed\n\ud83e\udd14How many points did u earn?\n\n\ud83d\udcb1Point value at premarket FDV - $40\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/nJT33jRQYb",
+            "translated_text": "\ud83d\udca5 @variational_io Pre-Market sudah bermula di @Lighter_xyz\n\n\ud83d\udcb5 $VAR - $1.42\n\ud83d\udcc8 FDV - $1.42B\n\n\ud83d\udcc5 Minggu ke-49 pengedaran Omni points\n\ud83e\udd14 Berapa banyak points anda dapat?\n\n\ud83d\udcb1 Nilai points pada FDV pre-market - $40\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/nJT33jRQYb",
+            "date": "Fri Nov 20 04:32:55 +0000 2026",
+            "message_id": "2123635677946634633",
+            "photos": [
+                "https://pbs.twimg.com/media/HXirY4VakAAgfF0.jpg"
             ]
         }
     ]
