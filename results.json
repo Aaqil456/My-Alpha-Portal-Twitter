@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-20T06:20:16.658819",
+    "timestamp": "2026-11-20T16:47:32.247250",
     "messages": [
         {
             "source": "twitter",
@@ -6706,6 +6706,19 @@
             "message_id": "2123635677946634633",
             "photos": [
                 "https://pbs.twimg.com/media/HXirY4VakAAgfF0.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udd34 $BTC below $60K https://t.co/fj7HTpaQLY",
+            "translated_text": "\ud83d\udd34 $BTC bawah $60 ribu https://t.co/fj7HTpaQLY",
+            "date": "Fri Nov 20 16:07:31 +0000 2026",
+            "message_id": "2123810480611541334",
+            "photos": [
+                "https://pbs.twimg.com/media/HXlKX6sboAA33sJ.jpg"
             ]
         }
     ]
