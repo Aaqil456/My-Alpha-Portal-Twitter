@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-20T16:47:32.247250",
+    "timestamp": "2026-11-21T21:34:24.990213",
     "messages": [
         {
             "source": "twitter",
@@ -6719,6 +6719,19 @@
             "message_id": "2123810480611541334",
             "photos": [
                 "https://pbs.twimg.com/media/HXlKX6sboAA33sJ.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01 Going to watch \"The Altruists\" this weekend\n\n\ud83e\udd14Have u watch this FTX love story?\n\ud83d\udc47If yes, Give ur feedback &amp; rating\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/QAZ972IZ5x",
+            "translated_text": "\ud83d\ude01 Nak tengok \"The Altruists\" hujung minggu ni\n\n\ud83e\udd14 Awak dah tengok ke kisah cinta FTX ni?\n\ud83d\udc47 Kalau ya, bagi maklum balas &amp; rating awak\n\n\ud83d\udc99 Suka\n\ud83d\udd01 RT https://t.co/QAZ972IZ5x",
+            "date": "Sat Nov 21 13:39:59 +0000 2026",
+            "message_id": "2124135740909252861",
+            "photos": [
+                "https://pbs.twimg.com/media/HXpyMgJboAAnCYB.jpg"
             ]
         }
     ]
