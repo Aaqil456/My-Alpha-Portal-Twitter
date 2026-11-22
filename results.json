@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-21T21:34:24.990213",
+    "timestamp": "2026-11-22T05:44:32.549433",
     "messages": [
         {
             "source": "twitter",
@@ -6732,6 +6732,20 @@
             "message_id": "2124135740909252861",
             "photos": [
                 "https://pbs.twimg.com/media/HXpyMgJboAAnCYB.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude09If u r trading on @arcus_xyz u must check this to earn additional rewards\n\n\ud83c\uddee\ud83c\uddf3 Arcus Indian community is running trading contest\n\ud83d\udcb0PnL contest - $5K pool\n\ud83d\udcb0Volume contest - $5K pool\n\n\ud83d\udc47Steps\n\ud83d\udd17  https://t.co/Hf6RN1XCwb\n\u2705Sign up &amp; get Perp access\n\u2705Have $500 or more in your https://t.co/aZ2546tObu",
+            "translated_text": "\ud83d\ude09Kalau awak berdagang di @arcus_xyz, awak kena tengok ni untuk dapat ganjaran tambahan.\n\n\ud83c\uddee\ud83c\uddf3Komuniti Arcus India sedang anjurkan pertandingan dagangan:\n\ud83d\udcb0Pertandingan PnL - hadiah terkumpul $5K\n\ud83d\udcb0Pertandingan Volume - hadiah terkumpul $5K\n\n\ud83d\udc47Langkah-langkah:\n\ud83d\udd17 https://t.co/Hf6RN1XCwb\n\u2705Daftar & dapatkan akses Perp\n\u2705Ada $500 atau lebih dalam akaun awak di https://t.co/aZ2546tObu",
+            "date": "Sun Nov 22 04:32:40 +0000 2026",
+            "message_id": "2124360392080298474",
+            "photos": [
+                "https://pbs.twimg.com/media/HXs-gnMacAAuADC.jpg",
+                "https://pbs.twimg.com/media/HXs-hAZawAA2brX.jpg"
             ]
         }
     ]
