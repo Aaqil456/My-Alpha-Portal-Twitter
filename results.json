@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-22T16:01:07.663961",
+    "timestamp": "2026-11-23T06:29:35.101944",
     "messages": [
         {
             "source": "twitter",
@@ -6759,6 +6759,26 @@
             "message_id": "2124475801395757460",
             "photos": [
                 "https://pbs.twimg.com/media/HXunetHbsAEd12p.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fHalfway through Netflix's The Altruists\n\n\ud83d\ude05They showed SBF and Caroline as good guys &amp; CZ as bad guy\n\n\ud83d\udde3\ufe0fAs per script, CZ gave idea to them to front run their own users to make money\n\n\u274cI don't believe any of this\n\u2705I respect CZ\n\n\ud83e\udd14Then I just checked the chart of all those https://t.co/mM2N6ep5lc",
+            "translated_text": "\u2620\ufe0fBaru separuh jalan tonton The Altruists di Netflix\n\n\ud83d\ude05Dia orang tunjuk SBF dengan Caroline sebagai orang baik & CZ sebagai orang jahat\n\n\ud83d\udde3\ufe0fIkut skrip, CZ bagi idea kat dia orang untuk 'front run' pengguna dia orang sendiri demi buat duit\n\n\u274cSaya tak percaya semua ni\n\u2705Saya hormat CZ\n\n\ud83e\udd14Lepas tu saya baru je check carta semua tu https://t.co/mM2N6ep5lc",
+            "date": "Mon Nov 23 04:30:38 +0000 2026",
+            "message_id": "2124722268806975941",
+            "photos": [
+                "https://pbs.twimg.com/media/HXyHlV6bAAAd5wv.jpg",
+                "https://pbs.twimg.com/media/HXyHlygbEAA1xrQ.jpg",
+                "https://pbs.twimg.com/media/HXyHmWfbAAAGG4E.jpg",
+                "https://pbs.twimg.com/media/HXyHm1LbUAAZsYL.jpg",
+                "https://pbs.twimg.com/media/HXyHnQgbwAA8pL8.jpg",
+                "https://pbs.twimg.com/media/HXyHn5ZbQAAYcSr.jpg",
+                "https://pbs.twimg.com/media/HXyHoXmbQAAXaVf.jpg",
+                "https://pbs.twimg.com/media/HXyHo6ZbUAEyZ3T.jpg"
             ]
         }
     ]
