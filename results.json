@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-26T07:27:15.378869",
+    "timestamp": "2026-11-26T18:13:07.050570",
     "messages": [
         {
             "source": "twitter",
@@ -6803,6 +6803,19 @@
             "message_id": "2125811765254697440",
             "photos": [
                 "https://pbs.twimg.com/amplify_video_thumb/2125811565387808768/img/yELJws9nkIIcEum8.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\ude01Update on @flop_labs\n\n\ud83e\ude99Successfully received 10 Testnet $FLOP\n\n\ud83d\udcc5Yesterday it was not visible\n\u2705Now I can see them on blockchain\n\n\ud83d\ude09So faucet is working\n\u2705Just claim &amp; check next day\n\n\ud83d\udcb0Accumulate test tokens\n\ud83d\ude47Wait for agent to go live\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/rswoz6FGVY",
+            "translated_text": "\ud83d\ude01Update dari @flop_labs\n\n\ud83e\ude99Dah berjaya terima 10 Testnet $FLOP\n\n\ud83d\udcc5Semalam tak nampak\n\u2705Sekarang dah boleh nampak dekat blockchain\n\n\ud83d\ude09Jadi faucet berfungsi\n\u2705Claim je &amp; check esok\n\n\ud83d\udcb0Kumpul test token\n\ud83d\ude47Tunggu agent live\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/rsroz6FGVY",
+            "date": "Thu Nov 26 12:55:48 +0000 2026",
+            "message_id": "2125936557857378596",
+            "photos": [
+                "https://pbs.twimg.com/media/HYDYB7Yb0AEMJOq.jpg"
             ]
         }
     ]
