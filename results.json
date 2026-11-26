@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-24T08:59:24.290882",
+    "timestamp": "2026-11-26T07:27:15.378869",
     "messages": [
         {
             "source": "twitter",
@@ -6791,6 +6791,19 @@
             "date": "Tue Nov 24 04:32:01 +0000 2026",
             "message_id": "2125085004606967883",
             "photos": []
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udca5 Simple guide on @flop_labs wallet &amp; faucet\n\n\ud83e\udd1f3 ways to farm Testnet\n\u2733\ufe0f Miner\n\u2733\ufe0f Validator\n\u2733\ufe0f Agent\n\n \ud83d\udcb8Both Miner &amp; validator need higher cost compared to agent\n\u274cBut agent is not live yet\n\n\u2705u can setup wallet &amp; claim faucet &amp; accumulate test tokens daily\n\ud83d\udcb1Once agent is https://t.co/KpjciULYaI",
+            "translated_text": "\ud83d\udca5 Panduan ringkas tentang @flop_labs wallet & faucet\n\n\ud83e\udd1f 3 cara untuk farm Testnet\n\u2733\ufe0f Miner\n\u2733\ufe0f Validator\n\u2733\ufe0f Agent\n\n\ud83d\udcb8 Kedua-dua Miner & validator perlukan kos lebih tinggi berbanding agent\n\u274c Tapi agent belum live lagi\n\n\u2705 Anda boleh setup wallet & claim faucet & kumpul test token setiap hari\n\ud83d\udcb1 Bila agent dah https://t.co/KpjciULYaI",
+            "date": "Thu Nov 26 04:39:55 +0000 2026",
+            "message_id": "2125811765254697440",
+            "photos": [
+                "https://pbs.twimg.com/amplify_video_thumb/2125811565387808768/img/yELJws9nkIIcEum8.jpg"
+            ]
         }
     ]
 }
