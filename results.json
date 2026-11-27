@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-26T18:13:07.050570",
+    "timestamp": "2026-11-27T17:55:38.174198",
     "messages": [
         {
             "source": "twitter",
@@ -6816,6 +6816,19 @@
             "message_id": "2125936557857378596",
             "photos": [
                 "https://pbs.twimg.com/media/HYDYB7Yb0AEMJOq.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\u2620\ufe0fAnother day another Shutdown\n\n\ud83e\udea6 @bluefinapp\n\ud83d\udcb1Perp on Sui shutting down\n\n\ud83d\udcc5If u have any positions, close &amp; withdraw funds\n\n\ud83e\udee0Shutdown season continues\n\n\ud83d\udc99Like\n\ud83d\udd01RT https://t.co/XyMyFL6IZl",
+            "translated_text": "\u2620\ufe0fSatu lagi hari, satu lagi penutupan\n\n\ud83e\udea6 @bluefinapp\n\ud83d\udcb1Perp di Sui akan ditutup\n\n\ud83d\udcc5Kalau ada sebarang posisi, tutup dan keluarkan dana\n\n\ud83e\udee0Musim penutupan berterusan\n\n\ud83d\udc99Suka\n\ud83d\udd01RT https://t.co/XyMyFL6IZl",
+            "date": "Fri Nov 27 10:52:54 +0000 2026",
+            "message_id": "2126268017747345775",
+            "photos": [
+                "https://pbs.twimg.com/media/HYIFfNXa0AAIieS.jpg"
             ]
         }
     ]
