@@ -1,5 +1,5 @@
 {
-    "timestamp": "2026-11-27T17:55:38.174198",
+    "timestamp": "2026-11-28T06:54:38.470134",
     "messages": [
         {
             "source": "twitter",
@@ -6829,6 +6829,19 @@
             "message_id": "2126268017747345775",
             "photos": [
                 "https://pbs.twimg.com/media/HYIFfNXa0AAIieS.jpg"
+            ]
+        },
+        {
+            "source": "twitter",
+            "channel_link": "https://x.com/CryptoTeluguO",
+            "channel_type": "crypto info twitter",
+            "twitter_username": "CryptoTeluguO",
+            "original_text": "\ud83d\udcc9 $WLFI 56% dump in 2hrs\n\n\ud83e\udd14Who is suddenly dumping @worldlibertyfi https://t.co/wxY9ja9I7A",
+            "translated_text": "\ud83d\udcc9 $WLFI jatuh mendadak 56% dalam 2 jam.\n\n\ud83e\udd14Siapa yang tiba-tiba menjual banyak @worldlibertyfi? https://t.co/wxY9ja9I7A",
+            "date": "Sat Nov 28 06:08:55 +0000 2026",
+            "message_id": "2126558940649631842",
+            "photos": [
+                "https://pbs.twimg.com/media/HYMOFZEbUAANXfd.jpg"
             ]
         }
     ]
